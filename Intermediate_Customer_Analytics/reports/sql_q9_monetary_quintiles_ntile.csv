@@ -1,0 +1,6 @@
+tier_rank,spend_tier_name,customer_count,tier_total_revenue,min_tier_spend,max_tier_spend,avg_tier_spend
+1,Tier 1: Top 20% Spenders (Platinum VIP),170,183292.26,643.5,2522.66,1078.19
+2,Tier 2: High Spenders (Gold),170,78390.25,320.5,639.0,461.12
+3,Tier 3: Moderate Spenders (Silver),170,38734.36,155.99,319.96,227.85
+4,Tier 4: Low Spenders (Bronze),170,18778.46,71.2,155.85,110.46
+5,Tier 5: Minimum Spenders (Entry),170,7858.21,22.8,70.5,46.22

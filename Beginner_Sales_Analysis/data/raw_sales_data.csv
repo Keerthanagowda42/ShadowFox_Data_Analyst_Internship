@@ -1,0 +1,1271 @@
+Order ID,Order Date,Product,Category,Quantity,Unit Price,Sales,Cost,Profit,Region,Payment Method
+ORD-2024-2215,08/21/2024,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,East,Bank Transfer
+ORD-2024-2162,2024-05-30,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,West,Debit Card
+ORD-2024-1423,2024-10-13,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,East,Credit Card
+ORD-2024-1977,2024-01-13,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,Central,PayPal
+ORD-2024-1794,2024-06-30,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,North,Cash on Delivery
+ORD-2024-1786,2024-05-06,Ceramic Coffee Mug Set,Home & Kitchen,4,24.0,96.0,40.0,56.0,North,Credit Card
+ORD-2024-1024,2024-11-23,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,Central,Debit Card
+ORD-2024-1406,2024-09-28,Noise-Cancelling Headphones,ELECTRONICS,4,149.99,599.96,300.0,299.96,West,Bank Transfer
+ORD-2024-1044,2024-03-19,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,South,Cash on Delivery
+ORD-2024-1583,2024-08-13,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,West,Bank Transfer
+ORD-2024-2136,2024-01-15,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,North,Debit Card
+ORD-2024-1554,2024-05-28,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,East,Debit Card
+ORD-2024-2076,2024-05-01,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,North,Bank Transfer
+ORD-2024-1309,2024-01-24,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,North,PayPal
+ORD-2024-1383,2024-12-01,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,Central,Debit Card
+ORD-2024-1784,2024-08-09,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,Central,Bank Transfer
+ORD-2024-1491,2024-01-28,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,Central,PayPal
+ORD-2024-1079,2024-12-04,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,West,Debit Card
+ORD-2024-2142,2024-04-24,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,Central,PayPal
+ORD-2024-1611,2024-12-31,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West,Cash on Delivery
+ORD-2024-1534,2024-01-22,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,East,Cash on Delivery
+ORD-2024-1410,2024-03-21,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,Credit Card
+ORD-2024-1542,2024-12-13,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,East,PayPal
+ORD-2024-1924,2024-03-04, Heavy-Duty Paper Shredder ,Office Supplies,3,79.99,239.97,126.0,113.97,West,
+ORD-2024-1629,2024-04-16,Gel Ink Pens (12-pack),office supplies,1,12.99,12.99,4.2,8.79,East,Bank Transfer
+ORD-2024-1846,2024-01-15,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,Central,Debit Card
+ORD-2024-1347,2024-03-12,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,PayPal
+ORD-2024-1918,2024-03-11,Standing Desk Converter,furniture,4,189.5,758.0,420.0,338.0,South,Debit Card
+ORD-2024-2119,2024-04-26,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Bank Transfer
+ORD-2024-1935,2024-07-17,LED Desk Lamp,home & kitchen,1,34.99,34.99,16.0,18.99,Central,Bank Transfer
+ORD-2024-1462,2024-05-25, USB-C Multiport Hub ,Electronics,2,39.99,79.98,36.0,43.98,Central,
+ORD-2024-1425,2024-01-10,Mesh Desk Organizer,office supplies,1,18.75,18.75,7.5,11.25,North,PayPal
+ORD-2024-1922,2024-07-29,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,West,Debit Card
+ORD-2024-1533,2024-12-19,Mesh Desk Organizer,Office Supplies,8,18.75,150.0,60.0,90.0,East,Bank Transfer
+ORD-2024-1124,2024-01-13,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,South ,Bank Transfer
+ORD-2024-1169,2024-10-04,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,West,Credit Card
+ORD-2024-1328,2024-11-21,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,Central,PayPal
+ORD-2024-1345,11/08/2024,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,North,Bank Transfer
+ORD-2024-1494,2024-12-31,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,east,Debit Card
+ORD-2024-2068,2024-02-07,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South,Bank Transfer
+ORD-2024-1618,2024-06-18,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,Bank Transfer
+ORD-2024-1723,2024-01-30,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Bank Transfer
+ORD-2024-1209,2024-06-21,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,west,PayPal
+ORD-2024-1372,2024-10-30,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,West ,Cash on Delivery
+ORD-2024-1535,2024-08-10,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,North,Credit Card
+ORD-2024-1064,2024-08-30,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,Bank Transfer
+ORD-2024-2074,2024-04-15,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,Cash on Delivery
+ORD-2024-1590,2024-05-28,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,Central,Bank Transfer
+ORD-2024-1937,2024-02-07,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,Central,Credit Card
+ORD-2024-2031,2024-10-21,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,West,PayPal
+ORD-2024-2167,2024-05-13,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,East,Bank Transfer
+ORD-2024-1102,2024-03-20,USB-C Multiport Hub,electronics,2,39.99,79.98,36.0,43.98,East,Cash on Delivery
+ORD-2024-1529,08-08-2024,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,South,Cash on Delivery
+ORD-2024-2240,2024-08-28,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,West ,Debit Card
+ORD-2024-1672,2024-12-20, Noise-Cancelling Headphones ,Electronics,5,149.99,749.95,375.0,374.95,North,Credit Card
+ORD-2024-2231,2024-09-06,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,West,Bank Transfer
+ORD-2024-1175,2024-04-22,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,South,PayPal
+ORD-2024-2204,2024-08-02,LED Desk Lamp,Home & Kitchen,1,$34.99,34.99,16.0,18.99,North,Cash on Delivery
+ORD-2024-1052,2024-05-15,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,Central,Bank Transfer
+ORD-2024-1234,2024-06-23,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,North,PayPal
+ORD-2024-1713,12-06-2024,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,Central ,PayPal
+ORD-2024-1436,2024-09-18,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,East,PayPal
+ORD-2024-1623,2024-07-13,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,South,Credit Card
+ORD-2024-1219,2024-12-05,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,East,Bank Transfer
+ORD-2024-1975,09/09/2024,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,South,Cash on Delivery
+ORD-2024-1368,14-06-2024,Wireless Mouse,Electronics,4,25.99,103.96,50.0,53.96,South,PayPal
+ORD-2024-1082,2024-06-09,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,Cash on Delivery
+ORD-2024-1077,2024-07-13,Wireless Mouse,Electronics,3,25.99,77.97,37.5,40.47,West,PayPal
+ORD-2024-1753,2024-04-21,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,West,PayPal
+ORD-2024-1082,2024-06-09,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,Cash on Delivery
+ORD-2024-1544,2024-03-11,Gel Ink Pens (12-pack),office supplies,2,12.99,25.98,8.4,17.58,East,Bank Transfer
+ORD-2024-1290,2024-10-02,Mesh Desk Organizer,OFFICE SUPPLIES,2,18.75,37.5,15.0,22.5,East,PayPal
+ORD-2024-1059,2024-02-06,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,North,Debit Card
+ORD-2024-1310,2024-07-02,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West ,Debit Card
+ORD-2024-1946,2024-11-20,Stainless Steel Water Bottle,Home & Kitchen,1,$19.99,19.99,8.5,11.49,North,PayPal
+ORD-2024-1585,06/09/2024,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,East,PayPal
+ORD-2024-2084,2024-02-16,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,Central,Bank Transfer
+ORD-2024-1766,2024-10-09,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,North,Credit Card
+ORD-2024-1050,2024-09-29,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,South,Debit Card
+ORD-2024-1193,2024-03-24,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,North,Cash on Delivery
+ORD-2024-1891,2024-10-22,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,East,
+ORD-2024-1573,2024-09-30,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,Central,Debit Card
+ORD-2024-1199,2024-06-26,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,West,PayPal
+ORD-2024-1472,2024-02-09,USB-C Multiport Hub,Electronics,5,39.99,199.95,90.0,109.95,North,Cash on Delivery
+ORD-2024-1416,2024-09-26,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,East,Credit Card
+ORD-2024-1364,2024-05-21,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,South,Debit Card
+ORD-2024-2177,2024-05-20,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,South,Cash on Delivery
+ORD-2024-2009,2024-02-03,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,Debit Card
+ORD-2024-2206,2024-02-24,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,South,Cash on Delivery
+ORD-2024-2056,2024-05-01,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,
+ORD-2024-1853,2024-11-23,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,Central,Bank Transfer
+ORD-2024-1343,2024-12-11,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,Credit Card
+ORD-2024-1807,2024-06-17,Mesh Desk Organizer,Office Supplies,4,18.75,75.0,30.0,45.0,East,Bank Transfer
+ORD-2024-1992,2024-04-13,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,Central ,Credit Card
+ORD-2024-1988,2024-12-05,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,south,PayPal
+ORD-2024-1129,2024-10-24,USB-C Multiport Hub,Electronics,1,$39.99,39.99,18.0,21.99,North,Credit Card
+ORD-2024-1260,2024-05-08,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,North,Debit Card
+ORD-2024-1414,19-09-2024,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,East,Bank Transfer
+ORD-2024-1197,2024-02-22,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,East,Cash on Delivery
+ORD-2024-1283,2024-09-04,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,South,Bank Transfer
+ORD-2024-1454,2024-02-01,Mesh Desk Organizer,Office Supplies,4,18.75,75.0,30.0,45.0,North,PayPal
+ORD-2024-2094,2024-04-30,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,East,Credit Card
+ORD-2024-1840,01/12/2024, LED Desk Lamp ,Home & Kitchen,2,34.99,69.98,32.0,37.98,East,Credit Card
+ORD-2024-1707,2024-05-03,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,North,Credit Card
+ORD-2024-1812,2024-05-04,Ergonomic Office Chair,FURNITURE,3,229.0,687.0,390.0,297.0,West,PayPal
+ORD-2024-2245,08/23/2024,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,Central,Bank Transfer
+ORD-2024-1486,2024-10-10,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,North,Cash on Delivery
+ORD-2024-1045,09/28/2024,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,North,Cash on Delivery
+ORD-2024-2199,2024-07-13,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,Central,PayPal
+ORD-2024-1221,2024-10-08,Ergonomic Office Chair,furniture,2,229.0,458.0,260.0,198.0,East,Bank Transfer
+ORD-2024-1030,03/12/2024,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,Central,Cash on Delivery
+ORD-2024-1032,2024-10-25,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,East,Debit Card
+ORD-2024-1375,09/02/2024,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,West,Bank Transfer
+ORD-2024-2043,2024-02-26,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,Central,PayPal
+ORD-2024-1463,2024-06-19,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,Central,Debit Card
+ORD-2024-1701,2024-03-06,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,South,Credit Card
+ORD-2024-1087,2024-10-23,Heavy-Duty Paper Shredder,OFFICE SUPPLIES,2,79.99,159.98,84.0,75.98,North,Cash on Delivery
+ORD-2024-1299,21-02-2024,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,West,Credit Card
+ORD-2024-1307,2024-02-16,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,North,Credit Card
+ORD-2024-1911,2024-01-01,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,West,Credit Card
+ORD-2024-2140,12/15/2024,Wireless Mouse,Electronics,3,25.99,77.97,37.5,40.47,west,Debit Card
+ORD-2024-1071,2024-05-22,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,South,Credit Card
+ORD-2024-1353,2024-07-27,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,North,PayPal
+ORD-2024-2191,2024-07-25,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,South,Debit Card
+ORD-2024-1598,10-09-2024,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,West,PayPal
+ORD-2024-1156,2024-08-25,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,Central,Debit Card
+ORD-2024-1926,2024-05-21,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,Debit Card
+ORD-2024-1813,2024-07-20,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,North,Cash on Delivery
+ORD-2024-1391,11-10-2024,Wireless Mouse,electronics,5,25.99,129.95,62.5,67.45,Central,Cash on Delivery
+ORD-2024-1576,2024-10-15,Wireless Mouse,Electronics,4,25.99,103.96,50.0,53.96,North,Credit Card
+ORD-2024-1304,2024-06-11,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,west,Cash on Delivery
+ORD-2024-1971,2024-06-08,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,North,Cash on Delivery
+ORD-2024-2014,2024-06-30,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,South,PayPal
+ORD-2024-1114,2024-07-02,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,south,Credit Card
+ORD-2024-1287,2024-09-16,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,North,PayPal
+ORD-2024-1528,2024-02-12,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,
+ORD-2024-2171,2024-09-28,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,West,Credit Card
+ORD-2024-1912,2024-03-08,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,south,Cash on Delivery
+ORD-2024-1108,2024-03-23,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,West,Cash on Delivery
+ORD-2024-1987,2024-10-30, Heavy-Duty Paper Shredder ,Office Supplies,2,79.99,159.98,84.0,75.98,North,Bank Transfer
+ORD-2024-2012,20-10-2024,Standing Desk Converter,Furniture,5,189.5,947.5,525.0,422.5,West,Bank Transfer
+ORD-2024-1662,2024-06-18,HD Webcam 1080p,Electronics,5,54.5,272.5,140.0,132.5,West,PayPal
+ORD-2024-2170,04/09/2024,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,North,Bank Transfer
+ORD-2024-1835,2024-03-13,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,East,PayPal
+ORD-2024-1200,2024-02-05,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,East,Credit Card
+ORD-2024-1463,2024-06-19,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,Central,Debit Card
+ORD-2024-1702,2024-01-12,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,West,Cash on Delivery
+ORD-2024-1763,2024-08-23,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,South,Debit Card
+ORD-2024-1709,2024-12-10,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,North,Debit Card
+ORD-2024-1606,2024-03-01,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,North,Bank Transfer
+ORD-2024-2147,2024-10-26,Mechanical Keyboard,  Electronics  ,3,89.99,269.97,135.0,134.97,North ,Cash on Delivery
+ORD-2024-1313,2024-03-30,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,Central,Bank Transfer
+ORD-2024-1799,2024-03-27,HD Webcam 1080p,electronics,2,54.5,109.0,56.0,53.0,East,PayPal
+ORD-2024-1514,2024-05-03,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,North,Cash on Delivery
+ORD-2024-1210,04/03/2024, Mesh Desk Organizer ,Office Supplies,1,18.75,18.75,7.5,11.25,South,PayPal
+ORD-2024-1972,2024-08-21,Wireless Mouse,Electronics,4,25.99,103.96,50.0,53.96,East,Debit Card
+ORD-2024-1211,2024-05-12,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,East,Cash on Delivery
+ORD-2024-1055,2024-08-12,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,Central,Bank Transfer
+ORD-2024-1271,2024-06-14,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,West,Cash on Delivery
+ORD-2024-2093,2024-10-01,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,West,Cash on Delivery
+ORD-2024-1057,2024-06-22,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,central,Cash on Delivery
+ORD-2024-1110,2024-02-27,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,South,Cash on Delivery
+ORD-2024-1241,2024-08-18,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,West,PayPal
+ORD-2024-1635,2024-05-27,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,South,Bank Transfer
+ORD-2024-1530,2024-05-30,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,North,Credit Card
+ORD-2024-1637,2024-05-20,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,North,Cash on Delivery
+ORD-2024-1443,2024-06-14,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,East,Debit Card
+ORD-2024-2154,2024-11-03,Standing Desk Converter,Furniture,3,189.5,568.5,315.0,253.5,East,Debit Card
+ORD-2024-1772,2024-10-05,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,North,Debit Card
+ORD-2024-1603,2024-07-04,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,East,Credit Card
+ORD-2024-1351,2024-10-27,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,South,Bank Transfer
+ORD-2024-1683,2024-02-01,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,Central,Cash on Delivery
+ORD-2024-1746,2024-09-07,Ceramic Coffee Mug Set,Home & Kitchen,4,24.0,96.0,40.0,56.0,West,Bank Transfer
+ORD-2024-1295,2024-06-11,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,Bank Transfer
+ORD-2024-1482,2024-08-24,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,East,Bank Transfer
+ORD-2024-2082,2024-08-30,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,North,PayPal
+ORD-2024-1917,2024-02-22,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,PayPal
+ORD-2024-1523,2024-07-01,LED Desk Lamp,Home & Kitchen,5,34.99,174.95,80.0,94.95,North,PayPal
+ORD-2024-1716,2024-02-01,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,Central,Debit Card
+ORD-2024-1552,15-12-2024,LED Desk Lamp,Home & Kitchen,5,34.99,174.95,80.0,94.95,East,PayPal
+ORD-2024-2138,2024-11-27,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,South,PayPal
+ORD-2024-2221,2024-05-17,Smart Surge Protector,  Electronics  ,4,29.99,119.96,56.0,63.96,North,
+ORD-2024-1650,2024-11-30,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,West,Bank Transfer
+ORD-2024-2133,2024-08-16,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,Cash on Delivery
+ORD-2024-1894,2024-08-20,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,Cash on Delivery
+ORD-2024-1171,2024-10-26,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,north,Cash on Delivery
+ORD-2024-1291,2024-10-09,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,Bank Transfer
+ORD-2024-1644,25-02-2024,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,Central,Debit Card
+ORD-2024-1817,2024-05-29,LED Desk Lamp,Home & Kitchen,2,$34.99,69.98,32.0,37.98,north,Bank Transfer
+ORD-2024-2129,2024-01-26,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Debit Card
+ORD-2024-1600,03/09/2024,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,PayPal
+ORD-2024-1667,08-12-2024,Mechanical Keyboard,ELECTRONICS,1,89.99,89.99,45.0,44.99,South,Debit Card
+ORD-2024-2036,2024-09-09,Gel Ink Pens (12-pack),  Office Supplies  ,2,12.99,25.98,8.4,17.58,East,Debit Card
+ORD-2024-1946,2024-11-20,Stainless Steel Water Bottle,Home & Kitchen,1,$19.99,19.99,8.5,11.49,North,PayPal
+ORD-2024-1465,10/31/2024,Ceramic Coffee Mug Set,Home & Kitchen,5,24.0,120.0,50.0,70.0,North ,PayPal
+ORD-2024-1448,2024-01-30,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,East,Credit Card
+ORD-2024-2150,01-06-2024,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,North,Bank Transfer
+ORD-2024-1858,2024-03-01,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,East,
+ORD-2024-1262,2024-01-11,Stainless Steel Water Bottle,Home & Kitchen,5,19.99,99.95,42.5,57.45,East,Cash on Delivery
+ORD-2024-1232,2024-02-22,LED Desk Lamp,HOME & KITCHEN,2,34.99,69.98,32.0,37.98,North,Cash on Delivery
+ORD-2024-2037,2024-09-08,Wireless Mouse,electronics,1,25.99,25.99,12.5,13.49,North,Credit Card
+ORD-2024-2140,12/15/2024,Wireless Mouse,Electronics,3,25.99,77.97,37.5,40.47,west,Debit Card
+ORD-2024-1011,2024-06-21,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,North,Bank Transfer
+ORD-2024-1148,2024-02-17,LED Desk Lamp,  Home & Kitchen  ,2,34.99,69.98,32.0,37.98,South,PayPal
+ORD-2024-1297,2024-01-19,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,Central,
+ORD-2024-2233,2024-01-07,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,Central,Cash on Delivery
+ORD-2024-2218,2024-02-29, Mechanical Keyboard ,ELECTRONICS,2,89.99,179.98,90.0,89.98,North,Credit Card
+ORD-2024-1334,2024-10-03,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Cash on Delivery
+ORD-2024-1999,2024-02-16,Ceramic Coffee Mug Set,  Home & Kitchen  ,4,24.0,96.0,40.0,56.0,South,PayPal
+ORD-2024-1549,2024-04-19,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,East,Bank Transfer
+ORD-2024-1775,2024-06-02,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,Central ,Debit Card
+ORD-2024-1298,2024-06-18,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,North,Bank Transfer
+ORD-2024-1875,2024-07-06,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,North,Bank Transfer
+ORD-2024-2071,2024-09-04, Ceramic Coffee Mug Set ,home & kitchen,1,24.0,24.0,10.0,14.0,North,Bank Transfer
+ORD-2024-1333,2024-07-31,HD Webcam 1080p,  Electronics  ,1,54.5,54.5,28.0,26.5,South,Debit Card
+ORD-2024-1412,2024-12-04,Standing Desk Converter,Furniture,6,189.5,1137.0,630.0,507.0,West,Cash on Delivery
+ORD-2024-2237,2024-06-26,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,West,Debit Card
+ORD-2024-1245,2024-12-04,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,South,Debit Card
+ORD-2024-1755,2024-12-03,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,Credit Card
+ORD-2024-2002,2024-07-26,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,West,Cash on Delivery
+ORD-2024-1136,2024-11-15,Ergonomic Office Chair,furniture,2,229.0,458.0,260.0,198.0,North,PayPal
+ORD-2024-1651,2024-11-29, Noise-Cancelling Headphones ,Electronics,1,149.99,149.99,75.0,74.99,East ,PayPal
+ORD-2024-1808,2024-11-29,Heavy-Duty Paper Shredder,Office Supplies,5,79.99,399.95,210.0,189.95,South,PayPal
+ORD-2024-1747,2024-03-27,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,East,Debit Card
+ORD-2024-2099,2024-04-08,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,North,Bank Transfer
+ORD-2024-1428,2024-02-28,Standing Desk Converter,Furniture,4,189.5,758.0,420.0,338.0,North,PayPal
+ORD-2024-1595,2024-01-12,Mechanical Keyboard,electronics,4,89.99,359.96,180.0,179.96,West,Cash on Delivery
+ORD-2024-1679,2024-10-02,Stainless Steel Water Bottle,Home & Kitchen,5,19.99,99.95,42.5,57.45,South,Debit Card
+ORD-2024-1939,2024-01-31,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,West,Cash on Delivery
+ORD-2024-1159,2024-06-11,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,West,Cash on Delivery
+ORD-2024-1141,2024-10-18,USB-C Multiport Hub,Electronics,5,39.99,199.95,90.0,109.95,West,Cash on Delivery
+ORD-2024-1248,2024-08-28,USB-C Multiport Hub,Electronics,5,39.99,199.95,90.0,109.95,North ,Debit Card
+ORD-2024-1329,2024-12-13,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,South,Credit Card
+ORD-2024-2236,2024-08-09,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,South,Bank Transfer
+ORD-2024-1696,2024-03-10,Stainless Steel Water Bottle,HOME & KITCHEN,2,19.99,39.98,17.0,22.98,West,PayPal
+ORD-2024-2101,2024-11-17,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,Central,PayPal
+ORD-2024-2213,2024-03-17,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,Central,Credit Card
+ORD-2024-1356,2024-11-26,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,North,Bank Transfer
+ORD-2024-1066,2024-06-30,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,West,
+ORD-2024-1571,2024-05-08,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,Central,PayPal
+ORD-2024-1773,2024-06-10,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,South,Cash on Delivery
+ORD-2024-1255,10/18/2024,Smart Surge Protector,electronics,1,29.99,29.99,14.0,15.99,East,Bank Transfer
+ORD-2024-2223,2024-07-23,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,Bank Transfer
+ORD-2024-1589,2024-05-06,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,north,Credit Card
+ORD-2024-1382,2024-11-05,Standing Desk Converter,Furniture,3,189.5,568.5,315.0,253.5,North,Credit Card
+ORD-2024-1097,2024-08-12,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,Central,PayPal
+ORD-2024-1185,2024-08-03,USB-C Multiport Hub,  Electronics  ,1,39.99,39.99,18.0,21.99,North,Bank Transfer
+ORD-2024-1332,2024-03-08,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,East,PayPal
+ORD-2024-2179,2024-11-10,Standing Desk Converter,Furniture,4,189.5,758.0,420.0,338.0,West,Bank Transfer
+ORD-2024-1164,2024-08-13,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,East,Debit Card
+ORD-2024-1487,2024-03-04,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,North,Debit Card
+ORD-2024-1627,2024-09-13,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,central,
+ORD-2024-1222,2024-05-18,USB-C Multiport Hub,  Electronics  ,2,39.99,79.98,36.0,43.98,East,Debit Card
+ORD-2024-1244,2024-04-16,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,South,PayPal
+ORD-2024-1033,2024-03-11,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,
+ORD-2024-1157,2024-03-03,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,South,Bank Transfer
+ORD-2024-2159,2024-12-31,Noise-Cancelling Headphones,Electronics,5,149.99,749.95,375.0,374.95,central,Bank Transfer
+ORD-2024-2151,2024-02-02,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,East,PayPal
+ORD-2024-1278,2024-11-18,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,South,Debit Card
+ORD-2024-1768,2024-08-10,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,East,Cash on Delivery
+ORD-2024-2178,2024-03-22,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,north,Debit Card
+ORD-2024-2158,2024-12-28,Heavy-Duty Paper Shredder,Office Supplies,5,79.99,399.95,210.0,189.95,South,PayPal
+ORD-2024-1366,2024-12-04,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,North,Debit Card
+ORD-2024-2059,2024-05-07,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,North,PayPal
+ORD-2024-1266,2024-02-16,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,east,Bank Transfer
+ORD-2024-1276,08-03-2024,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,East,Bank Transfer
+ORD-2024-1814,2024-04-12,Heavy-Duty Paper Shredder,  Office Supplies  ,4,79.99,319.96,168.0,151.96,Central,Debit Card
+ORD-2024-1738,2024-08-26,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,West,PayPal
+ORD-2024-2050,07/12/2024, USB-C Multiport Hub ,Electronics,1,39.99,39.99,18.0,21.99,East,Debit Card
+ORD-2024-1622,2024-09-02,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,Central,Cash on Delivery
+ORD-2024-1579,2024-11-12,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,North,Bank Transfer
+ORD-2024-1568,2024-09-22,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Debit Card
+ORD-2024-1920,08-11-2024,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,South,Bank Transfer
+ORD-2024-1179,2024-09-30,Wireless Mouse,Electronics,4,25.99,103.96,50.0,53.96,West,Cash on Delivery
+ORD-2024-1424,2024-07-22,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,North,Bank Transfer
+ORD-2024-1968,2024-07-09,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,Central,Credit Card
+ORD-2024-2000,2024-07-21,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,North,PayPal
+ORD-2024-2175,2024-09-06,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,South,PayPal
+ORD-2024-1859,2024-04-03,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,South,Cash on Delivery
+ORD-2024-1089,2024-09-24,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,East,Debit Card
+ORD-2024-1669,2024-05-13,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,Bank Transfer
+ORD-2024-2047,2024-11-28,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South,Cash on Delivery
+ORD-2024-1429,2024-03-28,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,
+ORD-2024-1478,2024-12-12,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,South,Bank Transfer
+ORD-2024-1913,2024-12-14,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,North,Credit Card
+ORD-2024-2125,06/08/2024,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,Central,Bank Transfer
+ORD-2024-1286,2024-05-21,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,West,PayPal
+ORD-2024-2203,2024-05-18,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,Central,Debit Card
+ORD-2024-1359,2024-01-11,Wireless Mouse,Electronics,4,25.99,103.96,50.0,53.96,East,Debit Card
+ORD-2024-1267,2024-06-19,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,North,Debit Card
+ORD-2024-1060,02/04/2024,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,North,PayPal
+ORD-2024-1498,2024-01-10,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,South,Debit Card
+ORD-2024-1782,20-11-2024,USB-C Multiport Hub,electronics,2,39.99,79.98,36.0,43.98,West,Bank Transfer
+ORD-2024-2114,2024-11-07,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,West,Credit Card
+ORD-2024-1439,2024-03-29,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,South,Credit Card
+ORD-2024-1381,2024-09-28,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,West,Cash on Delivery
+ORD-2024-1515,2024-06-19,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,North,PayPal
+ORD-2024-1797,2024-02-13,Ceramic Coffee Mug Set,Home & Kitchen,4,24.0,96.0,40.0,56.0,Central,Debit Card
+ORD-2024-1680,2024-12-14,Stainless Steel Water Bottle,home & kitchen,5,19.99,99.95,42.5,57.45,Central,Credit Card
+ORD-2024-2103,2024-07-17,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,West,Cash on Delivery
+ORD-2024-1740,2024-01-24,Heavy-Duty Paper Shredder,  Office Supplies  ,1,79.99,79.99,42.0,37.99,South,Debit Card
+ORD-2024-1480,09/30/2024,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,East,Bank Transfer
+ORD-2024-1378,2024-11-07, HD Webcam 1080p ,Electronics,1,54.5,54.5,28.0,26.5,North,Debit Card
+ORD-2024-1084,2024-01-30, Gel Ink Pens (12-pack) ,Office Supplies,1,12.99,12.99,4.2,8.79,North,Debit Card
+ORD-2024-1130,2024-11-01,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,East,PayPal
+ORD-2024-1757,2024-01-09,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,East,Cash on Delivery
+ORD-2024-1719,2024-09-25,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West,Bank Transfer
+ORD-2024-2011,2024-01-22,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,Debit Card
+ORD-2024-1520,2024-01-22,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,Cash on Delivery
+ORD-2024-1261,2024-12-11,LED Desk Lamp,HOME & KITCHEN,3,34.99,104.97,48.0,56.97,Central,Cash on Delivery
+ORD-2024-1591,2024-05-07,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,South,PayPal
+ORD-2024-1778,2024-09-13,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,East,Credit Card
+ORD-2024-1986,2024-03-09,A4 Copy Paper (Ream),office supplies,2,8.5,17.0,7.6,9.4,West,Credit Card
+ORD-2024-1900,03/07/2024,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,West,PayPal
+ORD-2024-1139,2024-03-06,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,Bank Transfer
+ORD-2024-1293,2024-12-23,Noise-Cancelling Headphones,Electronics,4,149.99,599.96,300.0,299.96,Central,Bank Transfer
+ORD-2024-2033,2024-06-11,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Cash on Delivery
+ORD-2024-1142,2024-01-01,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,East,Debit Card
+ORD-2024-1882,2024-11-11, HD Webcam 1080p ,Electronics,3,54.5,163.5,84.0,79.5,South,Debit Card
+ORD-2024-2035,10/15/2024,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,Central,Debit Card
+ORD-2024-1728,2024-05-17,Standing Desk Converter,Furniture,3,189.5,568.5,315.0,253.5,Central,Cash on Delivery
+ORD-2024-1140,2024-12-12,Ceramic Coffee Mug Set,Home & Kitchen,8,24.0,192.0,80.0,112.0,South,Cash on Delivery
+ORD-2024-1440,2024-03-31,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,West,Bank Transfer
+ORD-2024-1940,2024-05-26,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,Central,Bank Transfer
+ORD-2024-1225,04/08/2024,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,PayPal
+ORD-2024-1395,2024-02-23,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,Central,Debit Card
+ORD-2024-1275,2024-01-27,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,East,Cash on Delivery
+ORD-2024-1324,2024-01-12,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,West,PayPal
+ORD-2024-1340,2024-01-08,USB-C Multiport Hub,electronics,1,39.99,39.99,18.0,21.99,Central,Credit Card
+ORD-2024-1616,2024-09-29,Mesh Desk Organizer,Office Supplies,4,18.75,75.0,30.0,45.0,Central,PayPal
+ORD-2024-1717,2024-11-16,A4 Copy Paper (Ream),Office Supplies,4,8.5,34.0,15.2,18.8,West,Cash on Delivery
+ORD-2024-1399,2024-04-25, Stainless Steel Water Bottle ,Home & Kitchen,3,19.99,59.97,25.5,34.47,west,Cash on Delivery
+ORD-2024-1889,2024-05-07,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Debit Card
+ORD-2024-1909,2024-07-21,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,East,Debit Card
+ORD-2024-1632,2024-10-06,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,East,Cash on Delivery
+ORD-2024-1819,2024-05-03, USB-C Multiport Hub ,Electronics,1,39.99,39.99,18.0,21.99,South,Bank Transfer
+ORD-2024-1941,2024-08-04,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,Credit Card
+ORD-2024-1742,2024-10-23,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,PayPal
+ORD-2024-2230,01/15/2024,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,South,Bank Transfer
+ORD-2024-1597,2024-06-29,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,PayPal
+ORD-2024-1967,2024-05-18,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,North,Cash on Delivery
+ORD-2024-1524,2024-05-19,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,East,Bank Transfer
+ORD-2024-1621,26-04-2024,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,North,Cash on Delivery
+ORD-2024-1537,2024-09-19,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,South,Credit Card
+ORD-2024-1655,2024-03-31,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,North,Bank Transfer
+ORD-2024-1322,24-02-2024,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,West,Cash on Delivery
+ORD-2024-1377,2024-02-07,Smart Surge Protector,ELECTRONICS,3,29.99,89.97,42.0,47.97,North,PayPal
+ORD-2024-1705,05/21/2024,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,North,Credit Card
+ORD-2024-1942,2024-11-23,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,Central,Cash on Delivery
+ORD-2024-1890,2024-12-12,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,West,Debit Card
+ORD-2024-1040,2024-05-30,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,Bank Transfer
+ORD-2024-1031,2024-05-14,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,Central ,Bank Transfer
+ORD-2024-1243,2024-11-13,Wireless Mouse,Electronics,5,25.99,129.95,62.5,67.45,Central,Credit Card
+ORD-2024-1852,2024-02-28,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,West,Cash on Delivery
+ORD-2024-1137,2024-09-16,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,West,PayPal
+ORD-2024-1311,2024-05-05,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Cash on Delivery
+ORD-2024-2058,16-08-2024,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,East,Debit Card
+ORD-2024-2046,2024-03-10,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,West,Bank Transfer
+ORD-2024-1362,2024-10-27,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,South,PayPal
+ORD-2024-2120,2024-06-13,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,West,Cash on Delivery
+ORD-2024-1744,2024-07-13,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,South ,Bank Transfer
+ORD-2024-1904,2024-08-21,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,West,Debit Card
+ORD-2024-1004,2024-10-29,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,North,Credit Card
+ORD-2024-1112,2024-10-09,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,Debit Card
+ORD-2024-1668,2024-09-01,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South,Credit Card
+ORD-2024-2095,07/21/2024,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,North,Cash on Delivery
+ORD-2024-1479,2024-11-08,USB-C Multiport Hub,Electronics,6,39.99,239.94,108.0,131.94,West,Debit Card
+ORD-2024-1919,2024-02-05,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,Central,Credit Card
+ORD-2024-1934,2024-01-07,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,East,Debit Card
+ORD-2024-2115,2024-07-21,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,East,Debit Card
+ORD-2024-1426,2024-10-21,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,Central,Bank Transfer
+ORD-2024-1315,10/25/2024, HD Webcam 1080p ,Electronics,3,54.5,163.5,84.0,79.5,South,Bank Transfer
+ORD-2024-2028,2024-07-02,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,Central,Debit Card
+ORD-2024-1320,2024-11-23,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,East,Bank Transfer
+ORD-2024-1561,2024-06-07,Standing Desk Converter,furniture,2,189.5,379.0,210.0,169.0,West,
+ORD-2024-1712,2024-09-14,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,South,Cash on Delivery
+ORD-2024-1006,2024-11-04,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,Central,Debit Card
+ORD-2024-1101,2024-02-29,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,North,Cash on Delivery
+ORD-2024-1708,2024-10-31,Wireless Mouse,Electronics,3,25.99,77.97,37.5,40.47,West,Cash on Delivery
+ORD-2024-1567,2024-09-14, Smart Surge Protector ,Electronics,1,29.99,29.99,14.0,15.99,North,Credit Card
+ORD-2024-1543,2024-08-15,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,North,Cash on Delivery
+ORD-2024-2134,2024-10-09, Ergonomic Office Chair ,Furniture,1,229.0,229.0,130.0,99.0,East,Debit Card
+ORD-2024-1907,2024-12-01,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,East,Credit Card
+ORD-2024-2027,2024-01-30,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,West,Cash on Delivery
+ORD-2024-2089,2024-12-22,A4 Copy Paper (Ream),Office Supplies,8,8.5,68.0,30.4,37.6,North,
+ORD-2024-1951,2024-01-07,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,South,Credit Card
+ORD-2024-1228,2024-04-26,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,south,PayPal
+ORD-2024-1779,2024-02-20,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,south,Credit Card
+ORD-2024-1584,2024-04-14,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,Central,Debit Card
+ORD-2024-2122,2024-04-18,Smart Surge Protector,electronics,4,29.99,119.96,56.0,63.96,West,
+ORD-2024-1468,2024-11-26,A4 Copy Paper (Ream),Office Supplies,5,8.5,42.5,19.0,23.5,West,Cash on Delivery
+ORD-2024-1067,2024-01-28,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,Credit Card
+ORD-2024-1068,2024-07-25,Ceramic Coffee Mug Set,home & kitchen,3,24.0,72.0,30.0,42.0,East,Credit Card
+ORD-2024-1706,2024-12-04,Standing Desk Converter,Furniture,8,189.5,1516.0,840.0,676.0,Central,Credit Card
+ORD-2024-1212,2024-12-25,Smart Surge Protector,Electronics,3,29.99,89.97,42.0,47.97,East,Cash on Delivery
+ORD-2024-1013,2024-05-15,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,North,Bank Transfer
+ORD-2024-1725,2024-05-04,USB-C Multiport Hub,ELECTRONICS,2,39.99,79.98,36.0,43.98,South,PayPal
+ORD-2024-1781,2024-07-22,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,East,Credit Card
+ORD-2024-1300,03/14/2024,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,Credit Card
+ORD-2024-1574,2024-10-30,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,South,Debit Card
+ORD-2024-1847,2024-08-18,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,West,Bank Transfer
+ORD-2024-2139,2024-11-29,Standing Desk Converter,furniture,2,189.5,379.0,210.0,169.0,Central,Credit Card
+ORD-2024-2144,2024-07-11,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,East,Bank Transfer
+ORD-2024-2088,2024-05-17,Heavy-Duty Paper Shredder,office supplies,1,79.99,79.99,42.0,37.99,North,Debit Card
+ORD-2024-2205,2024-11-12,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,East,Credit Card
+ORD-2024-1430,2024-12-19,Smart Surge Protector,Electronics,1,$29.99,29.99,14.0,15.99,East,Credit Card
+ORD-2024-2055,2024-09-11,HD Webcam 1080p,Electronics,5,54.5,272.5,140.0,132.5,East,Credit Card
+ORD-2024-1809,2024-06-13,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,South,Bank Transfer
+ORD-2024-2186,2024-10-28,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,South,Credit Card
+ORD-2024-1421,2024-08-08,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,South,Bank Transfer
+ORD-2024-1630,09/26/2024, Standing Desk Converter ,Furniture,1,189.5,189.5,105.0,84.5,East,Debit Card
+ORD-2024-2098,2024-08-17,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,South,Debit Card
+ORD-2024-1274,2024-07-04,Heavy-Duty Paper Shredder,Office Supplies,4,79.99,319.96,168.0,151.96,West,Bank Transfer
+ORD-2024-1452,2024-10-19,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,South,PayPal
+ORD-2024-1363,2024-03-16,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,Central,
+ORD-2024-1238,2024-02-13,Noise-Cancelling Headphones,electronics,1,149.99,149.99,75.0,74.99,North,Cash on Delivery
+ORD-2024-2180,2024-08-07,Mesh Desk Organizer,Office-Supplies,2,18.75,37.5,15.0,22.5,West,Credit Card
+ORD-2024-1645,05/04/2024,Wireless Mouse,Electronics,1,$25.99,25.99,12.5,13.49,Central,Debit Card
+ORD-2024-1003,2024-12-12,Ceramic Coffee Mug Set,Home & Kitchen,4,24.0,96.0,40.0,56.0,Central,Credit Card
+ORD-2024-1007,2024-11-28,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,Central,Bank Transfer
+ORD-2024-1724,2024-10-12,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,South,Bank Transfer
+ORD-2024-1312,2024-12-15,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,South,Debit Card
+ORD-2024-2090,2024-12-08,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,Central,Bank Transfer
+ORD-2024-1431,2024-08-11,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,North,Debit Card
+ORD-2024-1550,2024-04-12,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,South,Credit Card
+ORD-2024-1677,2024-09-01,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,Cash on Delivery
+ORD-2024-1964,2024-07-15,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,South,Debit Card
+ORD-2024-1216,2024-11-26,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,Bank Transfer
+ORD-2024-1462,2024-05-25, USB-C Multiport Hub ,Electronics,2,39.99,79.98,36.0,43.98,Central,
+ORD-2024-1028,2024-06-10,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,West,Bank Transfer
+ORD-2024-2225,2024-11-28,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,South,Credit Card
+ORD-2024-1839,2024-02-04,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,North,Credit Card
+ORD-2024-1737,2024-05-13,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,Central,Bank Transfer
+ORD-2024-1873,2024-09-10,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,Central,Credit Card
+ORD-2024-2069,2024-03-23,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,North,Cash on Delivery
+ORD-2024-1539,2024-01-18,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,North,Debit Card
+ORD-2024-1821,2024-09-02,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,West,Cash on Delivery
+ORD-2024-2048,2024-12-21,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central,PayPal
+ORD-2024-1355,2024-07-04,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,East,Cash on Delivery
+ORD-2024-2112,2024-11-07,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,Debit Card
+ORD-2024-1678,2024-07-10,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,Central,Bank Transfer
+ORD-2024-1257,2024-05-19,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,Central,Bank Transfer
+ORD-2024-1292,2024-08-21,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Debit Card
+ORD-2024-1026,2024-01-17,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,East,Bank Transfer
+ORD-2024-1337,2024-06-22,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,North,Bank Transfer
+ORD-2024-1483,14-09-2024, Gel Ink Pens (12-pack) ,Office Supplies,2,12.99,25.98,8.4,17.58,West,Debit Card
+ORD-2024-1048,2024-01-30,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,Central,Credit Card
+ORD-2024-1319,2024-08-14,Ergonomic Office Chair,FURNITURE,1,229.0,229.0,130.0,99.0,Central,PayPal
+ORD-2024-1107,2024-01-02,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South,PayPal
+ORD-2024-2067,2024-01-11,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,Credit Card
+ORD-2024-1056,2024-03-02,Noise-Cancelling Headphones,Electronics,4,149.99,599.96,300.0,299.96,South,Credit Card
+ORD-2024-1582,2024-08-20,Mechanical Keyboard,Electronics,5,89.99,449.95,225.0,224.95,North,Debit Card
+ORD-2024-1214,2024-05-03,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,Bank Transfer
+ORD-2024-1121,2024-01-20,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,West,Debit Card
+ORD-2024-1771,2024-05-18,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,North,PayPal
+ORD-2024-1504,2024-10-01, Wireless Mouse ,Electronics,3,25.99,77.97,37.5,40.47,Central,Cash on Delivery
+ORD-2024-1580,2024-11-17,Gel Ink Pens (12-pack),OFFICE SUPPLIES,1,12.99,12.99,4.2,8.79,East,PayPal
+ORD-2024-1073,2024-01-26,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,Central,Credit Card
+ORD-2024-1411,2024-12-11,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,East,Bank Transfer
+ORD-2024-1887,2024-03-10,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,West,Credit Card
+ORD-2024-1837,2024-09-04,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,West ,Credit Card
+ORD-2024-1562,2024-07-29,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,West,Cash on Delivery
+ORD-2024-1433,2024-02-10,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,East,PayPal
+ORD-2024-1555,12/30/2024,Ceramic Coffee Mug Set,  Home & Kitchen  ,5,24.0,120.0,50.0,70.0,South,PayPal
+ORD-2024-2007,2024-12-17,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,north,Cash on Delivery
+ORD-2024-2025,2024-05-18,HD Webcam 1080p,Electronics,4,54.5,218.0,112.0,106.0,North,PayPal
+ORD-2024-1615,10/30/2024,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,Central,Cash on Delivery
+ORD-2024-1625,2024-01-10,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,East,Bank Transfer
+ORD-2024-2184,2024-04-25,Ceramic Coffee Mug Set,  Home & Kitchen  ,4,24.0,96.0,40.0,56.0,East,PayPal
+ORD-2024-1862,2024-09-06,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,Central,Debit Card
+ORD-2024-1326,2024-09-11,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,East,Debit Card
+ORD-2024-1905,2024-12-18,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,South,PayPal
+ORD-2024-2248,2024-02-22,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,West,Credit Card
+ORD-2024-1317,2024-12-07,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,West,PayPal
+ORD-2024-2038,2024-04-29,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,South,Credit Card
+ORD-2024-1931,2024-11-26,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,south,Bank Transfer
+ORD-2024-1466,2024-10-13,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,East,Debit Card
+ORD-2024-1923,2024-02-14,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,North,Debit Card
+ORD-2024-2187,2024-01-24,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,East,Bank Transfer
+ORD-2024-2085,2024-04-04,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,West ,PayPal
+ORD-2024-1559,2024-08-27,Stainless Steel Water Bottle,Home & Kitchen,3,$19.99,59.97,25.5,34.47,Central,Debit Card
+ORD-2024-2091,2024-10-28,Noise-Cancelling Headphones,Electronics,4,149.99,599.96,300.0,299.96,Central,Credit Card
+ORD-2024-1061,2024-02-06,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,South,PayPal
+ORD-2024-1434,2024-04-23,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South ,Credit Card
+ORD-2024-1498,2024-01-10,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,South,Debit Card
+ORD-2024-1093,2024-08-22,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,Central ,Credit Card
+ORD-2024-1966,13-06-2024, Noise-Cancelling Headphones ,Electronics,1,149.99,149.99,75.0,74.99,West,PayPal
+ORD-2024-1965,2024-01-19,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Debit Card
+ORD-2024-1352,2024-12-01,Mechanical Keyboard,Electronics,5,89.99,449.95,225.0,224.95,West,Cash on Delivery
+ORD-2024-1195,12/12/2024,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,West,Bank Transfer
+ORD-2024-1281,2024-08-24,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,South,Bank Transfer
+ORD-2024-2049,2024-04-24,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,Central,Debit Card
+ORD-2024-1495,03/11/2024,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,East,
+ORD-2024-1360,03/05/2024,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,Central,Debit Card
+ORD-2024-2228,2024-10-18,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,West,Debit Card
+ORD-2024-1610,2024-01-21,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,Debit Card
+ORD-2024-1936,2024-07-06,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,South,Bank Transfer
+ORD-2024-1586,2024-07-23,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Cash on Delivery
+ORD-2024-1507,2024-05-03,Heavy-Duty Paper Shredder,Office Supplies,4,79.99,319.96,168.0,151.96,West,Debit Card
+ORD-2024-1553,2024-12-29,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,Central,Cash on Delivery
+ORD-2024-1810,06/09/2024,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,PayPal
+ORD-2024-1183,2024-06-16,Noise-Cancelling Headphones,Electronics,4,149.99,599.96,300.0,299.96,West,PayPal
+ORD-2024-1714,2024-05-01, USB-C Multiport Hub ,electronics,1,39.99,39.99,18.0,21.99,South,Cash on Delivery
+ORD-2024-1527,2024-07-07,Smart Surge Protector,electronics,1,29.99,29.99,14.0,15.99,Central ,PayPal
+ORD-2024-1111,2024-01-19,LED Desk Lamp,  Home & Kitchen  ,1,34.99,34.99,16.0,18.99,East,Cash on Delivery
+ORD-2024-1371,2024-08-17,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Cash on Delivery
+ORD-2024-1459,2024-07-28,Stainless Steel Water Bottle,home & kitchen,1,19.99,19.99,8.5,11.49,East,Cash on Delivery
+ORD-2024-1240,04/25/2024,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,Bank Transfer
+ORD-2024-1959,2024-10-17,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Debit Card
+ORD-2024-1993,2024-03-20,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,South,Bank Transfer
+ORD-2024-1950,2024-06-07,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,south,Credit Card
+ORD-2024-1205,2024-08-26,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,Central,PayPal
+ORD-2024-1592,2024-10-22,Ceramic Coffee Mug Set,  Home & Kitchen  ,2,24.0,48.0,20.0,28.0,East,Debit Card
+ORD-2024-1906,2024-03-22,LED Desk Lamp,Home & Kitchen,4,34.99,139.96,64.0,75.96,East,Credit Card
+ORD-2024-1721,2024-10-02,Mesh Desk Organizer,Office Supplies,4,18.75,75.0,30.0,45.0,South,Debit Card
+ORD-2024-2156,2024-05-12,Smart Surge Protector,electronics,3,29.99,89.97,42.0,47.97,West,Bank Transfer
+ORD-2024-1614,2024-03-24,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,Central,PayPal
+ORD-2024-2137,2024-10-19,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,South,Debit Card
+ORD-2024-1184,21-06-2024,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,West,PayPal
+ORD-2024-1138,25-07-2024,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,East,Cash on Delivery
+ORD-2024-2209,2024-03-23,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,Central ,Bank Transfer
+ORD-2024-1081,2024-10-23,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,Central,Credit Card
+ORD-2024-1888,2024-05-21,LED Desk Lamp,  Home & Kitchen  ,1,34.99,34.99,16.0,18.99,South,Debit Card
+ORD-2024-1661,2024-08-27,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,South,Credit Card
+ORD-2024-2023,2024-10-05,Stainless Steel Water Bottle,Home & Kitchen,4,19.99,79.96,34.0,45.96,West ,
+ORD-2024-1166,2024-02-11,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,South,Debit Card
+ORD-2024-1249,2024-05-27,Ceramic Coffee Mug Set,Home & Kitchen,5,24.0,120.0,50.0,70.0,East,Bank Transfer
+ORD-2024-1308,2024-08-15,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Credit Card
+ORD-2024-2108,2024-10-28,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,North,Credit Card
+ORD-2024-1536,2024-12-09,A4 Copy Paper (Ream),Office Supplies,6,8.5,51.0,22.8,28.2,West,PayPal
+ORD-2024-1335,2024-09-13,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Debit Card
+ORD-2024-1098,2024-11-09,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,Central,Credit Card
+ORD-2024-1546,2024-02-28, Wireless Mouse ,Electronics,1,25.99,25.99,12.5,13.49,South,Bank Transfer
+ORD-2024-1681,2024-09-26,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,Central,PayPal
+ORD-2024-1902,2024-02-20,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,West,Credit Card
+ORD-2024-1848,2024-01-03,Ceramic Coffee Mug Set,Home & Kitchen,5,24.0,120.0,50.0,70.0,South,Debit Card
+ORD-2024-1815,2024-12-15,Stainless Steel Water Bottle,Home & Kitchen,5,19.99,99.95,42.5,57.45,Central,Credit Card
+ORD-2024-1631,2024-08-23,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,Central,PayPal
+ORD-2024-2148,2024-12-05,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,East,Cash on Delivery
+ORD-2024-1303,2024-06-17,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,Central,Bank Transfer
+ORD-2024-2040,2024-11-10,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,South,PayPal
+ORD-2024-1389,2024-02-16,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,North,Credit Card
+ORD-2024-1236,2024-09-08,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,Central,Credit Card
+ORD-2024-1910,2024-08-07,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,Credit Card
+ORD-2024-2128,2024-01-30,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,North,Bank Transfer
+ORD-2024-1306,2024-11-19,A4 Copy Paper (Ream),office supplies,8,8.5,68.0,30.4,37.6,East,Debit Card
+ORD-2024-1863,2024-10-11,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,West,PayPal
+ORD-2024-2030,2024-05-16,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,North,Debit Card
+ORD-2024-1250,2024-02-06,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,South,PayPal
+ORD-2024-1850,2024-02-22,Stainless Steel Water Bottle,home & kitchen,2,19.99,39.98,17.0,22.98,Central,Debit Card
+ORD-2024-1833,2024-06-25,Wireless Mouse,electronics,1,25.99,25.99,12.5,13.49,West,Credit Card
+ORD-2024-1072,2024-08-14,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,Credit Card
+ORD-2024-1095,2024-05-15,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,east,Credit Card
+ORD-2024-2019,2024-05-23,Standing Desk Converter,Furniture,4,189.5,758.0,420.0,338.0,South,Bank Transfer
+ORD-2024-1034,2024-01-25,LED Desk Lamp,home & kitchen,4,34.99,139.96,64.0,75.96,North,Debit Card
+ORD-2024-1860,2024-07-17,Standing Desk Converter,Furniture,1,$189.50,189.5,105.0,84.5,Central,Debit Card
+ORD-2024-1449,2024-11-26,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,North,Cash on Delivery
+ORD-2024-1446,2024-01-29,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,Central,Credit Card
+ORD-2024-1925,2024-08-07,Ergonomic Office Chair,  Furniture  ,1,229.0,229.0,130.0,99.0,South,Debit Card
+ORD-2024-2121,2024-11-26,Mechanical Keyboard,Electronics,5,89.99,449.95,225.0,224.95,south,Bank Transfer
+ORD-2024-1760,2024-03-17,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,south,Cash on Delivery
+ORD-2024-1078,2024-08-20,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,West,Cash on Delivery
+ORD-2024-1085,2024-02-05,Heavy-Duty Paper Shredder,office supplies,1,79.99,79.99,42.0,37.99,North,Debit Card
+ORD-2024-2044,2024-02-07,Ergonomic Office Chair,FURNITURE,2,229.0,458.0,260.0,198.0,West,Cash on Delivery
+ORD-2024-1083,2024-09-01,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,Central,Debit Card
+ORD-2024-1458,2024-07-05,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,East,Bank Transfer
+ORD-2024-1715,2024-04-23,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,East,PayPal
+ORD-2024-1827,2024-11-26,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,West,PayPal
+ORD-2024-1437,26-11-2024,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,south,Debit Card
+ORD-2024-1652,2024-05-26,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,North,Credit Card
+ORD-2024-2005,01/07/2024,Wireless Mouse,Electronics,3,25.99,77.97,37.5,40.47,South,Debit Card
+ORD-2024-1405,03/13/2024,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,North,Credit Card
+ORD-2024-2107,2024-07-31,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,South,Cash on Delivery
+ORD-2024-1673,2024-08-26,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,South,Bank Transfer
+ORD-2024-2198,2024-12-19,Mechanical Keyboard,Electronics,6,89.99,539.94,270.0,269.94,West,Bank Transfer
+ORD-2024-1105,09/07/2024, USB-C Multiport Hub ,Electronics,4,39.99,159.96,72.0,87.96,North,Credit Card
+ORD-2024-1599,2024-10-01,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,North,Bank Transfer
+ORD-2024-1671,2024-10-20,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,East,PayPal
+ORD-2024-1063,2024-03-08, Ceramic Coffee Mug Set ,Home & Kitchen,3,24.0,72.0,30.0,42.0,Central,Cash on Delivery
+ORD-2024-1282,2024-05-29,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,East,Bank Transfer
+ORD-2024-1980,2024-02-23,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,Central,Debit Card
+ORD-2024-1239,2024-08-01,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,Central,Cash on Delivery
+ORD-2024-1224,2024-03-02,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,Central,Debit Card
+ORD-2024-1146,2024-08-30,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,South,Credit Card
+ORD-2024-2250,2024-11-05,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,East,Cash on Delivery
+ORD-2024-1374,2024-06-03,Mesh Desk Organizer,office supplies,2,18.75,37.5,15.0,22.5,North,Credit Card
+ORD-2024-1119,2024-12-08,LED Desk Lamp,home & kitchen,5,34.99,174.95,80.0,94.95,South,PayPal
+ORD-2024-1944,2024-02-10,Gel Ink Pens (12-pack),Office-Supplies,3,12.99,38.97,12.6,26.37,South,Debit Card
+ORD-2024-1251,2024-11-16,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,South,Bank Transfer
+ORD-2024-2224,2024-12-19,LED Desk Lamp,home & kitchen,6,34.99,209.94,96.0,113.94,West,Bank Transfer
+ORD-2024-1010,2024-06-23,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,South,Debit Card
+ORD-2024-1450,10/31/2024,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Bank Transfer
+ORD-2024-1985,2024-02-13,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,North,Cash on Delivery
+ORD-2024-1594,2024-09-12,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,
+ORD-2024-1390,08/09/2024,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,East,Debit Card
+ORD-2024-1694,2024-01-31,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,North,Bank Transfer
+ORD-2024-2016,2024-11-10,Heavy-Duty Paper Shredder,Office Supplies,5,79.99,399.95,210.0,189.95,Central,Debit Card
+ORD-2024-1558,2024-07-03,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,Central ,PayPal
+ORD-2024-1461,2024-06-17,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,Central,Bank Transfer
+ORD-2024-2169,2024-10-24,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,North,Bank Transfer
+ORD-2024-1145,2024-08-14,A4 Copy Paper (Ream),OFFICE SUPPLIES,1,8.5,8.5,3.8,4.7,South,Cash on Delivery
+ORD-2024-1502,2024-08-02,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,Central,Bank Transfer
+ORD-2024-2172,2024-03-18,HD Webcam 1080p,Electronics,5,54.5,272.5,140.0,132.5,South,PayPal
+ORD-2024-1540,11/26/2024,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,Bank Transfer
+ORD-2024-1178,2024-08-27,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,South,Cash on Delivery
+ORD-2024-2226,2024-03-08,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,North,Debit Card
+ORD-2024-2168,2024-03-01,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,North,Cash on Delivery
+ORD-2024-2232,2024-01-24,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,East,PayPal
+ORD-2024-2168,2024-03-01,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,North,Cash on Delivery
+ORD-2024-1008,2024-04-22,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,Central,PayPal
+ORD-2024-1619,2024-10-25,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,North,Cash on Delivery
+ORD-2024-1948,2024-05-05,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,West,Credit Card
+ORD-2024-1358,2024-02-16,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,South,Cash on Delivery
+ORD-2024-1330,11/17/2024,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,
+ORD-2024-1788,2024-07-18,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,Credit Card
+ORD-2024-1933,2024-11-22,Heavy-Duty Paper Shredder,Office Supplies,8,79.99,639.92,336.0,303.92,North,Cash on Delivery
+ORD-2024-1259,2024-08-09,Ceramic Coffee Mug Set,  Home & Kitchen  ,2,24.0,48.0,20.0,28.0,East,Cash on Delivery
+ORD-2024-1979,2024-01-01,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,West,PayPal
+ORD-2024-2006,2024-04-11,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,West,PayPal
+ORD-2024-1868,2024-12-16,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,West ,Bank Transfer
+ORD-2024-1666,2024-09-20,Ergonomic Office Chair,  Furniture  ,1,229.0,229.0,130.0,99.0,North,Bank Transfer
+ORD-2024-1932,2024-07-16,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,South,Bank Transfer
+ORD-2024-1526,2024-06-22,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,West,Bank Transfer
+ORD-2024-1915,12/21/2024,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,West,Credit Card
+ORD-2024-1731,2024-09-02,Noise-Cancelling Headphones,electronics,1,$149.99,149.99,75.0,74.99,East,PayPal
+ORD-2024-1842,2024-09-21,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,Central,Debit Card
+ORD-2024-2208,2024-04-13,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West,PayPal
+ORD-2024-1441,2024-10-15, Stainless Steel Water Bottle ,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,Bank Transfer
+ORD-2024-1532,2024-08-16,Heavy-Duty Paper Shredder,Office Supplies,5,79.99,399.95,210.0,189.95,west,Debit Card
+ORD-2024-1227,2024-05-24,Mechanical Keyboard,Electronics,5,89.99,449.95,225.0,224.95,South,PayPal
+ORD-2024-1229,2024-01-08,Ceramic Coffee Mug Set,Home & Kitchen,4,24.0,96.0,40.0,56.0,Central,Debit Card
+ORD-2024-2102,2024-06-12,Smart Surge Protector,ELECTRONICS,5,29.99,149.95,70.0,79.95,north,Credit Card
+ORD-2024-1213,2024-01-06,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,South,Credit Card
+ORD-2024-1080,2024-04-07,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,South,Credit Card
+ORD-2024-1149,2024-04-25,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,South,Debit Card
+ORD-2024-1674,2024-12-17,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,East,Credit Card
+ORD-2024-1874,20-10-2024,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,east,Cash on Delivery
+ORD-2024-1849,2024-05-22,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,North,Cash on Delivery
+ORD-2024-1134,2024-09-23,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central,Debit Card
+ORD-2024-1876,2024-10-06,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,Credit Card
+ORD-2024-1409,2024-11-01,Mechanical Keyboard,Electronics,5,89.99,449.95,225.0,224.95,North,Debit Card
+ORD-2024-2246,2024-02-15,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,West,Bank Transfer
+ORD-2024-1508,2024-12-06,A4 Copy Paper (Ream),Office Supplies,4,8.5,34.0,15.2,18.8,North,Cash on Delivery
+ORD-2024-1991,2024-08-19,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,South,Credit Card
+ORD-2024-1505,2024-05-03,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,South,PayPal
+ORD-2024-1895,2024-01-02,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,North,Bank Transfer
+ORD-2024-1348,2024-09-09,Mechanical Keyboard,ELECTRONICS,1,89.99,89.99,45.0,44.99,North,Debit Card
+ORD-2024-1387,2024-08-06,Ergonomic Office Chair,Furniture,1,$229.00,229.0,130.0,99.0,East,PayPal
+ORD-2024-1001,2024-11-23,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,North,PayPal
+ORD-2024-1361,2024-02-05,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,central,Debit Card
+ORD-2024-2201,2024-12-21,A4 Copy Paper (Ream),Office Supplies,4,8.5,34.0,15.2,18.8,North,PayPal
+ORD-2024-1476,2024-04-02,LED Desk Lamp,home & kitchen,5,34.99,174.95,80.0,94.95,Central,Debit Card
+ORD-2024-1870,01/16/2024,Stainless Steel Water Bottle,HOME & KITCHEN,4,19.99,79.96,34.0,45.96,South,PayPal
+ORD-2024-2243,2024-09-16,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,Central,Bank Transfer
+ORD-2024-1844,2024-04-28,Stainless Steel Water Bottle,Home & Kitchen,5,19.99,99.95,42.5,57.45,West,Debit Card
+ORD-2024-1803,2024-05-08,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,West,Cash on Delivery
+ORD-2024-1173,2024-06-01,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,West,Bank Transfer
+ORD-2024-1451,2024-10-24,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,North,Bank Transfer
+ORD-2024-1126,2024-06-28, A4 Copy Paper (Ream) ,Office Supplies,1,8.5,8.5,3.8,4.7,Central,Bank Transfer
+ORD-2024-1711,2024-10-03,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,North,Debit Card
+ORD-2024-1531,2024-06-16,A4 Copy Paper (Ream),Office-Supplies,3,8.5,25.5,11.4,14.1,East,PayPal
+ORD-2024-1091,2024-05-15,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,PayPal
+ORD-2024-2229,2024-11-08,Standing Desk Converter,Furniture,8,189.5,1516.0,840.0,676.0,East,Cash on Delivery
+ORD-2024-1182,2024-04-03,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,East,Bank Transfer
+ORD-2024-1732,2024-01-08,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,South,Credit Card
+ORD-2024-1415,2024-02-26,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,Central,Bank Transfer
+ORD-2024-1252,2024-02-28, Gel Ink Pens (12-pack) ,Office Supplies,1,12.99,12.99,4.2,8.79,South,Debit Card
+ORD-2024-1070,2024-08-17,HD Webcam 1080p,Electronics,5,54.5,272.5,140.0,132.5,West,Debit Card
+ORD-2024-1132,2024-07-16,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central,
+ORD-2024-1301,2024-08-28,Stainless Steel Water Bottle,Home & Kitchen,1,$19.99,19.99,8.5,11.49,East,PayPal
+ORD-2024-1744,2024-07-13,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,South ,Bank Transfer
+ORD-2024-1327,2024-11-06,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,East,Debit Card
+ORD-2024-2242,03-05-2024,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,East,Credit Card
+ORD-2024-1885,06/14/2024,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,East,PayPal
+ORD-2024-1500,2024-08-04,Mechanical Keyboard,Electronics,5,89.99,449.95,225.0,224.95,East,Debit Card
+ORD-2024-1824,2024-10-31,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,Credit Card
+ORD-2024-1365,2024-10-03,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,South,Credit Card
+ORD-2024-1496,2024-12-22,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,South ,Bank Transfer
+ORD-2024-2182,2024-01-08,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Cash on Delivery
+ORD-2024-1339,2024-10-12,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,North,Bank Transfer
+ORD-2024-1422,2024-09-29,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,South,Cash on Delivery
+ORD-2024-1165,05/19/2024,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,
+ORD-2024-1029,2024-11-25,Mesh Desk Organizer,OFFICE SUPPLIES,3,18.75,56.25,22.5,33.75,South,PayPal
+ORD-2024-1517,2024-12-22,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,South,Debit Card
+ORD-2024-1194,2024-01-14,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,East,Cash on Delivery
+ORD-2024-1856,2024-03-29,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,East,Cash on Delivery
+ORD-2024-2240,2024-08-28,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,West ,Debit Card
+ORD-2024-1170,2024-04-15,LED Desk Lamp,home & kitchen,2,34.99,69.98,32.0,37.98,West,Bank Transfer
+ORD-2024-1989,13-05-2024,LED Desk Lamp,Home & Kitchen,1,$34.99,34.99,16.0,18.99,East,Bank Transfer
+ORD-2024-1653,2024-11-29,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,South,Cash on Delivery
+ORD-2024-1174,2024-10-02,Ceramic Coffee Mug Set,HOME & KITCHEN,1,24.0,24.0,10.0,14.0,Central,Cash on Delivery
+ORD-2024-1519,2024-05-30,Noise-Cancelling Headphones,Electronics,5,149.99,749.95,375.0,374.95,North,Debit Card
+ORD-2024-2032,2024-03-29,HD Webcam 1080p,Electronics,2,$54.50,109.0,56.0,53.0,South,Cash on Delivery
+ORD-2024-1963,2024-05-05,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,West,PayPal
+ORD-2024-1492,2024-04-30,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,North,PayPal
+ORD-2024-1074,2024-02-17,Smart Surge Protector,  Electronics  ,3,29.99,89.97,42.0,47.97,South,Debit Card
+ORD-2024-2062,2024-03-26,Smart Surge Protector,Electronics,5,29.99,149.95,70.0,79.95,West,Bank Transfer
+ORD-2024-1588,2024-08-26, Mechanical Keyboard ,Electronics,1,89.99,89.99,45.0,44.99,East,Bank Transfer
+ORD-2024-1658,2024-02-24,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,PayPal
+ORD-2024-1235,2024-09-01,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,North,Bank Transfer
+ORD-2024-1215,2024-10-11,Stainless Steel Water Bottle,Home & Kitchen,2,$19.99,39.98,17.0,22.98,South,Bank Transfer
+ORD-2024-1163,2024-09-23,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,South,PayPal
+ORD-2024-1133,2024-05-10,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,west,Credit Card
+ORD-2024-1869,2024-09-07,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,North,Cash on Delivery
+ORD-2024-1893,2024-07-25,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,east,PayPal
+ORD-2024-2042,2024-01-12,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,Central,Debit Card
+ORD-2024-1186,2024-01-10,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,Central ,Credit Card
+ORD-2024-1042,2024-04-01, Gel Ink Pens (12-pack) ,Office Supplies,2,12.99,25.98,8.4,17.58,North,PayPal
+ORD-2024-1693,2024-06-25, Ceramic Coffee Mug Set ,Home & Kitchen,2,24.0,48.0,20.0,28.0,North,
+ORD-2024-1109,2024-12-27,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,Central,Credit Card
+ORD-2024-2219,11-03-2024,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,South,PayPal
+ORD-2024-1569,2024-03-23,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,South,PayPal
+ORD-2024-1722,2024-06-02,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,south,Bank Transfer
+ORD-2024-2075,2024-10-03,USB-C Multiport Hub,Electronics,5,$39.99,199.95,90.0,109.95,East,PayPal
+ORD-2024-2222,2024-06-24,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,North,Bank Transfer
+ORD-2024-1484,2024-04-12,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,Central,Debit Card
+ORD-2024-1469,2024-07-04,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,East,PayPal
+ORD-2024-1025,2024-12-16,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,North,Debit Card
+ORD-2024-1733,2024-09-02,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,South,Cash on Delivery
+ORD-2024-1756,2024-09-29, Gel Ink Pens (12-pack) ,Office Supplies,3,12.99,38.97,12.6,26.37,West,Credit Card
+ORD-2024-1843,2024-06-18,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Bank Transfer
+ORD-2024-2073,2024-03-21,Wireless Mouse,ELECTRONICS,1,25.99,25.99,12.5,13.49,North,PayPal
+ORD-2024-1367,2024-01-08,Ergonomic Office Chair,Furniture,5,229.0,1145.0,650.0,495.0,South,Cash on Delivery
+ORD-2024-1945,10/01/2024, Ergonomic Office Chair ,Furniture,1,229.0,229.0,130.0,99.0,West,Cash on Delivery
+ORD-2024-2116,2024-01-26,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,West ,PayPal
+ORD-2024-1384,2024-08-08,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,South,Bank Transfer
+ORD-2024-1718,2024-09-10,Wireless Mouse,Electronics,5,25.99,129.95,62.5,67.45,East,Bank Transfer
+ORD-2024-1455,2024-12-31,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,Central,Debit Card
+ORD-2024-1265,2024-04-02,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,West,Bank Transfer
+ORD-2024-1851,06-07-2024,Ergonomic Office Chair,  Furniture  ,1,229.0,229.0,130.0,99.0,South,Bank Transfer
+ORD-2024-1233,2024-05-25,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,West,Bank Transfer
+ORD-2024-1445,2024-11-19,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,East,Cash on Delivery
+ORD-2024-1396,2024-03-20,A4 Copy Paper (Ream),Office Supplies,4,8.5,34.0,15.2,18.8,West,
+ORD-2024-2234,2024-10-16,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,East,Cash on Delivery
+ORD-2024-1177,2024-06-21,A4 Copy Paper (Ream),Office-Supplies,2,8.5,17.0,7.6,9.4,West,Debit Card
+ORD-2024-1019,2024-05-22,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,east,Debit Card
+ORD-2024-2113,2024-05-21, Standing Desk Converter ,Furniture,1,189.5,189.5,105.0,84.5,South,Cash on Delivery
+ORD-2024-1789,2024-02-16,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,East,Bank Transfer
+ORD-2024-1916,2024-04-27,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,North,Credit Card
+ORD-2024-1765,02/17/2024,Standing Desk Converter,furniture,1,189.5,189.5,105.0,84.5,West,Bank Transfer
+ORD-2024-1596,2024-08-22,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,South,Cash on Delivery
+ORD-2024-1062,2024-12-08,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,South ,Cash on Delivery
+ORD-2024-1273,2024-07-30, Wireless Mouse ,Electronics,3,25.99,77.97,37.5,40.47,South,Cash on Delivery
+ORD-2024-2193,2024-09-15,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,North,PayPal
+ORD-2024-1279,2024-06-08,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,North ,Cash on Delivery
+ORD-2024-1947,2024-12-23,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,Credit Card
+ORD-2024-1695,2024-01-17,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,West,Debit Card
+ORD-2024-1369,2024-01-27,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,Cash on Delivery
+ORD-2024-2001,2024-05-13,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,South,Credit Card
+ORD-2024-1736,26-08-2024,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,East,PayPal
+ORD-2024-1949,2024-08-20,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,Central,Credit Card
+ORD-2024-1969,2024-04-01,Noise-Cancelling Headphones,electronics,2,149.99,299.98,150.0,149.98,central,Credit Card
+ORD-2024-1804,2024-11-11,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,West,Credit Card
+ORD-2024-1865,2024-11-13,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,East,Credit Card
+ORD-2024-1548,2024-05-14,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,East,Bank Transfer
+ORD-2024-1994,2024-08-26,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,West,Credit Card
+ORD-2024-1689,2024-07-31,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,Central,Credit Card
+ORD-2024-1739,2024-04-14,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,Bank Transfer
+ORD-2024-2063,2024-07-12,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,Central,Bank Transfer
+ORD-2024-1457,2024-09-25,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,Central,Debit Card
+ORD-2024-1394,2024-05-27,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,East,PayPal
+ORD-2024-1676,2024-11-10,Noise-Cancelling Headphones,Electronics,8,149.99,1199.92,600.0,599.92,South,Debit Card
+ORD-2024-1761,2024-09-26,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,East,PayPal
+ORD-2024-1681,2024-09-26,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,Central,PayPal
+ORD-2024-1729,2024-01-21,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,North,Debit Card
+ORD-2024-1420,06/16/2024, Mechanical Keyboard ,Electronics,3,89.99,269.97,135.0,134.97,North,Bank Transfer
+ORD-2024-1376,2024-12-17,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,West,Bank Transfer
+ORD-2024-1413,2024-08-14,Standing Desk Converter,Furniture,4,189.5,758.0,420.0,338.0,East,Debit Card
+ORD-2024-1075,07/27/2024,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,West,Debit Card
+ORD-2024-2189,2024-08-10,Smart Surge Protector,ELECTRONICS,1,29.99,29.99,14.0,15.99,South,PayPal
+ORD-2024-2123,2024-09-21,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,East,Credit Card
+ORD-2024-1501,2024-06-03,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,North,Debit Card
+ORD-2024-1901,2024-12-15,Stainless Steel Water Bottle,home & kitchen,1,19.99,19.99,8.5,11.49,North,Credit Card
+ORD-2024-1617,2024-08-31,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,North,PayPal
+ORD-2024-1115,30-06-2024,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,Central,Bank Transfer
+ORD-2024-1418,2024-01-04,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,east,Debit Card
+ORD-2024-1602,2024-01-27,Heavy-Duty Paper Shredder,Office Supplies,1,$79.99,79.99,42.0,37.99,Central,Debit Card
+ORD-2024-1605,2024-05-23,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,Central,Cash on Delivery
+ORD-2024-1938,2024-01-08,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,South,Credit Card
+ORD-2024-1090,12/08/2024,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,East,Debit Card
+ORD-2024-1927,2024-10-10,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,Central,Cash on Delivery
+ORD-2024-1395,2024-02-23,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,Central,Debit Card
+ORD-2024-1754,2024-01-31,Heavy-Duty Paper Shredder,OFFICE SUPPLIES,1,79.99,79.99,42.0,37.99,Central,Bank Transfer
+ORD-2024-1499,2024-10-07,Ceramic Coffee Mug Set,Home & Kitchen,5,24.0,120.0,50.0,70.0,Central,Cash on Delivery
+ORD-2024-1990,12/24/2024,LED Desk Lamp,Home & Kitchen,4,34.99,139.96,64.0,75.96,East,
+ORD-2024-1997,2024-02-16,HD Webcam 1080p,Electronics,4,54.5,218.0,112.0,106.0,East,Cash on Delivery
+ORD-2024-1995,2024-10-01,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South,Bank Transfer
+ORD-2024-1012,2024-02-19,Ergonomic Office Chair,Furniture,5,229.0,1145.0,650.0,495.0,East,Cash on Delivery
+ORD-2024-1397,2024-02-25,Ergonomic Office Chair,Furniture,3,229.0,687.0,390.0,297.0,Central,PayPal
+ORD-2024-1845,2024-04-05,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,West,Bank Transfer
+ORD-2024-1556,2024-09-17,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,North,Debit Card
+ORD-2024-1043,2024-11-23,Gel Ink Pens (12-pack),Office Supplies,1,$12.99,12.99,4.2,8.79,Central,Debit Card
+ORD-2024-1168,2024-02-02, Standing Desk Converter ,Furniture,1,189.5,189.5,105.0,84.5,West,PayPal
+ORD-2024-1417,2024-04-22,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,Central,Credit Card
+ORD-2024-1577,2024-01-24,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,Central,PayPal
+ORD-2024-1268,2024-06-17,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,West,PayPal
+ORD-2024-1908,2024-07-09,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,South,Credit Card
+ORD-2024-1427,2024-12-29,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,West,PayPal
+ORD-2024-1691,2024-07-21,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,North,Debit Card
+ORD-2024-1545,2024-06-09,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,East,Debit Card
+ORD-2024-2190,2024-09-07,Ergonomic Office Chair,furniture,2,229.0,458.0,260.0,198.0,South,Debit Card
+ORD-2024-1675,11/23/2024,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,East,PayPal
+ORD-2024-1690,10/13/2024,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,Credit Card
+ORD-2024-2118,2024-06-08,USB-C Multiport Hub,Electronics,3,$39.99,119.97,54.0,65.97,West,Credit Card
+ORD-2024-2244,2024-07-25,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,South,Credit Card
+ORD-2024-1160,2024-09-15,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,Central,Bank Transfer
+ORD-2024-1998,2024-01-21,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,East,Debit Card
+ORD-2024-1258,2024-08-12,Mechanical Keyboard,Electronics,2,$89.99,179.98,90.0,89.98,Central,Credit Card
+ORD-2024-1953,2024-09-21,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Debit Card
+ORD-2024-1336,2024-05-11, Smart Surge Protector ,Electronics,1,29.99,29.99,14.0,15.99,West,PayPal
+ORD-2024-1974,2024-05-04,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,Cash on Delivery
+ORD-2024-1016,2024-10-22,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,North,Credit Card
+ORD-2024-2070,2024-02-17,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,Central,Cash on Delivery
+ORD-2024-1325,2024-01-05,Heavy-Duty Paper Shredder,Office Supplies,4,79.99,319.96,168.0,151.96,North,Cash on Delivery
+ORD-2024-1769,2024-02-18,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central,Credit Card
+ORD-2024-1608,2024-07-06,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,south,Debit Card
+ORD-2024-2117,2024-07-09,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,East,PayPal
+ORD-2024-1886,2024-10-20,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,Central,Credit Card
+ORD-2024-1826,2024-11-27,Heavy-Duty Paper Shredder,Office-Supplies,5,79.99,399.95,210.0,189.95,North,Cash on Delivery
+ORD-2024-1223,2024-03-02,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,South,PayPal
+ORD-2024-1180,10/15/2024,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,Credit Card
+ORD-2024-1866,2024-09-05,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,South,Bank Transfer
+ORD-2024-1100,2024-12-05,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,South,PayPal
+ORD-2024-1758,2024-05-26,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,Central,Bank Transfer
+ORD-2024-1522,2024-05-09,Wireless Mouse,ELECTRONICS,1,25.99,25.99,12.5,13.49,South,PayPal
+ORD-2024-1762,2024-07-22,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,East,Bank Transfer
+ORD-2024-1023,24-03-2024,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,West,PayPal
+ORD-2024-1357,2024-05-21, Noise-Cancelling Headphones ,electronics,1,149.99,149.99,75.0,74.99,North,Bank Transfer
+ORD-2024-1734,2024-12-26,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,West,Debit Card
+ORD-2024-2053,2024-04-03,Heavy-Duty Paper Shredder,Office Supplies,4,79.99,319.96,168.0,151.96,East,Cash on Delivery
+ORD-2024-2176,2024-11-20, Wireless Mouse ,Electronics,2,25.99,51.98,25.0,26.98,North,Bank Transfer
+ORD-2024-1612,2024-08-21,HD Webcam 1080p,electronics,3,54.5,163.5,84.0,79.5,Central,Cash on Delivery
+ORD-2024-2080,04/12/2024,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,North,Debit Card
+ORD-2024-1341,2024-08-20,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,East ,Cash on Delivery
+ORD-2024-1432,2024-08-11,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,West,Cash on Delivery
+ORD-2024-1899,2024-05-25,Ergonomic Office Chair,FURNITURE,1,229.0,229.0,130.0,99.0,Central ,Cash on Delivery
+ORD-2024-1218,2024-07-26,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,South,PayPal
+ORD-2024-1204,2024-11-11,Stainless Steel Water Bottle,home & kitchen,5,19.99,99.95,42.5,57.45,Central,Bank Transfer
+ORD-2024-2212,2024-02-26,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,Central,Bank Transfer
+ORD-2024-2034,2024-01-15,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,East,Cash on Delivery
+ORD-2024-1094,2024-02-07,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,South,Cash on Delivery
+ORD-2024-1896,2024-11-21,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,East,Credit Card
+ORD-2024-1069,07-05-2024,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,South,Cash on Delivery
+ORD-2024-2010,2024-02-17,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,East,Credit Card
+ORD-2024-1285,11/02/2024,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,south,Credit Card
+ORD-2024-1697,2024-07-14,Mesh Desk Organizer,office supplies,1,18.75,18.75,7.5,11.25,West,Bank Transfer
+ORD-2024-1086,2024-07-25,Mechanical Keyboard,Electronics,1,$89.99,89.99,45.0,44.99,Central,Debit Card
+ORD-2024-1435,09/18/2024,A4 Copy Paper (Ream),OFFICE SUPPLIES,1,8.5,8.5,3.8,4.7,North,Cash on Delivery
+ORD-2024-2003,2024-10-08,Noise-Cancelling Headphones,electronics,3,149.99,449.97,225.0,224.97,North,Bank Transfer
+ORD-2024-1154,2024-05-04,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,North,Credit Card
+ORD-2024-1076,2024-07-24,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,north,Debit Card
+ORD-2024-2104,15-06-2024,LED Desk Lamp,Home & Kitchen,4,34.99,139.96,64.0,75.96,East,Cash on Delivery
+ORD-2024-1790,2024-07-03,Stainless Steel Water Bottle,Home & Kitchen,4,19.99,79.96,34.0,45.96,East,Credit Card
+ORD-2024-1581,2024-09-04,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,West,PayPal
+ORD-2024-1447,2024-06-07,Mesh Desk Organizer,Office Supplies,5,18.75,93.75,37.5,56.25,West,Credit Card
+ORD-2024-1704,2024-05-06,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,Debit Card
+ORD-2024-1189,2024-11-14, HD Webcam 1080p ,Electronics,2,54.5,109.0,56.0,53.0,South,Debit Card
+ORD-2024-1272,2024-01-01,A4 Copy Paper (Ream),office supplies,3,8.5,25.5,11.4,14.1,Central,Bank Transfer
+ORD-2024-1237,2024-03-18,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,Central,PayPal
+ORD-2024-1488,2024-05-19,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,Central,Debit Card
+ORD-2024-2227,2024-02-23,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,Central,Bank Transfer
+ORD-2024-1560,2024-11-09,Smart Surge Protector,Electronics,3,29.99,89.97,42.0,47.97,North,Credit Card
+ORD-2024-1118,2024-01-13,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Bank Transfer
+ORD-2024-1638,2024-12-12,Gel Ink Pens (12-pack),OFFICE SUPPLIES,1,12.99,12.99,4.2,8.79,West,Bank Transfer
+ORD-2024-2141,2024-11-27,HD Webcam 1080p,Electronics,4,54.5,218.0,112.0,106.0,Central,Credit Card
+ORD-2024-1802,2024-06-02,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,PayPal
+ORD-2024-1751,2024-01-04,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,Debit Card
+ORD-2024-1513,2024-01-09,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,north,PayPal
+ORD-2024-1634,2024-10-12,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,South,PayPal
+ORD-2024-1880,2024-04-17,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,PayPal
+ORD-2024-2106,2024-10-27,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Credit Card
+ORD-2024-2024,2024-10-16,Gel Ink Pens (12-pack),Office Supplies,5,12.99,64.95,21.0,43.95,East,Bank Transfer
+ORD-2024-1127,2024-12-13,LED Desk Lamp,Home & Kitchen,4,34.99,139.96,64.0,75.96,Central,PayPal
+ORD-2024-1791,2024-03-08,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,South,Bank Transfer
+ORD-2024-1830,2024-10-12,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,Central,Debit Card
+ORD-2024-1117,2024-03-24,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,South,Bank Transfer
+ORD-2024-1474,2024-12-04,Ergonomic Office Chair,Furniture,5,229.0,1145.0,650.0,495.0,Central,Debit Card
+ORD-2024-1741,2024-01-09,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,central,Cash on Delivery
+ORD-2024-2165,2024-04-23,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South,PayPal
+ORD-2024-1058,2024-04-27,Heavy-Duty Paper Shredder,OFFICE SUPPLIES,1,79.99,79.99,42.0,37.99,South,Credit Card
+ORD-2024-1604,2024-07-16,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Cash on Delivery
+ORD-2024-1787,2024-05-17,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,West,Debit Card
+ORD-2024-1831,2024-08-16,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West,Bank Transfer
+ORD-2024-1120,03/22/2024,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,North,Bank Transfer
+ORD-2024-1657,2024-01-05,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,Central,Cash on Delivery
+ORD-2024-2173,28-07-2024,Heavy-Duty Paper Shredder,office supplies,2,79.99,159.98,84.0,75.98,West,Debit Card
+ORD-2024-1670,2024-05-16,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,Cash on Delivery
+ORD-2024-1106,2024-11-20,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,East,Credit Card
+ORD-2024-1636,2024-06-11,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,Cash on Delivery
+ORD-2024-1370,2024-02-28,Ceramic Coffee Mug Set,  Home & Kitchen  ,1,24.0,24.0,10.0,14.0,North,Bank Transfer
+ORD-2024-1269,2024-12-05,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,Central,Credit Card
+ORD-2024-1656,2024-09-10,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Credit Card
+ORD-2024-1820,2024-07-12,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,West,Cash on Delivery
+ORD-2024-1823,2024-01-19,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Cash on Delivery
+ORD-2024-1951,2024-01-07,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,South,Credit Card
+ORD-2024-1047,2024-07-04,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Debit Card
+ORD-2024-1350,2024-07-08,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,Central,Bank Transfer
+ORD-2024-2051,2024-03-31,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,North,Cash on Delivery
+ORD-2024-1877,2024-11-30,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,South,PayPal
+ORD-2024-1774,2024-03-14,Stainless Steel Water Bottle,Home & Kitchen,1,$19.99,19.99,8.5,11.49,West,Credit Card
+ORD-2024-1196,2024-04-11,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,Central,Debit Card
+ORD-2024-1103,2024-04-17,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,East,Debit Card
+ORD-2024-1005,2024-02-17,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,South,Cash on Delivery
+ORD-2024-1620,2024-08-30,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,Central ,Cash on Delivery
+ORD-2024-1572,2024-03-05,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,East,Cash on Delivery
+ORD-2024-1053,2024-04-18,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,Central,Debit Card
+ORD-2024-1264,2024-09-22,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,West,
+ORD-2024-2157,2024-07-17,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,North,Cash on Delivery
+ORD-2024-1444,2024-08-13,Mechanical Keyboard,  Electronics  ,1,89.99,89.99,45.0,44.99,West,Bank Transfer
+ORD-2024-2166,2024-08-03,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,East,PayPal
+ORD-2024-1783,2024-04-26,Ergonomic Office Chair,FURNITURE,1,229.0,229.0,130.0,99.0,Central,Bank Transfer
+ORD-2024-1838,2024-08-12,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,PayPal
+ORD-2024-1954,2024-07-09,HD Webcam 1080p,Electronics,4,54.5,218.0,112.0,106.0,East,Credit Card
+ORD-2024-1692,2024-10-23,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,North,Bank Transfer
+ORD-2024-1305,2024-01-19,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,North,Debit Card
+ORD-2024-1342,2024-07-14,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,east,Credit Card
+ORD-2024-1978,2024-11-21,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,North,PayPal
+ORD-2024-1314,2024-11-13,A4 Copy Paper (Ream),Office Supplies,6,8.5,51.0,22.8,28.2,South,Bank Transfer
+ORD-2024-1150,01/13/2024,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,South,Bank Transfer
+ORD-2024-1125,2024-06-17,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,North,PayPal
+ORD-2024-2126,2024-03-10,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,Central,Cash on Delivery
+ORD-2024-1575,03-12-2024,Heavy-Duty Paper Shredder,Office Supplies,5,79.99,399.95,210.0,189.95,Central,PayPal
+ORD-2024-1698,2024-02-11,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,Central,Debit Card
+ORD-2024-1665,2024-11-08,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,west,Bank Transfer
+ORD-2024-1051,2024-12-03,Mesh Desk Organizer,office supplies,6,18.75,112.5,45.0,67.5,Central,Debit Card
+ORD-2024-1970,2024-07-24,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,West,PayPal
+ORD-2024-1727,2024-02-17,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,South,Credit Card
+ORD-2024-1800,2024-05-17,Mesh Desk Organizer,Office Supplies,4,18.75,75.0,30.0,45.0,South,Credit Card
+ORD-2024-1834,2024-05-31,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,North,Credit Card
+ORD-2024-1354,2024-04-21,Mesh Desk Organizer,Office-Supplies,1,18.75,18.75,7.5,11.25,West,Debit Card
+ORD-2024-2220,2024-07-02,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,West,Cash on Delivery
+ORD-2024-1143,2024-08-08,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,Central,Cash on Delivery
+ORD-2024-1471,2024-04-08,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,South,Debit Card
+ORD-2024-1883,2024-01-31,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,East,Cash on Delivery
+ORD-2024-1654,2024-01-20,Smart Surge Protector,Electronics,3,29.99,89.97,42.0,47.97,South,Bank Transfer
+ORD-2024-1400,2024-11-14,Heavy-Duty Paper Shredder,Office Supplies,4,79.99,319.96,168.0,151.96,Central,Credit Card
+ORD-2024-2210,2024-04-16,Ceramic Coffee Mug Set,Home & Kitchen,5,24.0,120.0,50.0,70.0,West,PayPal
+ORD-2024-2217,2024-05-28,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,East,Bank Transfer
+ORD-2024-1321,2024-06-03,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,West,Bank Transfer
+ORD-2024-1020,2024-07-08,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,South,PayPal
+ORD-2024-1685,2024-03-25,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,Central,Bank Transfer
+ORD-2024-1036,2024-02-02,Standing Desk Converter,Furniture,3,189.5,568.5,315.0,253.5,West,Cash on Delivery
+ORD-2024-1825,05/07/2024,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,East,
+ORD-2024-1903,2024-03-04, Smart Surge Protector ,Electronics,1,$29.99,29.99,14.0,15.99,South,Bank Transfer
+ORD-2024-1506,07-08-2024,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,Central,PayPal
+ORD-2024-1828,08-08-2024,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,North,Credit Card
+ORD-2024-2135,2024-05-12,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,North,PayPal
+ORD-2024-1408,2024-06-08,Ceramic Coffee Mug Set,home & kitchen,1,24.0,24.0,10.0,14.0,East,Cash on Delivery
+ORD-2024-1921,2024-06-28,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,South,Debit Card
+ORD-2024-1818,2024-12-10,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,South,PayPal
+ORD-2024-1867,2024-10-14,Gel Ink Pens (12-pack),office supplies,1,12.99,12.99,4.2,8.79,West,Bank Transfer
+ORD-2024-1538,2024-03-14,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,Central,Bank Transfer
+ORD-2024-1759,01-04-2024,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,North,
+ORD-2024-2132,2024-05-03,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,West,Cash on Delivery
+ORD-2024-2008,2024-10-27, USB-C Multiport Hub ,Electronics,3,39.99,119.97,54.0,65.97,North,Credit Card
+ORD-2024-1039,2024-05-16,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,East,Credit Card
+ORD-2024-1176,2024-08-11,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,Bank Transfer
+ORD-2024-1246,2024-03-29,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,North,Debit Card
+ORD-2024-1811,2024-05-29,Ceramic Coffee Mug Set,Home & Kitchen,5,24.0,120.0,50.0,70.0,West,Cash on Delivery
+ORD-2024-2149,2024-11-27,Heavy-Duty Paper Shredder,Office Supplies,5,79.99,399.95,210.0,189.95,Central,PayPal
+ORD-2024-2081,28-03-2024,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,East,Credit Card
+ORD-2024-2054,2024-04-23,A4 Copy Paper (Ream),office supplies,3,8.5,25.5,11.4,14.1,Central ,Credit Card
+ORD-2024-1785,2024-02-13,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,PayPal
+ORD-2024-1931,2024-11-26,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,south,Bank Transfer
+ORD-2024-1490,2024-06-27,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,North,Bank Transfer
+ORD-2024-1155,2024-08-05,Noise-Cancelling Headphones,Electronics,5,149.99,749.95,375.0,374.95,South ,Cash on Delivery
+ORD-2024-1639,2024-06-25,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,South,PayPal
+ORD-2024-1962,2024-09-17,Wireless Mouse,  Electronics  ,2,25.99,51.98,25.0,26.98,North,Credit Card
+ORD-2024-1663,2024-04-05,Wireless Mouse,electronics,2,25.99,51.98,25.0,26.98,East,PayPal
+ORD-2024-1854,2024-11-08,Standing Desk Converter,Furniture,5,189.5,947.5,525.0,422.5,Central,Credit Card
+ORD-2024-1943,19-03-2024,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,North,PayPal
+ORD-2024-1288,2024-06-01,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,Central,Cash on Delivery
+ORD-2024-1626,2024-03-18,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,Bank Transfer
+ORD-2024-2194,2024-12-30,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,North,Bank Transfer
+ORD-2024-1686,2024-02-29,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,South,Cash on Delivery
+ORD-2024-2078,2024-01-28,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,North,Bank Transfer
+ORD-2024-1984,2024-12-24,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Bank Transfer
+ORD-2024-1570,09/22/2024,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,east,Credit Card
+ORD-2024-2211,2024-04-30,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,North,Credit Card
+ORD-2024-1735,10/09/2024, Ergonomic Office Chair ,Furniture,1,229.0,229.0,130.0,99.0,East,Bank Transfer
+ORD-2024-1793,2024-07-27,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,North,Credit Card
+ORD-2024-1018,2024-04-29,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,North,Bank Transfer
+ORD-2024-1128,2024-01-15,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,East,Debit Card
+ORD-2024-1323,2024-07-02,Heavy-Duty Paper Shredder,office supplies,2,79.99,159.98,84.0,75.98,east,PayPal
+ORD-2024-1256,2024-03-04,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,East,Bank Transfer
+ORD-2024-2044,2024-02-07,Ergonomic Office Chair,FURNITURE,2,229.0,458.0,260.0,198.0,West,Cash on Delivery
+ORD-2024-1983,2024-04-28,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central,Bank Transfer
+ORD-2024-1928,2024-05-25,Stainless Steel Water Bottle,HOME & KITCHEN,2,19.99,39.98,17.0,22.98,North,PayPal
+ORD-2024-1981,2024-08-02,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,Debit Card
+ORD-2024-2247,2024-06-10,Mechanical Keyboard,ELECTRONICS,1,$89.99,89.99,45.0,44.99,West,Credit Card
+ORD-2024-1191,2024-04-21,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,PayPal
+ORD-2024-1116,2024-11-13,Ceramic Coffee Mug Set,HOME & KITCHEN,5,24.0,120.0,50.0,70.0,South,Debit Card
+ORD-2024-2241,2024-02-08,Stainless Steel Water Bottle,home & kitchen,3,19.99,59.97,25.5,34.47,West,PayPal
+ORD-2024-2004,2024-02-22,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,South,Credit Card
+ORD-2024-1607,2024-07-10,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Cash on Delivery
+ORD-2024-1181,2024-11-25,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,South,Bank Transfer
+ORD-2024-1302,2024-11-15,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,West,Credit Card
+ORD-2024-1497,2024-08-17,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,North,Credit Card
+ORD-2024-1349,2024-10-02,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,Bank Transfer
+ORD-2024-2097,2024-12-12,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,South,Credit Card
+ORD-2024-1037,2024-08-27,Gel Ink Pens (12-pack),  Office Supplies  ,1,12.99,12.99,4.2,8.79,East,Cash on Delivery
+ORD-2024-1745,2024-10-08,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,East,PayPal
+ORD-2024-2146,2024-12-12,Gel Ink Pens (12-pack),Office Supplies,5,12.99,64.95,21.0,43.95,Central,Bank Transfer
+ORD-2024-2051,2024-03-31,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,North,Cash on Delivery
+ORD-2024-1518,2024-02-02,Ceramic Coffee Mug Set,  Home & Kitchen  ,3,24.0,72.0,30.0,42.0,West,Credit Card
+ORD-2024-1373,2024-04-23,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,North,Cash on Delivery
+ORD-2024-1046,14-06-2024,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,North,Credit Card
+ORD-2024-1477,2024-08-12,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,West,PayPal
+ORD-2024-1158,2024-12-07,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,Central,Cash on Delivery
+ORD-2024-2109,2024-10-15,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,North,PayPal
+ORD-2024-1172,2024-07-13,Mesh Desk Organizer,Office Supplies,1,$18.75,18.75,7.5,11.25,North,PayPal
+ORD-2024-1017,2024-12-04,Noise-Cancelling Headphones,electronics,2,149.99,299.98,150.0,149.98,East,Credit Card
+ORD-2024-1512,2024-11-21,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,East,PayPal
+ORD-2024-1049,2024-02-13,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,West,Credit Card
+ORD-2024-1192,2024-03-26,Heavy-Duty Paper Shredder,Office Supplies,4,79.99,319.96,168.0,151.96,Central,Credit Card
+ORD-2024-1547,2024-09-22,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,Central,Credit Card
+ORD-2024-1516,2024-10-06,Ergonomic Office Chair,Furniture,1,$229.00,229.0,130.0,99.0,South,Bank Transfer
+ORD-2024-1659,2024-08-20,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,Central,Cash on Delivery
+ORD-2024-2041,2024-03-31,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,East,Credit Card
+ORD-2024-1829,2024-05-12,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,Central,Cash on Delivery
+ORD-2024-2020,04/12/2024,A4 Copy Paper (Ream),office supplies,1,8.5,8.5,3.8,4.7,Central,Debit Card
+ORD-2024-2188,2024-09-23,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,Central,
+ORD-2024-1481,2024-04-09,Ergonomic Office Chair,  Furniture  ,2,229.0,458.0,260.0,198.0,Central,Bank Transfer
+ORD-2024-1960,05/10/2024,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,North,Cash on Delivery
+ORD-2024-2196,25-01-2024,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,North,Credit Card
+ORD-2024-1284,2024-10-09,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,Debit Card
+ORD-2024-1798,2024-10-19, Gel Ink Pens (12-pack) ,Office Supplies,2,12.99,25.98,8.4,17.58,south,Bank Transfer
+ORD-2024-1226,2024-10-28,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,Central,Cash on Delivery
+ORD-2024-1027,2024-05-17,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,South,Cash on Delivery
+ORD-2024-1438,2024-02-22,HD Webcam 1080p,Electronics,3,54.5,163.5,84.0,79.5,East,Debit Card
+ORD-2024-2235,2024-09-24,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,central,Credit Card
+ORD-2024-1230,20-05-2024,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,Cash on Delivery
+ORD-2024-1038,2024-01-06,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,north,Cash on Delivery
+ORD-2024-1750,09/25/2024,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,Credit Card
+ORD-2024-1470,2024-04-02,Noise-Cancelling Headphones,Electronics,5,149.99,749.95,375.0,374.95,East,Bank Transfer
+ORD-2024-2086,2024-04-05,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,North,PayPal
+ORD-2024-2249,2024-10-12,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,North,Credit Card
+ORD-2024-1688,2024-01-29,Mesh Desk Organizer,Office Supplies,1,$18.75,18.75,7.5,11.25,South,Cash on Delivery
+ORD-2024-1640,2024-01-22,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,North,PayPal
+ORD-2024-2100,2024-02-10,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,West,Debit Card
+ORD-2024-2064,2024-02-21,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,west,Cash on Delivery
+ORD-2024-2152,2024-05-21,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,East,Debit Card
+ORD-2024-1801,2024-03-26,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,East,Bank Transfer
+ORD-2024-1161,22-03-2024,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West,Bank Transfer
+ORD-2024-1957,2024-11-17,Mechanical Keyboard,ELECTRONICS,2,89.99,179.98,90.0,89.98,West,
+ORD-2024-1822,2024-09-16,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,West,Cash on Delivery
+ORD-2024-2079,2024-02-14,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,Central,Bank Transfer
+ORD-2024-1878,2024-01-17,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,East,PayPal
+ORD-2024-1914,2024-12-22,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,North,Bank Transfer
+ORD-2024-1153,2024-12-22,Standing Desk Converter,furniture,1,189.5,189.5,105.0,84.5,West,Bank Transfer
+ORD-2024-2161,2024-03-28,LED Desk Lamp,Home & Kitchen,3,$34.99,104.97,48.0,56.97,Central,Debit Card
+ORD-2024-1510,09/16/2024,Stainless Steel Water Bottle,home & kitchen,2,19.99,39.98,17.0,22.98,Central,Cash on Delivery
+ORD-2024-2066,2024-08-19,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,North,PayPal
+ORD-2024-1104,2024-12-17,A4 Copy Paper (Ream),Office Supplies,2,8.5,17.0,7.6,9.4,East,Cash on Delivery
+ORD-2024-1587,2024-10-14,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,East,Debit Card
+ORD-2024-1129,2024-10-24,USB-C Multiport Hub,Electronics,1,$39.99,39.99,18.0,21.99,North,Credit Card
+ORD-2024-1054,2024-12-31,USB-C Multiport Hub,Electronics,5,39.99,199.95,90.0,109.95,West,PayPal
+ORD-2024-1152,2024-07-31,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,central,Debit Card
+ORD-2024-1404,2024-10-16,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,West,Credit Card
+ORD-2024-1208,2024-08-25,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,Central,Bank Transfer
+ORD-2024-2202,2024-08-03,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,North,Cash on Delivery
+ORD-2024-1009,2024-01-04,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,South,Bank Transfer
+ORD-2024-2015,2024-05-23,Mesh Desk Organizer,OFFICE SUPPLIES,2,18.75,37.5,15.0,22.5,South,Credit Card
+ORD-2024-2061,2024-01-25,Standing Desk Converter,Furniture,3,189.5,568.5,315.0,253.5,West,Bank Transfer
+ORD-2024-1453,2024-11-05,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,Central,Debit Card
+ORD-2024-1254,2024-01-31,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Cash on Delivery
+ORD-2024-1897,30-09-2024,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,South,Bank Transfer
+ORD-2024-2111,2024-05-15,Standing Desk Converter,Furniture,3,189.5,568.5,315.0,253.5,West,Cash on Delivery
+ORD-2024-1881,2024-12-29,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,West,Debit Card
+ORD-2024-2200,08/30/2024,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,South,Debit Card
+ORD-2024-1624,2024-10-20,Ceramic Coffee Mug Set,Home & Kitchen,2,24.0,48.0,20.0,28.0,North,Debit Card
+ORD-2024-1346,2024-12-24,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,West,Credit Card
+ORD-2024-2092,2024-07-17, LED Desk Lamp ,Home & Kitchen,2,34.99,69.98,32.0,37.98,Central,Bank Transfer
+ORD-2024-1263,2024-01-21,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,South,Bank Transfer
+ORD-2024-1151,2024-11-08,LED Desk Lamp,Home & Kitchen,5,34.99,174.95,80.0,94.95,North,Bank Transfer
+ORD-2024-1473,2024-10-03,LED Desk Lamp,Home & Kitchen,1,$34.99,34.99,16.0,18.99,Central,Credit Card
+ORD-2024-1641,2024-08-14,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,East,Bank Transfer
+ORD-2024-1044,2024-03-19,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,South,Cash on Delivery
+ORD-2024-2197,2024-11-30, LED Desk Lamp ,Home & Kitchen,8,34.99,279.92,128.0,151.92,north,Credit Card
+ORD-2024-1551,2024-08-19,HD Webcam 1080p,ELECTRONICS,2,54.5,109.0,56.0,53.0,west,Credit Card
+ORD-2024-1929,2024-04-15,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,Central,Cash on Delivery
+ORD-2024-1489,2024-08-11,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,South,Bank Transfer
+ORD-2024-2145,2024-05-09,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,PayPal
+ORD-2024-1147,2024-05-25, Gel Ink Pens (12-pack) ,Office Supplies,2,12.99,25.98,8.4,17.58,Central,PayPal
+ORD-2024-1403,2024-06-28,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,South ,Debit Card
+ORD-2024-1955,2024-01-16,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West,PayPal
+ORD-2024-2192,2024-03-08,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,North,Cash on Delivery
+ORD-2024-1660,09/09/2024,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,South,
+ORD-2024-1464,2024-06-28,USB-C Multiport Hub,ELECTRONICS,2,39.99,79.98,36.0,43.98,West,Debit Card
+ORD-2024-1187,2024-06-28,Noise-Cancelling Headphones,electronics,3,149.99,449.97,225.0,224.97,North,Credit Card
+ORD-2024-1609,2024-11-04, Gel Ink Pens (12-pack) ,OFFICE SUPPLIES,2,12.99,25.98,8.4,17.58,West,Cash on Delivery
+ORD-2024-1144,2024-12-01,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,West,Bank Transfer
+ORD-2024-1752,2024-02-04,Ceramic Coffee Mug Set,Home & Kitchen,4,24.0,96.0,40.0,56.0,South,Credit Card
+ORD-2024-1982,2024-12-30,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,North,Credit Card
+ORD-2024-1198,2024-03-02,Stainless Steel Water Bottle,Home & Kitchen,4,19.99,79.96,34.0,45.96,Central,
+ORD-2024-1884,2024-05-23,Heavy-Duty Paper Shredder,office supplies,1,79.99,79.99,42.0,37.99,Central,Debit Card
+ORD-2024-1280,2024-07-27,Mechanical Keyboard,Electronics,3,89.99,269.97,135.0,134.97,South,Credit Card
+ORD-2024-1294,2024-04-29, LED Desk Lamp ,Home & Kitchen,1,34.99,34.99,16.0,18.99,West,Credit Card
+ORD-2024-2183,2024-04-07,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,North,Debit Card
+ORD-2024-1401,2024-11-07,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,East,Credit Card
+ORD-2024-1123,2024-06-05,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,South,Debit Card
+ORD-2024-1203,2024-08-10,HD Webcam 1080p,ELECTRONICS,1,54.5,54.5,28.0,26.5,Central,PayPal
+ORD-2024-1836,2024-08-21,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,south,Cash on Delivery
+ORD-2024-1247,2024-01-02,Standing Desk Converter,Furniture,1,189.5,189.5,105.0,84.5,west,Cash on Delivery
+ORD-2024-2207,2024-04-12,Stainless Steel Water Bottle,home & kitchen,2,19.99,39.98,17.0,22.98,East,Cash on Delivery
+ORD-2024-2195,2024-11-23,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,Central,Cash on Delivery
+ORD-2024-1385,2024-06-22,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,West,Bank Transfer
+ORD-2024-1855,06/27/2024,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,west,Cash on Delivery
+ORD-2024-1220,2024-10-10,Gel Ink Pens (12-pack),Office Supplies,3,12.99,38.97,12.6,26.37,East,Bank Transfer
+ORD-2024-1642,2024-04-19,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,Central,PayPal
+ORD-2024-1002,2024-05-05,Noise-Cancelling Headphones,Electronics,4,149.99,599.96,300.0,299.96,South,Credit Card
+ORD-2024-1113,2024-01-22,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,East,Credit Card
+ORD-2024-1699,2024-11-30,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,East,Credit Card
+ORD-2024-2214,2024-02-21,Smart Surge Protector,Electronics,3,29.99,89.97,42.0,47.97,East,Debit Card
+ORD-2024-1952,2024-03-24,Mesh Desk Organizer,office supplies,2,18.75,37.5,15.0,22.5,East,Cash on Delivery
+ORD-2024-2143,2024-12-30,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,East,Bank Transfer
+ORD-2024-1442,2024-12-14,Smart Surge Protector,electronics,8,29.99,239.92,112.0,127.92,Central,Cash on Delivery
+ORD-2024-1664,2024-10-17,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,South,Debit Card
+ORD-2024-2160,2024-12-09,Ergonomic Office Chair,FURNITURE,1,229.0,229.0,130.0,99.0,Central,PayPal
+ORD-2024-1318,2024-12-12,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,South,Credit Card
+ORD-2024-1649,2024-10-08,Smart Surge Protector,Electronics,3,29.99,89.97,42.0,47.97,South,Bank Transfer
+ORD-2024-1710,2024-01-23,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,West,Debit Card
+ORD-2024-1973,2024-05-29,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,East,Cash on Delivery
+ORD-2024-1628,2024-02-01,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,South,Cash on Delivery
+ORD-2024-1633,2024-09-04,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,South,PayPal
+ORD-2024-1514,2024-05-03,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,North,Cash on Delivery
+ORD-2024-2171,2024-09-28,USB-C Multiport Hub,Electronics,2,39.99,79.98,36.0,43.98,West,Credit Card
+ORD-2024-1796,2024-01-07,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,West,Bank Transfer
+ORD-2024-1646,2024-11-22,Noise-Cancelling Headphones,electronics,5,149.99,749.95,375.0,374.95,north,Credit Card
+ORD-2024-2013,2024-01-16,Standing Desk Converter,Furniture,4,189.5,758.0,420.0,338.0,West,Debit Card
+ORD-2024-1557,2024-03-12,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,75.0,74.99,West,Credit Card
+ORD-2024-1682,2024-02-09,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central ,Credit Card
+ORD-2024-1578,2024-11-29,Noise-Cancelling Headphones,electronics,5,149.99,749.95,375.0,374.95,Central,Bank Transfer
+ORD-2024-2110,10/01/2024,Smart Surge Protector,  Electronics  ,1,29.99,29.99,14.0,15.99,East,Bank Transfer
+ORD-2024-1525,07/23/2024, Ceramic Coffee Mug Set ,Home & Kitchen,3,24.0,72.0,30.0,42.0,West,Bank Transfer
+ORD-2024-2060,2024-05-11,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,North,Credit Card
+ORD-2024-1541,2024-10-17,Wireless Mouse,Electronics,4,25.99,103.96,50.0,53.96,Central,Debit Card
+ORD-2024-1749,2024-04-04,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,Central,Credit Card
+ORD-2024-2174,2024-06-10,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,South,Credit Card
+ORD-2024-1485,2024-05-08,Wireless Mouse,Electronics,2,25.99,51.98,25.0,26.98,West,PayPal
+ORD-2024-1096,2024-05-05,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,East,Debit Card
+ORD-2024-2021,2024-11-18,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,Central,Credit Card
+ORD-2024-1564,2024-08-18,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,Central,PayPal
+ORD-2024-1743,2024-03-19,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,East,Debit Card
+ORD-2024-1864,2024-03-12,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Bank Transfer
+ORD-2024-1892,2024-07-11,Mesh Desk Organizer,Office Supplies,3,18.75,56.25,22.5,33.75,North,Credit Card
+ORD-2024-2039,2024-09-26,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,PayPal
+ORD-2024-1207,22-05-2024,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,West,Debit Card
+ORD-2024-1393,2024-06-30,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,West,Credit Card
+ORD-2024-1795,11/02/2024,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Bank Transfer
+ORD-2024-1871,2024-01-17,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,South,Cash on Delivery
+ORD-2024-1398,2024-02-28,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Cash on Delivery
+ORD-2024-1767,2024-12-25,HD Webcam 1080p,Electronics,4,54.5,218.0,112.0,106.0,North,Bank Transfer
+ORD-2024-2164,2024-12-14,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,East,Credit Card
+ORD-2024-2029,2024-03-22, Mechanical Keyboard ,Electronics,1,89.99,89.99,45.0,44.99,South,Debit Card
+ORD-2024-1643,2024-10-14,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,East,Debit Card
+ORD-2024-1613,2024-03-12,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,Central,PayPal
+ORD-2024-1961,2024-12-11,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,North ,Debit Card
+ORD-2024-1726,2024-11-27,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,West,
+ORD-2024-1684,2024-04-13,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,central,Debit Card
+ORD-2024-1099,2024-12-07,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,Central,
+ORD-2024-1805,10-03-2024,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,North,Bank Transfer
+ORD-2024-1407,2024-08-20,Ergonomic Office Chair,  Furniture  ,1,229.0,229.0,130.0,99.0,South,PayPal
+ORD-2024-1503,2024-02-02,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,West,Cash on Delivery
+ORD-2024-2072,2024-11-30,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,Central,Bank Transfer
+ORD-2024-2057,2024-11-21,Smart Surge Protector,Electronics,4,29.99,119.96,56.0,63.96,North,PayPal
+ORD-2024-1930,04/06/2024,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,West ,PayPal
+ORD-2024-1780,06/23/2024,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,Central,Cash on Delivery
+ORD-2024-1201,2024-08-03,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,West,Credit Card
+ORD-2024-1135,07/05/2024,Standing Desk Converter,Furniture,4,189.5,758.0,420.0,338.0,North,PayPal
+ORD-2024-2052,2024-07-19,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,Central,Credit Card
+ORD-2024-1041,2024-01-02,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,East,Cash on Delivery
+ORD-2024-2018,2024-10-08,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,North,Credit Card
+ORD-2024-1231,2024-05-29, Ceramic Coffee Mug Set ,Home & Kitchen,3,24.0,72.0,30.0,42.0,South,
+ORD-2024-1379,2024-05-20,Heavy-Duty Paper Shredder,Office Supplies,3,79.99,239.97,126.0,113.97,Central,Cash on Delivery
+ORD-2024-1289,2024-12-03,Mesh Desk Organizer,office supplies,1,18.75,18.75,7.5,11.25,South,Bank Transfer
+ORD-2024-1419,2024-03-11,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,East,PayPal
+ORD-2024-1392,2024-10-14,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,North,Bank Transfer
+ORD-2024-1593,2024-03-22,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,Central,Bank Transfer
+ORD-2024-2163,2024-05-12,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,Central,Debit Card
+ORD-2024-2087,2024-08-13,Mesh Desk Organizer,Office Supplies,2,18.75,37.5,15.0,22.5,East,Debit Card
+ORD-2024-1648,2024-12-14,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,South,Credit Card
+ORD-2024-2153,2024-03-17,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,South,Credit Card
+ORD-2024-1521,2024-07-22,LED Desk Lamp,Home & Kitchen,2,34.99,69.98,32.0,37.98,Central,Bank Transfer
+ORD-2024-1065,2024-04-07,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,North,Bank Transfer
+ORD-2024-1015,10/09/2024,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,Central,PayPal
+ORD-2024-2181,2024-01-20,Gel Ink Pens (12-pack),Office Supplies,5,12.99,64.95,21.0,43.95,South,PayPal
+ORD-2024-2065,11/29/2024,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,South,Debit Card
+ORD-2024-1493,2024-04-24,Wireless Mouse,electronics,1,25.99,25.99,12.5,13.49,East,Credit Card
+ORD-2024-1380,2024-12-30,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,west,Cash on Delivery
+ORD-2024-1188,2024-01-16,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,South,Credit Card
+ORD-2024-1764,2024-06-02,A4 Copy Paper (Ream),Office Supplies,3,8.5,25.5,11.4,14.1,North,Credit Card
+ORD-2024-1217,2024-01-09,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,East ,Debit Card
+ORD-2024-1792,2024-08-17,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,Central,
+ORD-2024-2077,2024-10-19,Gel Ink Pens (12-pack),Office Supplies,1,12.99,12.99,4.2,8.79,West,Debit Card
+ORD-2024-1879,2024-02-14,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,North,Debit Card
+ORD-2024-1338,2024-02-08,HD Webcam 1080p,Electronics,2,54.5,109.0,56.0,53.0,South,Bank Transfer
+ORD-2024-1720,03/17/2024,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,West,Debit Card
+ORD-2024-1296,2024-07-16,A4 Copy Paper (Ream),  Office Supplies  ,2,8.5,17.0,7.6,9.4,South,Bank Transfer
+ORD-2024-2017,2024-11-27,USB-C Multiport Hub,Electronics,1,39.99,39.99,18.0,21.99,West,Bank Transfer
+ORD-2024-1456,2024-01-21,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,west,Bank Transfer
+ORD-2024-1816,2024-08-24,Ceramic Coffee Mug Set,home & kitchen,2,24.0,48.0,20.0,28.0,South,Bank Transfer
+ORD-2024-1270,08/20/2024,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,East,PayPal
+ORD-2024-1996,2024-06-06,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,East,Credit Card
+ORD-2024-1202,2024-08-09,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West,Debit Card
+ORD-2024-1162,2024-05-12,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,South,PayPal
+ORD-2024-1730,2024-10-27,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,Central,Debit Card
+ORD-2024-1402,2024-04-02,USB-C Multiport Hub,Electronics,4,39.99,159.96,72.0,87.96,East,PayPal
+ORD-2024-1703,2024-08-05,Gel Ink Pens (12-pack),  Office Supplies  ,1,12.99,12.99,4.2,8.79,west,Debit Card
+ORD-2024-2130,2024-05-20,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,West,Cash on Delivery
+ORD-2024-1566,2024-04-03,Stainless Steel Water Bottle,Home & Kitchen,2,19.99,39.98,17.0,22.98,South,Bank Transfer
+ORD-2024-2022,2024-07-14,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Bank Transfer
+ORD-2024-2026,2024-11-01,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,150.0,149.98,north,PayPal
+ORD-2024-2105,2024-08-22,Smart Surge Protector,electronics,5,29.99,149.95,70.0,79.95,North,Cash on Delivery
+ORD-2024-1206,2024-06-14,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,South,Credit Card
+ORD-2024-1035,2024-11-17,HD Webcam 1080p,Electronics,6,54.5,327.0,168.0,159.0,West,Cash on Delivery
+ORD-2024-1776,2024-10-17,LED Desk Lamp,Home & Kitchen,1,34.99,34.99,16.0,18.99,West,Cash on Delivery
+ORD-2024-1509,2024-07-03,Mechanical Keyboard,Electronics,4,89.99,359.96,180.0,179.96,Central,Cash on Delivery
+ORD-2024-2103,2024-07-17,Gel Ink Pens (12-pack),Office Supplies,4,12.99,51.96,16.8,35.16,West,Cash on Delivery
+ORD-2024-1092,22-08-2024,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,North,Credit Card
+ORD-2024-1898,2024-04-18,Mesh Desk Organizer,Office Supplies,4,18.75,75.0,30.0,45.0,East,PayPal
+ORD-2024-1565,2024-03-06,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central,Cash on Delivery
+ORD-2024-1777,2024-06-18, Standing Desk Converter ,  Furniture  ,1,189.5,189.5,105.0,84.5,South,Credit Card
+ORD-2024-1242,2024-10-28,Standing Desk Converter,Furniture,4,189.5,758.0,420.0,338.0,East,Cash on Delivery
+ORD-2024-1014,2024-10-01,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,West,Credit Card
+ORD-2024-1316,2024-11-22,USB-C Multiport Hub,Electronics,3,39.99,119.97,54.0,65.97,West,PayPal
+ORD-2024-1601,2024-07-25,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,North,Bank Transfer
+ORD-2024-1388,2024-03-19,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,West,Credit Card
+ORD-2024-1167,2024-07-15,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,South,Debit Card
+ORD-2024-1841,2024-12-12,Stainless Steel Water Bottle,HOME & KITCHEN,1,19.99,19.99,8.5,11.49,South,Debit Card
+ORD-2024-1021,2024-12-25, Smart Surge Protector ,Electronics,3,29.99,89.97,42.0,47.97,North,Cash on Delivery
+ORD-2024-1647,2024-07-30,Ergonomic Office Chair,Furniture,2,229.0,458.0,260.0,198.0,West,Credit Card
+ORD-2024-2155,01/14/2024, A4 Copy Paper (Ream) ,Office Supplies,2,8.5,17.0,7.6,9.4,West,
+ORD-2024-1832,2024-12-13,Heavy-Duty Paper Shredder,Office Supplies,2,79.99,159.98,84.0,75.98,Central,Debit Card
+ORD-2024-1563,2024-02-07,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,East,Credit Card
+ORD-2024-2238,2024-10-12,Smart Surge Protector,Electronics,2,29.99,59.98,28.0,31.98,Central,Credit Card
+ORD-2024-1687,2024-09-07,Mechanical Keyboard,Electronics,2,89.99,179.98,90.0,89.98,Central,Bank Transfer
+ORD-2024-1958,2024-09-18,Ergonomic Office Chair,Furniture,1,229.0,229.0,130.0,99.0,North,Bank Transfer
+ORD-2024-1190,2024-08-30,A4 Copy Paper (Ream),Office Supplies,1,8.5,8.5,3.8,4.7,north,Cash on Delivery
+ORD-2024-1976,2024-05-05,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,North,Bank Transfer
+ORD-2024-1700,2024-04-01,Gel Ink Pens (12-pack),Office Supplies,2,12.99,25.98,8.4,17.58,West,Cash on Delivery
+ORD-2024-1511,2024-01-11,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,West,Credit Card
+ORD-2024-2083,2024-07-22,Mesh Desk Organizer,Office Supplies,1,18.75,18.75,7.5,11.25,west,PayPal
+ORD-2024-1475,2024-11-01,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,south,Debit Card
+ORD-2024-1857,2024-10-29,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,South,PayPal
+ORD-2024-1748,2024-03-12,Ceramic Coffee Mug Set,home & kitchen,2,24.0,48.0,20.0,28.0,Central,Bank Transfer
+ORD-2024-1253,16-05-2024,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,South,Credit Card
+ORD-2024-1022,2024-11-21,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,Central,Debit Card
+ORD-2024-1460,27-01-2024,Stainless Steel Water Bottle,Home & Kitchen,1,19.99,19.99,8.5,11.49,East,Credit Card
+ORD-2024-2185,03/07/2024,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,West,Cash on Delivery
+ORD-2024-1277,2024-12-23,Mesh Desk Organizer,Office Supplies,4,18.75,75.0,30.0,45.0,North,Credit Card
+ORD-2024-1956,2024-09-25,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,East,Cash on Delivery
+ORD-2024-2216,2024-01-26,Mechanical Keyboard,Electronics,1,89.99,89.99,45.0,44.99,south,Credit Card
+ORD-2024-1386,2024-07-31,Ceramic Coffee Mug Set,Home & Kitchen,3,24.0,72.0,30.0,42.0,North,PayPal
+ORD-2024-1806,2024-06-19,LED Desk Lamp,Home & Kitchen,3,34.99,104.97,48.0,56.97,Central ,Bank Transfer
+ORD-2024-1344,2024-11-13,Smart Surge Protector,Electronics,2,$29.99,59.98,28.0,31.98,Central,PayPal
+ORD-2024-1770,2024-04-27,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,225.0,224.97,Central,Bank Transfer
+ORD-2024-1131,2024-08-11,Heavy-Duty Paper Shredder,Office Supplies,1,79.99,79.99,42.0,37.99,Central,Credit Card
+ORD-2024-1872,2024-05-27,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,West,Cash on Delivery
+ORD-2024-2124,2024-09-20,Stainless Steel Water Bottle,Home & Kitchen,3,19.99,59.97,25.5,34.47,South,Credit Card
+ORD-2024-1088,2024-02-11,Standing Desk Converter,Furniture,2,189.5,379.0,210.0,169.0,Central,Cash on Delivery
+ORD-2024-1331,2024-08-13,Wireless Mouse,Electronics,1,25.99,25.99,12.5,13.49,Central,PayPal
+ORD-2024-2239,2024-01-06, A4 Copy Paper (Ream) ,Office-Supplies,5,8.5,42.5,19.0,23.5,South,Cash on Delivery
+ORD-2024-1467,2024-12-09,Ceramic Coffee Mug Set,Home & Kitchen,1,24.0,24.0,10.0,14.0,Central,Credit Card
+ORD-2024-1122,2024-04-12,LED Desk Lamp,Home & Kitchen,4,34.99,139.96,64.0,75.96,West,PayPal
+ORD-2024-2045,2024-02-21,Ergonomic Office Chair,Furniture,4,229.0,916.0,520.0,396.0,east,PayPal
+ORD-2024-2096,2024-10-19,Smart Surge Protector,Electronics,1,29.99,29.99,14.0,15.99,Central,Cash on Delivery
+ORD-2024-2131,2024-07-22,A4 Copy Paper (Ream),OFFICE SUPPLIES,2,8.5,17.0,7.6,9.4,North,Credit Card
+ORD-2024-1861,2024-10-21, Standing Desk Converter ,Furniture,3,189.5,568.5,315.0,253.5,West,Debit Card
+ORD-2024-2127,15-01-2024,HD Webcam 1080p,Electronics,1,54.5,54.5,28.0,26.5,South,Debit Card

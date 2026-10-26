@@ -1,0 +1,5 @@
+purchase_stage,transaction_count,stage_revenue,avg_order_size
+First Order (Acquisition),850,124926.36,146.97
+Repeat Order (3-5),706,98335.9,139.29
+Second Order (First Repeat),399,55155.83,138.24
+Loyalty Order (>5),351,48635.45,138.56

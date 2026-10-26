@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_region,acquisition_channel,total_orders,total_units_bought,lifetime_spend,avg_spend_per_order
+CUST-1147,Isabella Wilson,Europe,Paid Search,12,23,2522.66,210.22
+CUST-1356,Chloe Jackson,Asia-Pacific,Email Marketing,7,15,2506.17,358.02
+CUST-1085,Daniel Martinez,Middle East,Email Marketing,10,23,2371.15,237.12
+CUST-1484,Charlotte Lopez,Latin America,Social Media,11,21,2254.14,204.92
+CUST-1786,Emma Martinez,Asia-Pacific,Email Marketing,10,19,1987.92,198.79
+CUST-1015,Noah Garcia,Middle East,Social Media,7,13,1978.44,282.63
+CUST-1486,Aiden Davis,Asia-Pacific,Email Marketing,10,16,1840.99,184.1
+CUST-1037,Evelyn Davis,Middle East,Referral,12,18,1820.97,151.75
+CUST-1090,Chloe Gonzalez,Latin America,Email Marketing,13,18,1795.89,138.15
+CUST-1767,James Taylor,Latin America,Referral,9,14,1754.49,194.94

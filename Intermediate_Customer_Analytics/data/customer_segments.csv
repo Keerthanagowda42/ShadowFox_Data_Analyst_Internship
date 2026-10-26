@@ -1,0 +1,851 @@
+Customer_ID,Recency_Days,Frequency,Monetary_Value,Customer_Name,Customer_Email,Customer_Region,Acquisition_Channel,First_Purchase,Last_Purchase,R_Score,F_Score,M_Score,RFM_Score,Customer_Segment
+CUST-1001,679,1,43.2,Chloe Miller,chloe.miller79@example.com,Asia-Pacific,Social Media,2023-02-22,2023-02-22,1,1,1,111,Lost / Churned
+CUST-1002,201,3,424.78,Evelyn Miller,evelyn.miller87@example.com,Europe,Email Marketing,2024-04-18,2024-06-14,4,4,4,444,Champions
+CUST-1003,545,1,359.97,Oliver Hernandez,oliver.hernandez66@example.com,North America,Email Marketing,2023-07-06,2023-07-06,1,1,4,114,Lost / Churned
+CUST-1004,255,1,69.0,Liam Anderson,liam.anderson78@example.com,Asia-Pacific,Paid Search,2024-04-21,2024-04-21,3,1,1,311,Hibernating
+CUST-1005,383,4,566.03,Ethan Davis,ethan.davis91@example.com,Latin America,Social Media,2023-07-03,2023-12-15,2,4,4,244,Loyal Customers
+CUST-1006,42,2,618.45,Charlotte Anderson,charlotte.anderson48@example.com,Europe,Organic Search,2024-09-19,2024-11-20,5,3,4,534,Loyal Customers
+CUST-1007,363,1,92.0,Daniel Hernandez,daniel.hernandez95@example.com,Asia-Pacific,Social Media,2024-01-04,2024-01-04,2,1,2,212,Hibernating
+CUST-1008,29,7,980.5,Charlotte Williams,charlotte.williams61@example.com,Latin America,Organic Search,2024-03-03,2024-12-03,5,5,5,555,Champions
+CUST-1009,59,1,34.5,Alex Brown,alex.brown54@example.com,North America,Email Marketing,2024-11-03,2024-11-03,5,1,1,511,New / Promising
+CUST-1010,335,1,319.96,James Rodriguez,james.rodriguez82@example.com,Europe,Organic Search,2024-02-01,2024-02-01,3,1,3,313,Hibernating
+CUST-1011,60,2,70.5,Lucas Williams,lucas.williams29@example.com,Latin America,Email Marketing,2024-09-11,2024-11-02,5,3,1,531,Loyal Customers
+CUST-1012,558,1,108.0,Benjamin Garcia,benjamin.garcia73@example.com,Middle East,Email Marketing,2023-06-23,2023-06-23,1,1,2,112,Lost / Churned
+CUST-1013,179,1,57.0,Evelyn Smith,evelyn.smith20@example.com,North America,Organic Search,2024-07-06,2024-07-06,4,1,1,411,New / Promising
+CUST-1014,207,3,639.0,Alex Anderson,alex.anderson25@example.com,Middle East,Referral,2024-03-22,2024-06-08,4,4,4,444,Champions
+CUST-1015,208,7,1978.44,Noah Garcia,noah.garcia35@example.com,Middle East,Social Media,2023-05-04,2024-06-07,3,5,5,355,Loyal Customers
+CUST-1016,683,1,54.83,Noah Martinez,noah.martinez53@example.com,Latin America,Organic Search,2023-02-18,2023-02-18,1,1,1,111,Lost / Churned
+CUST-1017,469,1,229.0,Alex Lopez,alex.lopez69@example.com,North America,Paid Search,2023-09-20,2023-09-20,2,1,3,213,Hibernating
+CUST-1018,193,4,507.98,Ethan Williams,ethan.williams45@example.com,Europe,Email Marketing,2024-03-03,2024-06-22,4,4,4,444,Champions
+CUST-1019,497,3,509.57000000000005,Charlotte Brown,charlotte.brown77@example.com,Asia-Pacific,Paid Search,2023-04-10,2023-08-23,2,4,4,244,Loyal Customers
+CUST-1020,290,1,28.5,Ava Smith,ava.smith11@example.com,Latin America,Referral,2024-03-17,2024-03-17,3,1,1,311,Hibernating
+CUST-1021,105,4,460.55,Chloe Johnson,chloe.johnson53@example.com,Europe,Email Marketing,2024-04-17,2024-09-18,4,4,4,444,Champions
+CUST-1022,430,1,79.99,Oliver Moore,oliver.moore85@example.com,Middle East,Email Marketing,2023-10-29,2023-10-29,2,1,2,212,Hibernating
+CUST-1023,350,1,166.25,Noah Martinez,noah.martinez54@example.com,Asia-Pacific,Social Media,2024-01-17,2024-01-17,3,1,3,313,Hibernating
+CUST-1024,589,1,229.0,Emma Davis,emma.davis76@example.com,North America,Paid Search,2023-05-23,2023-05-23,1,1,3,113,Lost / Churned
+CUST-1025,716,1,69.5,Olivia Jones,olivia.jones53@example.com,North America,Email Marketing,2023-01-16,2023-01-16,1,1,1,111,Lost / Churned
+CUST-1026,187,9,1237.1,Oliver Lopez,oliver.lopez75@example.com,Middle East,Paid Search,2023-05-16,2024-06-28,4,5,5,455,Champions
+CUST-1027,465,2,155.99,Alex Moore,alex.moore50@example.com,Asia-Pacific,Email Marketing,2023-09-06,2023-09-24,2,3,3,233,Needs Attention
+CUST-1028,473,2,375.5,Charlotte Miller,charlotte.miller68@example.com,Asia-Pacific,Organic Search,2023-08-01,2023-09-16,2,3,4,234,Needs Attention
+CUST-1029,393,3,183.7,Chloe Hernandez,chloe.hernandez66@example.com,Latin America,Organic Search,2023-09-16,2023-12-05,2,4,3,243,At Risk Spenders
+CUST-1030,654,2,281.99,Oliver Johnson,oliver.johnson69@example.com,Middle East,Organic Search,2023-01-15,2023-03-19,1,3,3,133,Needs Attention
+CUST-1031,11,3,486.99,Harper Rodriguez,harper.rodriguez88@example.com,Europe,Social Media,2024-08-25,2024-12-21,5,4,4,544,Champions
+CUST-1032,109,2,728.5,Emma Rodriguez,emma.rodriguez87@example.com,North America,Organic Search,2024-08-19,2024-09-14,4,3,5,435,Loyal Customers
+CUST-1033,258,1,54.0,Harper Hernandez,harper.hernandez76@example.com,North America,Paid Search,2024-04-18,2024-04-18,3,1,1,311,Hibernating
+CUST-1034,394,1,127.49,Charlotte Brown,charlotte.brown43@example.com,North America,Paid Search,2023-12-04,2023-12-04,2,1,2,212,Hibernating
+CUST-1035,294,6,827.84,Alex Brown,alex.brown39@example.com,Europe,Paid Search,2023-06-24,2024-03-13,3,5,5,355,Loyal Customers
+CUST-1036,534,1,239.98,Chloe Miller,chloe.miller67@example.com,Europe,Organic Search,2023-07-17,2023-07-17,1,1,3,113,Lost / Churned
+CUST-1037,85,12,1820.97,Evelyn Davis,evelyn.davis23@example.com,Middle East,Referral,2023-01-12,2024-10-08,4,5,5,455,Champions
+CUST-1038,445,4,288.48,Evelyn Jones,evelyn.jones83@example.com,Latin America,Paid Search,2023-04-05,2023-10-14,2,4,3,243,At Risk Spenders
+CUST-1039,40,3,210.0,Emma Anderson,emma.anderson88@example.com,Middle East,Referral,2024-07-27,2024-11-22,5,4,3,543,Champions
+CUST-1040,47,9,719.09,Lucas Gonzalez,lucas.gonzalez27@example.com,North America,Organic Search,2023-10-20,2024-11-15,5,5,5,555,Champions
+CUST-1041,515,1,27.6,Evelyn Johnson,evelyn.johnson22@example.com,Asia-Pacific,Email Marketing,2023-08-05,2023-08-05,2,1,1,211,Hibernating
+CUST-1042,69,1,64.5,Aiden Moore,aiden.moore58@example.com,Europe,Email Marketing,2024-10-24,2024-10-24,5,1,1,511,New / Promising
+CUST-1043,305,5,374.49,Sophia Martinez,sophia.martinez59@example.com,Europe,Social Media,2023-08-06,2024-03-02,3,5,4,354,Loyal Customers
+CUST-1044,84,6,984.5,Charlotte Jones,charlotte.jones86@example.com,Europe,Social Media,2024-03-12,2024-10-09,5,5,5,555,Champions
+CUST-1045,693,1,119.99,Oliver Rodriguez,oliver.rodriguez13@example.com,Europe,Email Marketing,2023-02-08,2023-02-08,1,1,2,112,Lost / Churned
+CUST-1046,602,1,115.0,Isabella Taylor,isabella.taylor43@example.com,North America,Social Media,2023-05-10,2023-05-10,1,1,2,112,Lost / Churned
+CUST-1047,292,5,854.36,Chloe Martin,chloe.martin57@example.com,Latin America,Referral,2023-09-26,2024-03-15,3,5,5,355,Loyal Customers
+CUST-1048,559,1,42.0,Emma Anderson,emma.anderson95@example.com,Asia-Pacific,Organic Search,2023-06-22,2023-06-22,1,1,1,111,Lost / Churned
+CUST-1049,633,2,103.89,James Lopez,james.lopez71@example.com,North America,Social Media,2023-02-12,2023-04-09,1,3,2,132,Needs Attention
+CUST-1050,268,1,28.5,Emma Davis,emma.davis10@example.com,Latin America,Paid Search,2024-04-08,2024-04-08,3,1,1,311,Hibernating
+CUST-1051,151,3,695.9399999999999,Olivia Garcia,olivia.garcia63@example.com,Latin America,Email Marketing,2023-12-24,2024-08-03,4,4,5,445,Champions
+CUST-1052,477,3,363.48,Oliver Martin,oliver.martin46@example.com,Latin America,Paid Search,2023-06-17,2023-09-12,2,4,4,244,Loyal Customers
+CUST-1053,699,1,64.5,Benjamin Martinez,benjamin.martinez39@example.com,Latin America,Referral,2023-02-02,2023-02-02,1,1,1,111,Lost / Churned
+CUST-1054,290,1,119.99,Evelyn Brown,evelyn.brown11@example.com,Latin America,Email Marketing,2024-03-17,2024-03-17,3,1,2,312,Hibernating
+CUST-1055,107,4,327.5,Mia Martin,mia.martin46@example.com,Europe,Email Marketing,2024-04-03,2024-09-16,4,4,4,444,Champions
+CUST-1056,136,1,366.4,Noah Anderson,noah.anderson18@example.com,Latin America,Organic Search,2024-08-18,2024-08-18,4,1,4,414,New / Promising
+CUST-1057,464,1,208.5,Benjamin Brown,benjamin.brown79@example.com,North America,Social Media,2023-09-25,2023-09-25,2,1,3,213,Hibernating
+CUST-1058,493,1,63.99,Mia Gonzalez,mia.gonzalez31@example.com,North America,Referral,2023-08-27,2023-08-27,2,1,1,211,Hibernating
+CUST-1059,69,1,79.99,Alex Taylor,alex.taylor63@example.com,Latin America,Paid Search,2024-10-24,2024-10-24,5,1,2,512,New / Promising
+CUST-1060,464,1,278.0,Mia Jackson,mia.jackson23@example.com,North America,Paid Search,2023-09-25,2023-09-25,2,1,3,213,Hibernating
+CUST-1061,232,1,54.83,Ava Taylor,ava.taylor26@example.com,Middle East,Email Marketing,2024-05-14,2024-05-14,3,1,1,311,Hibernating
+CUST-1062,21,11,1420.57,Chloe Davis,chloe.davis80@example.com,Middle East,Organic Search,2023-07-05,2024-12-11,5,5,5,555,Champions
+CUST-1063,12,5,1191.07,Emma Moore,emma.moore34@example.com,Latin America,Organic Search,2024-07-29,2024-12-20,5,5,5,555,Champions
+CUST-1064,575,1,525.0,Benjamin Thomas,benjamin.thomas49@example.com,Europe,Paid Search,2023-06-06,2023-06-06,1,1,4,114,Lost / Churned
+CUST-1065,375,1,115.0,Benjamin Wilson,benjamin.wilson71@example.com,North America,Paid Search,2023-12-23,2023-12-23,2,1,2,212,Hibernating
+CUST-1066,574,4,1336.95,Liam Jackson,liam.jackson42@example.com,Europe,Organic Search,2023-01-12,2023-06-07,1,4,5,145,Loyal Customers
+CUST-1067,333,1,51.3,Emma Jones,emma.jones44@example.com,Europe,Paid Search,2024-02-03,2024-02-03,3,1,1,311,Hibernating
+CUST-1068,373,1,111.2,Oliver Hernandez,oliver.hernandez28@example.com,Middle East,Email Marketing,2023-12-25,2023-12-25,2,1,2,212,Hibernating
+CUST-1069,451,1,79.99,Aiden Hernandez,aiden.hernandez38@example.com,Middle East,Email Marketing,2023-10-08,2023-10-08,2,1,2,212,Hibernating
+CUST-1070,168,5,1314.97,Evelyn Wilson,evelyn.wilson30@example.com,Europe,Organic Search,2023-12-31,2024-07-17,4,5,5,455,Champions
+CUST-1071,85,5,743.99,Evelyn Wilson,evelyn.wilson33@example.com,Asia-Pacific,Paid Search,2024-03-12,2024-10-08,4,5,5,455,Champions
+CUST-1072,208,3,492.0,Chloe Miller,chloe.miller26@example.com,North America,Organic Search,2024-02-17,2024-06-07,3,4,4,344,Loyal Customers
+CUST-1073,543,2,241.99,Aiden Smith,aiden.smith48@example.com,Europe,Referral,2023-05-18,2023-07-08,1,3,3,133,Needs Attention
+CUST-1074,158,1,525.0,Daniel Gonzalez,daniel.gonzalez17@example.com,Middle East,Email Marketing,2024-07-27,2024-07-27,4,1,4,414,New / Promising
+CUST-1075,430,3,574.15,Ava Miller,ava.miller81@example.com,Asia-Pacific,Organic Search,2023-06-02,2023-10-29,2,4,4,244,Loyal Customers
+CUST-1076,258,1,103.5,Aiden Lopez,aiden.lopez74@example.com,Europe,Referral,2024-04-18,2024-04-18,3,1,2,312,Hibernating
+CUST-1077,94,4,790.1800000000001,Noah Davis,noah.davis56@example.com,Europe,Organic Search,2024-04-10,2024-09-29,4,4,5,445,Champions
+CUST-1078,167,5,808.96,Sophia Martinez,sophia.martinez66@example.com,Asia-Pacific,Organic Search,2024-02-17,2024-07-18,4,5,5,455,Champions
+CUST-1079,96,4,412.98,Harper Lopez,harper.lopez99@example.com,North America,Email Marketing,2024-03-28,2024-09-27,4,4,4,444,Champions
+CUST-1080,669,1,359.97,Liam Lopez,liam.lopez54@example.com,Middle East,Email Marketing,2023-03-04,2023-03-04,1,1,4,114,Lost / Churned
+CUST-1081,410,3,644.0,Liam Anderson,liam.anderson58@example.com,Asia-Pacific,Paid Search,2023-09-24,2023-11-18,2,4,5,245,Loyal Customers
+CUST-1082,54,5,417.19,Oliver Garcia,oliver.garcia78@example.com,Europe,Paid Search,2024-05-12,2024-11-08,5,5,4,554,Champions
+CUST-1083,214,3,590.5,Isabella Rodriguez,isabella.rodriguez84@example.com,North America,Paid Search,2023-12-20,2024-06-01,3,4,4,344,Loyal Customers
+CUST-1084,90,1,61.28,Daniel Smith,daniel.smith33@example.com,Middle East,Social Media,2024-10-03,2024-10-03,4,1,1,411,New / Promising
+CUST-1085,63,10,2371.15,Daniel Martinez,daniel.martinez57@example.com,Middle East,Email Marketing,2023-05-15,2024-10-30,5,5,5,555,Champions
+CUST-1086,721,1,149.99,Evelyn Taylor,evelyn.taylor38@example.com,Latin America,Organic Search,2023-01-11,2023-01-11,1,1,2,112,Lost / Churned
+CUST-1087,649,1,207.0,Mia Miller,mia.miller40@example.com,Asia-Pacific,Paid Search,2023-03-24,2023-03-24,1,1,3,113,Lost / Churned
+CUST-1088,599,1,102.6,Isabella Williams,isabella.williams49@example.com,Middle East,Email Marketing,2023-05-13,2023-05-13,1,1,2,112,Lost / Churned
+CUST-1089,721,1,149.99,James Davis,james.davis40@example.com,North America,Referral,2023-01-11,2023-01-11,1,1,2,112,Lost / Churned
+CUST-1090,86,13,1795.8899999999999,Chloe Gonzalez,chloe.gonzalez20@example.com,Latin America,Email Marketing,2023-04-14,2024-10-07,4,5,5,455,Champions
+CUST-1091,187,1,435.1,Aiden Gonzalez,aiden.gonzalez52@example.com,Latin America,Organic Search,2024-06-28,2024-06-28,4,1,4,414,New / Promising
+CUST-1092,252,2,150.7,Lucas Martinez,lucas.martinez80@example.com,Latin America,Organic Search,2024-02-02,2024-04-24,3,3,2,332,Loyal Customers
+CUST-1093,606,2,290.0,Noah Smith,noah.smith38@example.com,Latin America,Paid Search,2023-04-04,2023-05-06,1,3,3,133,Needs Attention
+CUST-1094,527,1,139.0,Evelyn Garcia,evelyn.garcia77@example.com,Middle East,Email Marketing,2023-07-24,2023-07-24,1,1,2,112,Lost / Churned
+CUST-1095,403,1,54.0,Aiden Anderson,aiden.anderson19@example.com,Europe,Email Marketing,2023-11-25,2023-11-25,2,1,1,211,Hibernating
+CUST-1096,447,5,425.34000000000003,Ava Williams,ava.williams35@example.com,Middle East,Email Marketing,2023-02-27,2023-10-12,2,5,4,254,Loyal Customers
+CUST-1097,679,1,229.0,Ava Lopez,ava.lopez87@example.com,North America,Social Media,2023-02-22,2023-02-22,1,1,3,113,Lost / Churned
+CUST-1098,103,3,573.47,Ava Wilson,ava.wilson94@example.com,Middle East,Organic Search,2024-06-01,2024-09-20,4,4,4,444,Champions
+CUST-1099,481,3,181.75,Noah Miller,noah.miller71@example.com,North America,Social Media,2023-05-15,2023-09-08,2,4,3,243,At Risk Spenders
+CUST-1100,160,3,814.8,Ava Gonzalez,ava.gonzalez77@example.com,Middle East,Email Marketing,2024-05-23,2024-07-25,4,4,5,445,Champions
+CUST-1101,518,3,555.1700000000001,Liam Brown,liam.brown75@example.com,North America,Social Media,2023-05-19,2023-08-02,2,4,4,244,Loyal Customers
+CUST-1102,173,1,230.0,Harper Garcia,harper.garcia96@example.com,Asia-Pacific,Referral,2024-07-12,2024-07-12,4,1,3,413,New / Promising
+CUST-1103,574,1,66.02,Harper Brown,harper.brown33@example.com,North America,Social Media,2023-06-07,2023-06-07,1,1,1,111,Lost / Churned
+CUST-1104,423,1,48.6,Sophia Johnson,sophia.johnson76@example.com,Middle East,Organic Search,2023-11-05,2023-11-05,2,1,1,211,Hibernating
+CUST-1105,114,11,1092.35,Oliver Hernandez,oliver.hernandez40@example.com,Latin America,Organic Search,2023-04-03,2024-09-09,4,5,5,455,Champions
+CUST-1106,206,1,107.99,Oliver Martin,oliver.martin91@example.com,Europe,Social Media,2024-06-09,2024-06-09,4,1,2,412,New / Promising
+CUST-1107,455,1,42.0,Olivia Lopez,olivia.lopez18@example.com,Europe,Email Marketing,2023-10-04,2023-10-04,2,1,1,211,Hibernating
+CUST-1108,158,1,28.5,Emma Martin,emma.martin66@example.com,Europe,Email Marketing,2024-07-27,2024-07-27,4,1,1,411,New / Promising
+CUST-1109,271,8,908.0600000000001,James Johnson,james.johnson25@example.com,North America,Organic Search,2023-05-22,2024-04-05,3,5,5,355,Loyal Customers
+CUST-1110,66,1,145.8,Daniel Gonzalez,daniel.gonzalez46@example.com,North America,Organic Search,2024-10-27,2024-10-27,5,1,2,512,New / Promising
+CUST-1111,407,4,453.98,Alex Brown,alex.brown73@example.com,Latin America,Email Marketing,2023-04-26,2023-11-21,2,4,4,244,Loyal Customers
+CUST-1112,39,5,716.74,Benjamin Hernandez,benjamin.hernandez29@example.com,Asia-Pacific,Social Media,2024-07-14,2024-11-23,5,5,5,555,Champions
+CUST-1113,40,2,92.15,Sophia Hernandez,sophia.hernandez82@example.com,Europe,Paid Search,2024-09-07,2024-11-22,5,3,2,532,Loyal Customers
+CUST-1114,104,1,64.5,Charlotte Rodriguez,charlotte.rodriguez94@example.com,North America,Referral,2024-09-19,2024-09-19,4,1,1,411,New / Promising
+CUST-1115,30,6,1254.0300000000002,Sophia Miller,sophia.miller14@example.com,Europe,Social Media,2024-04-06,2024-12-02,5,5,5,555,Champions
+CUST-1116,282,4,475.58000000000004,Alex Moore,alex.moore47@example.com,North America,Social Media,2023-09-10,2024-03-25,3,4,4,344,Loyal Customers
+CUST-1117,424,1,84.55,Lucas Rodriguez,cust-1117@unverified.customer.com,Europe,Social Media,2023-11-04,2023-11-04,2,1,2,212,Hibernating
+CUST-1118,207,4,349.5,Daniel Hernandez,daniel.hernandez12@example.com,Middle East,Paid Search,2023-05-11,2024-06-08,4,4,4,444,Champions
+CUST-1119,168,2,278.5,Olivia Wilson,olivia.wilson86@example.com,Middle East,Referral,2024-05-11,2024-07-17,4,3,3,433,Loyal Customers
+CUST-1120,700,1,28.5,Ava Hernandez,ava.hernandez42@example.com,Europe,Referral,2023-02-01,2023-02-01,1,1,1,111,Lost / Churned
+CUST-1121,463,1,57.0,Mia Miller,mia.miller64@example.com,Middle East,Organic Search,2023-09-26,2023-09-26,2,1,1,211,Hibernating
+CUST-1122,51,2,232.0,Ava Anderson,ava.anderson11@example.com,Asia-Pacific,Paid Search,2024-10-18,2024-11-11,5,3,3,533,Loyal Customers
+CUST-1123,494,4,498.04,Alex Gonzalez,alex.gonzalez82@example.com,Asia-Pacific,Referral,2023-03-20,2023-08-26,2,4,4,244,Loyal Customers
+CUST-1124,725,1,69.5,Olivia Martinez,olivia.martinez27@example.com,Middle East,Referral,2023-01-07,2023-01-07,1,1,1,111,Lost / Churned
+CUST-1125,466,1,127.49,Benjamin Williams,benjamin.williams41@example.com,North America,Email Marketing,2023-09-23,2023-09-23,2,1,2,212,Hibernating
+CUST-1126,290,1,57.0,Lucas Thomas,lucas.thomas18@example.com,Europe,Social Media,2024-03-17,2024-03-17,3,1,1,311,Hibernating
+CUST-1127,177,1,239.98,Charlotte Jones,charlotte.jones35@example.com,Asia-Pacific,Referral,2024-07-08,2024-07-08,4,1,3,413,New / Promising
+CUST-1128,227,3,443.8,Alex Martin,alex.martin91@example.com,Asia-Pacific,Paid Search,2024-02-11,2024-05-19,3,4,4,344,Loyal Customers
+CUST-1129,285,1,27.08,Olivia Davis,olivia.davis56@example.com,Latin America,Referral,2024-03-22,2024-03-22,3,1,1,311,Hibernating
+CUST-1130,316,4,581.5,Olivia Smith,olivia.smith45@example.com,Latin America,Social Media,2023-11-25,2024-02-20,3,4,4,344,Loyal Customers
+CUST-1131,426,1,42.0,Mia Martin,mia.martin84@example.com,Latin America,Paid Search,2023-11-02,2023-11-02,2,1,1,211,Hibernating
+CUST-1132,203,1,39.9,Chloe Brown,chloe.brown49@example.com,Europe,Referral,2024-06-12,2024-06-12,4,1,1,411,New / Promising
+CUST-1133,444,1,22.8,Alex Moore,alex.moore63@example.com,Latin America,Email Marketing,2023-10-15,2023-10-15,2,1,1,211,Hibernating
+CUST-1134,175,7,1271.78,Olivia Moore,olivia.moore15@example.com,Latin America,Organic Search,2023-08-11,2024-07-10,4,5,5,455,Champions
+CUST-1135,480,1,34.5,Ethan Martin,ethan.martin38@example.com,Latin America,Email Marketing,2023-09-09,2023-09-09,2,1,1,211,Hibernating
+CUST-1136,187,2,254.99,Harper Lopez,harper.lopez79@example.com,Latin America,Organic Search,2024-05-07,2024-06-28,4,3,3,433,Loyal Customers
+CUST-1137,374,2,819.99,Alex Jackson,alex.jackson58@example.com,Europe,Social Media,2023-10-10,2023-12-24,2,3,5,235,Needs Attention
+CUST-1138,415,1,149.99,Ava Jackson,ava.jackson75@example.com,Latin America,Social Media,2023-11-13,2023-11-13,2,1,2,212,Hibernating
+CUST-1139,67,1,71.2,Evelyn Martin,evelyn.martin77@example.com,Latin America,Organic Search,2024-10-26,2024-10-26,5,1,2,512,New / Promising
+CUST-1140,510,1,69.5,James Williams,james.williams22@example.com,Europe,Social Media,2023-08-10,2023-08-10,2,1,1,211,Hibernating
+CUST-1141,422,2,296.2,Oliver Johnson,oliver.johnson10@example.com,Europe,Organic Search,2023-08-20,2023-11-06,2,3,3,233,Needs Attention
+CUST-1142,308,1,64.5,Lucas Thomas,lucas.thomas42@example.com,Middle East,Email Marketing,2024-02-28,2024-02-28,3,1,1,311,Hibernating
+CUST-1143,537,3,209.7,Mia Johnson,mia.johnson27@example.com,Middle East,Referral,2023-02-16,2023-07-14,1,4,3,143,At Risk Spenders
+CUST-1144,7,2,171.99,Noah Williams,noah.williams62@example.com,Latin America,Social Media,2024-11-16,2024-12-25,5,3,3,533,Loyal Customers
+CUST-1145,14,3,301.54,Noah Martin,noah.martin77@example.com,North America,Paid Search,2024-07-30,2024-12-18,5,4,3,543,Champions
+CUST-1146,214,1,183.2,Olivia Garcia,olivia.garcia79@example.com,Asia-Pacific,Referral,2024-06-01,2024-06-01,3,1,3,313,Hibernating
+CUST-1147,175,12,2522.66,Isabella Wilson,isabella.wilson91@example.com,Europe,Paid Search,2023-03-16,2024-07-10,4,5,5,455,Champions
+CUST-1148,85,4,1069.25,Sophia Martin,sophia.martin73@example.com,Middle East,Paid Search,2024-04-10,2024-10-08,4,4,5,445,Champions
+CUST-1149,107,1,87.98,Mia Hernandez,mia.hernandez48@example.com,Middle East,Paid Search,2024-09-16,2024-09-16,4,1,2,412,New / Promising
+CUST-1150,142,7,660.3,Lucas Lopez,lucas.lopez44@example.com,Latin America,Referral,2023-09-15,2024-08-12,4,5,5,455,Champions
+CUST-1151,339,1,42.0,Daniel Miller,daniel.miller78@example.com,Latin America,Paid Search,2024-01-28,2024-01-28,3,1,1,311,Hibernating
+CUST-1152,179,5,678.8,Charlotte Williams,cust-1152@unverified.customer.com,North America,Organic Search,2023-12-24,2024-07-06,4,5,5,455,Champions
+CUST-1153,721,1,79.99,Harper Hernandez,harper.hernandez61@example.com,Europe,Email Marketing,2023-01-11,2023-01-11,1,1,2,112,Lost / Churned
+CUST-1154,266,6,835.22,Sophia Smith,sophia.smith88@example.com,Asia-Pacific,Paid Search,2023-07-26,2024-04-10,3,5,5,355,Loyal Customers
+CUST-1155,165,1,66.02,Benjamin Martin,benjamin.martin83@example.com,Europe,Referral,2024-07-20,2024-07-20,4,1,1,411,New / Promising
+CUST-1156,447,2,187.99,Liam Martinez,liam.martinez74@example.com,Asia-Pacific,Social Media,2023-07-22,2023-10-12,2,3,3,233,Needs Attention
+CUST-1157,41,7,974.94,Daniel Garcia,daniel.garcia32@example.com,Europe,Organic Search,2023-11-29,2024-11-21,5,5,5,555,Champions
+CUST-1158,235,8,1291.01,Evelyn Lopez,evelyn.lopez51@example.com,Asia-Pacific,Organic Search,2023-04-06,2024-05-11,3,5,5,355,Loyal Customers
+CUST-1159,567,1,42.0,Mia Jackson,mia.jackson26@example.com,Europe,Referral,2023-06-14,2023-06-14,1,1,1,111,Lost / Churned
+CUST-1160,358,6,600.25,Charlotte Smith,charlotte.smith97@example.com,North America,Social Media,2023-01-29,2024-01-09,2,5,4,254,Loyal Customers
+CUST-1161,171,1,71.2,Isabella Lopez,isabella.lopez58@example.com,Middle East,Referral,2024-07-14,2024-07-14,4,1,2,412,New / Promising
+CUST-1162,177,10,1107.99,Charlotte Anderson,charlotte.anderson36@example.com,Latin America,Social Media,2023-04-05,2024-07-08,4,5,5,455,Champions
+CUST-1163,338,5,440.94,Chloe Garcia,chloe.garcia67@example.com,Asia-Pacific,Organic Search,2023-06-20,2024-01-29,3,5,4,354,Loyal Customers
+CUST-1164,135,1,55.6,Ethan Brown,ethan.brown67@example.com,Latin America,Email Marketing,2024-08-19,2024-08-19,4,1,1,411,New / Promising
+CUST-1165,414,5,427.14,Chloe Brown,chloe.brown98@example.com,North America,Organic Search,2023-03-26,2023-11-14,2,5,4,254,Loyal Customers
+CUST-1166,518,1,54.0,Noah Wilson,noah.wilson94@example.com,Latin America,Organic Search,2023-08-02,2023-08-02,2,1,1,211,Hibernating
+CUST-1167,588,2,194.99,Olivia Lopez,olivia.lopez41@example.com,Latin America,Referral,2023-05-04,2023-05-24,1,3,3,133,Needs Attention
+CUST-1168,663,1,38.0,Ethan Moore,ethan.moore53@example.com,Latin America,Paid Search,2023-03-10,2023-03-10,1,1,1,111,Lost / Churned
+CUST-1169,320,1,57.0,Emma Taylor,emma.taylor12@example.com,Middle East,Paid Search,2024-02-16,2024-02-16,3,1,1,311,Hibernating
+CUST-1170,153,5,628.98,James Moore,james.moore91@example.com,Europe,Email Marketing,2023-10-10,2024-08-01,4,5,4,454,Champions
+CUST-1171,183,4,221.49,Olivia Martin,olivia.martin39@example.com,North America,Referral,2024-01-09,2024-07-02,4,4,3,443,Champions
+CUST-1172,239,7,736.4,James Lopez,james.lopez43@example.com,Europe,Paid Search,2023-07-03,2024-05-07,3,5,5,355,Loyal Customers
+CUST-1173,83,1,45.9,Alex Anderson,alex.anderson11@example.com,Middle East,Social Media,2024-10-10,2024-10-10,5,1,1,511,New / Promising
+CUST-1174,80,5,561.04,Olivia Rodriguez,olivia.rodriguez38@example.com,Latin America,Organic Search,2024-04-06,2024-10-13,5,5,4,554,Champions
+CUST-1175,47,1,149.99,Mia Anderson,mia.anderson43@example.com,Middle East,Social Media,2024-11-15,2024-11-15,5,1,2,512,New / Promising
+CUST-1176,686,1,366.4,Evelyn Martinez,evelyn.martinez54@example.com,Middle East,Social Media,2023-02-15,2023-02-15,1,1,4,114,Lost / Churned
+CUST-1177,384,2,307.49,Liam Wilson,liam.wilson28@example.com,Europe,Organic Search,2023-11-07,2023-12-14,2,3,3,233,Needs Attention
+CUST-1178,125,8,1407.97,Lucas Moore,lucas.moore87@example.com,Europe,Email Marketing,2023-07-13,2024-08-29,4,5,5,455,Champions
+CUST-1179,42,4,679.76,Alex Brown,alex.brown50@example.com,Asia-Pacific,Referral,2024-06-25,2024-11-20,5,4,5,545,Champions
+CUST-1180,354,3,193.99,Mia Moore,mia.moore64@example.com,Europe,Email Marketing,2023-10-29,2024-01-13,3,4,3,343,Loyal Customers
+CUST-1181,95,8,1082.99,Isabella Martinez,isabella.martinez69@example.com,Europe,Organic Search,2023-11-10,2024-09-28,4,5,5,455,Champions
+CUST-1182,456,1,69.5,Alex Gonzalez,alex.gonzalez47@example.com,Middle East,Referral,2023-10-03,2023-10-03,2,1,1,211,Hibernating
+CUST-1183,248,1,267.0,Harper Smith,harper.smith71@example.com,North America,Organic Search,2024-04-28,2024-04-28,3,1,3,313,Hibernating
+CUST-1184,376,1,217.55,James Johnson,james.johnson56@example.com,Asia-Pacific,Paid Search,2023-12-22,2023-12-22,2,1,3,213,Hibernating
+CUST-1185,79,1,239.97,James Garcia,james.garcia29@example.com,Middle East,Organic Search,2024-10-14,2024-10-14,5,1,3,513,New / Promising
+CUST-1186,618,1,149.99,Aiden Jackson,aiden.jackson34@example.com,Latin America,Paid Search,2023-04-24,2023-04-24,1,1,2,112,Lost / Churned
+CUST-1187,494,1,119.99,Emma Rodriguez,emma.rodriguez52@example.com,Europe,Organic Search,2023-08-26,2023-08-26,2,1,2,212,Hibernating
+CUST-1188,35,8,976.49,Sophia Taylor,sophia.taylor48@example.com,Middle East,Email Marketing,2024-02-18,2024-11-27,5,5,5,555,Champions
+CUST-1189,233,5,724.56,Liam Johnson,liam.johnson27@example.com,Asia-Pacific,Referral,2023-11-10,2024-05-13,3,5,5,355,Loyal Customers
+CUST-1190,15,2,162.0,Emma Anderson,emma.anderson30@example.com,Latin America,Email Marketing,2024-11-12,2024-12-17,5,3,3,533,Loyal Customers
+CUST-1191,169,3,205.19,Evelyn Moore,evelyn.moore45@example.com,Middle East,Referral,2024-03-13,2024-07-16,4,4,3,443,Champions
+CUST-1192,705,1,28.5,Evelyn Brown,evelyn.brown99@example.com,Asia-Pacific,Paid Search,2023-01-27,2023-01-27,1,1,1,111,Lost / Churned
+CUST-1193,227,1,79.99,Olivia Davis,olivia.davis66@example.com,Asia-Pacific,Social Media,2024-05-19,2024-05-19,3,1,2,312,Hibernating
+CUST-1194,255,1,38.0,Charlotte Taylor,charlotte.taylor54@example.com,Asia-Pacific,Email Marketing,2024-04-21,2024-04-21,3,1,1,311,Hibernating
+CUST-1195,114,3,567.25,Sophia Jackson,sophia.jackson57@example.com,Europe,Social Media,2024-03-28,2024-09-09,4,4,4,444,Champions
+CUST-1196,230,2,552.6,Benjamin Davis,benjamin.davis32@example.com,Asia-Pacific,Referral,2024-02-20,2024-05-16,3,3,4,334,Loyal Customers
+CUST-1197,580,1,327.75,Olivia Lopez,olivia.lopez19@example.com,North America,Social Media,2023-06-01,2023-06-01,1,1,4,114,Lost / Churned
+CUST-1198,17,2,454.0,Alex Rodriguez,alex.rodriguez99@example.com,Middle East,Social Media,2024-09-24,2024-12-15,5,3,4,534,Loyal Customers
+CUST-1199,273,1,175.0,Liam Rodriguez,liam.rodriguez29@example.com,North America,Paid Search,2024-04-03,2024-04-03,3,1,3,313,Hibernating
+CUST-1200,117,3,293.49,Liam Miller,liam.miller91@example.com,Middle East,Social Media,2024-05-28,2024-09-06,4,4,3,443,Champions
+CUST-1201,235,1,175.0,Ethan Johnson,ethan.johnson56@example.com,Latin America,Referral,2024-05-11,2024-05-11,3,1,3,313,Hibernating
+CUST-1202,272,1,267.0,Ethan Williams,ethan.williams65@example.com,Middle East,Organic Search,2024-04-04,2024-04-04,3,1,3,313,Hibernating
+CUST-1203,609,3,313.9,Mia Garcia,mia.garcia33@example.com,North America,Social Media,2023-03-01,2023-05-03,1,4,3,143,At Risk Spenders
+CUST-1204,160,1,28.5,Daniel Anderson,daniel.anderson33@example.com,Europe,Referral,2024-07-25,2024-07-25,4,1,1,411,New / Promising
+CUST-1205,20,3,428.45,Oliver Anderson,oliver.anderson85@example.com,Latin America,Email Marketing,2024-09-24,2024-12-12,5,4,4,544,Champions
+CUST-1206,91,5,750.99,Sophia Moore,sophia.moore63@example.com,Asia-Pacific,Organic Search,2024-03-21,2024-10-02,4,5,5,455,Champions
+CUST-1207,390,1,69.0,Evelyn Williams,evelyn.williams55@example.com,North America,Social Media,2023-12-08,2023-12-08,2,1,1,211,Hibernating
+CUST-1208,353,1,284.98,Alex Jones,alex.jones30@example.com,Middle East,Referral,2024-01-14,2024-01-14,3,1,3,313,Hibernating
+CUST-1209,220,1,129.0,Daniel Martinez,daniel.martinez53@example.com,Latin America,Email Marketing,2024-05-26,2024-05-26,3,1,2,312,Hibernating
+CUST-1210,456,1,115.0,Olivia Lopez,olivia.lopez16@example.com,Latin America,Referral,2023-10-03,2023-10-03,2,1,2,212,Hibernating
+CUST-1211,266,6,496.40000000000003,Sophia Rodriguez,sophia.rodriguez70@example.com,Middle East,Organic Search,2023-10-30,2024-04-10,3,5,4,354,Loyal Customers
+CUST-1212,440,2,452.49,Harper Gonzalez,harper.gonzalez94@example.com,Latin America,Paid Search,2023-10-02,2023-10-19,2,3,4,234,Needs Attention
+CUST-1213,522,4,764.4300000000001,Liam Gonzalez,liam.gonzalez16@example.com,Asia-Pacific,Organic Search,2023-02-18,2023-07-29,2,4,5,245,Loyal Customers
+CUST-1214,370,1,119.99,Noah Jackson,noah.jackson81@example.com,Latin America,Organic Search,2023-12-28,2023-12-28,2,1,2,212,Hibernating
+CUST-1215,475,1,359.97,Alex Rodriguez,alex.rodriguez70@example.com,Europe,Paid Search,2023-09-14,2023-09-14,2,1,4,214,Hibernating
+CUST-1216,89,3,157.57,Sophia Thomas,sophia.thomas44@example.com,Middle East,Organic Search,2024-07-03,2024-10-04,4,4,3,443,Champions
+CUST-1217,26,4,1165.15,Oliver Miller,oliver.miller62@example.com,North America,Referral,2024-06-18,2024-12-06,5,4,5,545,Champions
+CUST-1218,623,1,239.97,Emma Taylor,emma.taylor52@example.com,Europe,Email Marketing,2023-04-19,2023-04-19,1,1,3,113,Lost / Churned
+CUST-1219,646,2,198.0,Sophia Lopez,sophia.lopez47@example.com,Middle East,Referral,2023-02-26,2023-03-27,1,3,3,133,Needs Attention
+CUST-1220,7,2,477.98,Ava Smith,ava.smith59@example.com,Middle East,Social Media,2024-11-19,2024-12-25,5,3,4,534,Loyal Customers
+CUST-1221,517,1,687.0,Aiden Rodriguez,aiden.rodriguez13@example.com,Latin America,Paid Search,2023-08-03,2023-08-03,2,1,5,215,Hibernating
+CUST-1222,353,4,468.14,Isabella Anderson,isabella.anderson52@example.com,Europe,Email Marketing,2023-08-27,2024-01-14,3,4,4,344,Loyal Customers
+CUST-1223,38,8,1025.56,Mia Anderson,mia.anderson65@example.com,Latin America,Social Media,2023-11-29,2024-11-24,5,5,5,555,Champions
+CUST-1224,270,1,129.0,Benjamin Moore,benjamin.moore33@example.com,Latin America,Organic Search,2024-04-06,2024-04-06,3,1,2,312,Hibernating
+CUST-1225,431,3,328.96999999999997,Olivia Anderson,olivia.anderson88@example.com,Asia-Pacific,Paid Search,2023-09-12,2023-10-28,2,4,4,244,Loyal Customers
+CUST-1226,24,7,826.71,Lucas Miller,lucas.miller30@example.com,North America,Organic Search,2024-01-07,2024-12-08,5,5,5,555,Champions
+CUST-1227,499,1,28.5,Ethan Brown,ethan.brown60@example.com,Asia-Pacific,Social Media,2023-08-21,2023-08-21,2,1,1,211,Hibernating
+CUST-1228,648,1,115.0,Olivia Davis,olivia.davis50@example.com,Europe,Referral,2023-03-25,2023-03-25,1,1,2,112,Lost / Churned
+CUST-1229,240,1,229.0,Benjamin Rodriguez,benjamin.rodriguez51@example.com,Europe,Social Media,2024-05-06,2024-05-06,3,1,3,313,Hibernating
+CUST-1230,249,5,600.76,Isabella Davis,isabella.davis47@example.com,North America,Email Marketing,2023-08-16,2024-04-27,3,5,4,354,Loyal Customers
+CUST-1231,59,1,76.0,Mia Brown,mia.brown91@example.com,Middle East,Paid Search,2024-11-03,2024-11-03,5,1,2,512,New / Promising
+CUST-1232,180,1,240.3,Chloe Rodriguez,chloe.rodriguez43@example.com,Middle East,Referral,2024-07-05,2024-07-05,4,1,3,413,New / Promising
+CUST-1233,142,1,89.0,James Gonzalez,james.gonzalez23@example.com,North America,Paid Search,2024-08-12,2024-08-12,4,1,2,412,New / Promising
+CUST-1234,117,3,460.5,Ava Martin,ava.martin92@example.com,North America,Social Media,2024-05-14,2024-09-06,4,4,4,444,Champions
+CUST-1235,657,1,84.0,Chloe Moore,chloe.moore47@example.com,Europe,Organic Search,2023-03-16,2023-03-16,1,1,2,112,Lost / Churned
+CUST-1236,14,6,1429.95,Ava Wilson,ava.wilson97@example.com,North America,Paid Search,2024-07-07,2024-12-18,5,5,5,555,Champions
+CUST-1237,28,10,1618.23,Oliver Smith,oliver.smith98@example.com,Asia-Pacific,Email Marketing,2023-04-18,2024-12-04,5,5,5,555,Champions
+CUST-1238,105,1,229.0,Daniel Thomas,daniel.thomas16@example.com,Asia-Pacific,Referral,2024-09-18,2024-09-18,4,1,3,413,New / Promising
+CUST-1239,400,3,343.97,Evelyn Martin,evelyn.martin65@example.com,North America,Social Media,2023-07-15,2023-11-28,2,4,4,244,Loyal Customers
+CUST-1240,27,2,506.38,Benjamin Miller,benjamin.miller74@example.com,Asia-Pacific,Social Media,2024-10-17,2024-12-05,5,3,4,534,Loyal Customers
+CUST-1241,356,5,1078.76,Ethan Martinez,ethan.martinez25@example.com,Latin America,Email Marketing,2023-06-13,2024-01-11,3,5,5,355,Loyal Customers
+CUST-1242,283,1,42.0,Benjamin Jones,benjamin.jones82@example.com,Middle East,Organic Search,2024-03-24,2024-03-24,3,1,1,311,Hibernating
+CUST-1243,305,3,303.65,Oliver Rodriguez,oliver.rodriguez47@example.com,Middle East,Organic Search,2023-11-19,2024-03-02,3,4,3,343,Loyal Customers
+CUST-1244,517,1,57.0,Chloe Johnson,chloe.johnson60@example.com,Middle East,Referral,2023-08-03,2023-08-03,2,1,1,211,Hibernating
+CUST-1245,129,1,38.0,Ava Jackson,ava.jackson41@example.com,Asia-Pacific,Social Media,2024-08-25,2024-08-25,4,1,1,411,New / Promising
+CUST-1246,507,1,89.0,Noah Wilson,noah.wilson36@example.com,Latin America,Social Media,2023-08-13,2023-08-13,2,1,2,212,Hibernating
+CUST-1247,628,1,54.0,Ava Rodriguez,ava.rodriguez73@example.com,Latin America,Email Marketing,2023-04-14,2023-04-14,1,1,1,111,Lost / Churned
+CUST-1248,684,2,378.5,Charlotte Jackson,charlotte.jackson85@example.com,Latin America,Social Media,2023-01-22,2023-02-17,1,3,4,134,Needs Attention
+CUST-1249,193,8,1404.73,Lucas Wilson,lucas.wilson67@example.com,Middle East,Paid Search,2023-05-07,2024-06-22,4,5,5,455,Champions
+CUST-1250,137,1,72.2,Daniel Garcia,daniel.garcia99@example.com,North America,Organic Search,2024-08-17,2024-08-17,4,1,2,412,New / Promising
+CUST-1251,208,1,299.98,Olivia Brown,olivia.brown92@example.com,Asia-Pacific,Social Media,2024-06-07,2024-06-07,3,1,3,313,Hibernating
+CUST-1252,462,2,514.47,Noah Taylor,noah.taylor95@example.com,Middle East,Organic Search,2023-09-03,2023-09-27,2,3,4,234,Needs Attention
+CUST-1253,718,1,69.0,Harper Lopez,harper.lopez85@example.com,Europe,Social Media,2023-01-14,2023-01-14,1,1,1,111,Lost / Churned
+CUST-1254,306,1,168.0,Ethan Davis,ethan.davis59@example.com,Asia-Pacific,Paid Search,2024-03-01,2024-03-01,3,1,3,313,Hibernating
+CUST-1255,495,1,229.0,Charlotte Gonzalez,charlotte.gonzalez47@example.com,North America,Organic Search,2023-08-25,2023-08-25,2,1,3,213,Hibernating
+CUST-1256,413,1,28.5,Evelyn Thomas,cust-1256@unverified.customer.com,Middle East,Paid Search,2023-11-15,2023-11-15,2,1,1,211,Hibernating
+CUST-1257,70,8,755.73,Emma Jackson,emma.jackson57@example.com,Europe,Email Marketing,2023-10-01,2024-10-23,5,5,5,555,Champions
+CUST-1258,723,1,525.0,Sophia Taylor,sophia.taylor57@example.com,North America,Social Media,2023-01-09,2023-01-09,1,1,4,114,Lost / Churned
+CUST-1259,490,3,401.98,Emma Jackson,emma.jackson57@example.com,Asia-Pacific,Social Media,2023-07-10,2023-08-30,2,4,4,244,Loyal Customers
+CUST-1260,186,3,608.95,Charlotte Hernandez,charlotte.hernandez93@example.com,Europe,Paid Search,2024-03-21,2024-06-29,4,4,4,444,Champions
+CUST-1261,332,9,711.08,Oliver Anderson,oliver.anderson12@example.com,Europe,Email Marketing,2023-04-13,2024-02-04,3,5,5,355,Loyal Customers
+CUST-1262,515,2,224.0,Charlotte Jones,charlotte.jones60@example.com,Latin America,Paid Search,2023-05-26,2023-08-05,2,3,3,233,Needs Attention
+CUST-1263,235,5,1241.07,Aiden Williams,aiden.williams61@example.com,Asia-Pacific,Paid Search,2023-07-09,2024-05-11,3,5,5,355,Loyal Customers
+CUST-1264,585,1,149.99,Sophia Johnson,sophia.johnson28@example.com,North America,Social Media,2023-05-27,2023-05-27,1,1,2,112,Lost / Churned
+CUST-1265,687,1,175.0,Noah Anderson,noah.anderson83@example.com,Latin America,Email Marketing,2023-02-14,2023-02-14,1,1,3,113,Lost / Churned
+CUST-1266,81,5,676.07,Liam Gonzalez,liam.gonzalez55@example.com,North America,Referral,2024-04-11,2024-10-12,5,5,5,555,Champions
+CUST-1267,6,2,512.0,Isabella Gonzalez,isabella.gonzalez32@example.com,Latin America,Referral,2024-10-27,2024-12-26,5,3,4,534,Loyal Customers
+CUST-1268,217,1,28.5,Liam Miller,cust-1268@unverified.customer.com,North America,Paid Search,2024-05-29,2024-05-29,3,1,1,311,Hibernating
+CUST-1269,303,1,32.78,Benjamin Anderson,benjamin.anderson24@example.com,Europe,Email Marketing,2024-03-04,2024-03-04,3,1,1,311,Hibernating
+CUST-1270,356,1,28.5,Olivia Jones,olivia.jones93@example.com,Europe,Social Media,2024-01-11,2024-01-11,3,1,1,311,Hibernating
+CUST-1271,214,1,28.5,Mia Jones,mia.jones98@example.com,Latin America,Email Marketing,2024-06-01,2024-06-01,3,1,1,311,Hibernating
+CUST-1272,257,4,267.82,Daniel Wilson,daniel.wilson79@example.com,Latin America,Social Media,2023-12-25,2024-04-19,3,4,3,343,Loyal Customers
+CUST-1273,39,2,424.99,Charlotte Williams,charlotte.williams11@example.com,Europe,Paid Search,2024-09-30,2024-11-23,5,3,4,534,Loyal Customers
+CUST-1274,440,5,495.26,Evelyn Thomas,evelyn.thomas28@example.com,Latin America,Email Marketing,2023-03-28,2023-10-19,2,5,4,254,Loyal Customers
+CUST-1275,87,5,484.68,Olivia Smith,olivia.smith17@example.com,Latin America,Referral,2024-04-07,2024-10-06,4,5,4,454,Champions
+CUST-1276,106,5,1044.59,Chloe Jones,chloe.jones24@example.com,Europe,Organic Search,2024-02-16,2024-09-17,4,5,5,455,Champions
+CUST-1277,206,1,700.0,Alex Wilson,alex.wilson91@example.com,Latin America,Organic Search,2024-06-09,2024-06-09,4,1,5,415,New / Promising
+CUST-1278,313,4,440.99,Lucas Johnson,lucas.johnson27@example.com,Europe,Social Media,2023-09-17,2024-02-23,3,4,4,344,Loyal Customers
+CUST-1279,566,1,92.0,Charlotte Hernandez,charlotte.hernandez48@example.com,Latin America,Organic Search,2023-06-15,2023-06-15,1,1,2,112,Lost / Churned
+CUST-1280,319,1,38.0,Charlotte Wilson,charlotte.wilson55@example.com,Middle East,Social Media,2024-02-17,2024-02-17,3,1,1,311,Hibernating
+CUST-1281,433,4,320.5,Aiden Moore,aiden.moore35@example.com,Asia-Pacific,Referral,2023-05-29,2023-10-26,2,4,4,244,Loyal Customers
+CUST-1282,185,1,69.5,James Rodriguez,james.rodriguez87@example.com,North America,Email Marketing,2024-06-30,2024-06-30,4,1,1,411,New / Promising
+CUST-1283,163,3,256.53999999999996,Olivia Miller,olivia.miller54@example.com,Asia-Pacific,Email Marketing,2024-06-01,2024-07-22,4,4,3,443,Champions
+CUST-1284,406,1,143.98,Lucas Smith,lucas.smith98@example.com,North America,Referral,2023-11-22,2023-11-22,2,1,2,212,Hibernating
+CUST-1285,660,1,79.99,Olivia Gonzalez,cust-1285@unverified.customer.com,Latin America,Paid Search,2023-03-13,2023-03-13,1,1,2,112,Lost / Churned
+CUST-1286,158,1,69.5,James Williams,james.williams98@example.com,Asia-Pacific,Paid Search,2024-07-27,2024-07-27,4,1,1,411,New / Promising
+CUST-1287,463,1,28.5,Alex Jackson,alex.jackson85@example.com,Europe,Paid Search,2023-09-26,2023-09-26,2,1,1,211,Hibernating
+CUST-1288,241,5,547.48,Daniel Brown,daniel.brown13@example.com,Europe,Organic Search,2023-08-21,2024-05-05,3,5,4,354,Loyal Customers
+CUST-1289,538,1,28.5,Liam Jackson,liam.jackson70@example.com,North America,Paid Search,2023-07-13,2023-07-13,1,1,1,111,Lost / Churned
+CUST-1290,351,8,1643.58,Charlotte Moore,charlotte.moore32@example.com,Latin America,Paid Search,2023-01-16,2024-01-16,3,5,5,355,Loyal Customers
+CUST-1291,284,1,80.1,Mia Jones,mia.jones20@example.com,Latin America,Organic Search,2024-03-23,2024-03-23,3,1,2,312,Hibernating
+CUST-1292,483,4,370.9,Oliver Lopez,oliver.lopez56@example.com,Middle East,Paid Search,2023-04-04,2023-09-06,2,4,4,244,Loyal Customers
+CUST-1293,206,5,632.47,Charlotte Hernandez,charlotte.hernandez29@example.com,Asia-Pacific,Paid Search,2023-09-26,2024-06-09,4,5,4,454,Champions
+CUST-1294,38,9,1270.49,Isabella Smith,isabella.smith40@example.com,Europe,Referral,2023-07-27,2024-11-24,5,5,5,555,Champions
+CUST-1295,593,2,168.0,Liam Jackson,liam.jackson95@example.com,Europe,Social Media,2023-02-23,2023-05-19,1,3,3,133,Needs Attention
+CUST-1296,519,1,239.98,Aiden Gonzalez,aiden.gonzalez82@example.com,Europe,Paid Search,2023-08-01,2023-08-01,2,1,3,213,Hibernating
+CUST-1297,77,1,42.0,Ethan Williams,ethan.williams31@example.com,North America,Email Marketing,2024-10-16,2024-10-16,5,1,1,511,New / Promising
+CUST-1298,192,5,400.48,Benjamin Taylor,benjamin.taylor50@example.com,Latin America,Organic Search,2023-12-23,2024-06-23,4,5,4,454,Champions
+CUST-1299,316,1,108.0,James Gonzalez,james.gonzalez61@example.com,Latin America,Paid Search,2024-02-20,2024-02-20,3,1,2,312,Hibernating
+CUST-1300,421,1,599.96,Emma Jackson,emma.jackson20@example.com,Latin America,Social Media,2023-11-07,2023-11-07,2,1,4,214,Hibernating
+CUST-1301,348,2,188.48,Charlotte Hernandez,charlotte.hernandez16@example.com,North America,Social Media,2023-11-08,2024-01-19,3,3,3,333,Loyal Customers
+CUST-1302,454,1,38.0,James Johnson,james.johnson46@example.com,Europe,Paid Search,2023-10-05,2023-10-05,2,1,1,211,Hibernating
+CUST-1303,679,1,152.0,Noah Gonzalez,noah.gonzalez34@example.com,Middle East,Email Marketing,2023-02-22,2023-02-22,1,1,2,112,Lost / Churned
+CUST-1304,147,4,649.33,Mia Thomas,mia.thomas27@example.com,Europe,Email Marketing,2024-03-06,2024-08-07,4,4,5,445,Champions
+CUST-1305,196,1,175.0,Isabella Anderson,isabella.anderson47@example.com,North America,Paid Search,2024-06-19,2024-06-19,4,1,3,413,New / Promising
+CUST-1306,422,1,126.0,Olivia Garcia,olivia.garcia69@example.com,Middle East,Social Media,2023-11-06,2023-11-06,2,1,2,212,Hibernating
+CUST-1307,17,7,1346.05,Chloe Moore,chloe.moore15@example.com,Asia-Pacific,Paid Search,2024-01-24,2024-12-15,5,5,5,555,Champions
+CUST-1308,587,1,42.0,Harper Gonzalez,harper.gonzalez64@example.com,Middle East,Paid Search,2023-05-25,2023-05-25,1,1,1,111,Lost / Churned
+CUST-1309,1,2,359.0,Daniel Garcia,daniel.garcia80@example.com,Asia-Pacific,Organic Search,2024-10-19,2024-12-31,5,3,4,534,Loyal Customers
+CUST-1310,366,1,143.98,Ethan Martin,ethan.martin49@example.com,Asia-Pacific,Paid Search,2024-01-01,2024-01-01,2,1,2,212,Hibernating
+CUST-1311,221,5,317.65,Lucas Rodriguez,lucas.rodriguez70@example.com,Asia-Pacific,Social Media,2023-11-05,2024-05-25,3,5,3,353,Loyal Customers
+CUST-1312,244,2,723.1,Benjamin Anderson,benjamin.anderson43@example.com,Middle East,Organic Search,2024-04-10,2024-05-02,3,3,5,335,Loyal Customers
+CUST-1313,328,4,694.48,Alex Smith,alex.smith34@example.com,Europe,Email Marketing,2023-10-29,2024-02-08,3,4,5,345,Loyal Customers
+CUST-1314,558,1,108.0,Sophia Rodriguez,sophia.rodriguez17@example.com,North America,Referral,2023-06-23,2023-06-23,1,1,2,112,Lost / Churned
+CUST-1315,433,1,175.0,Emma Davis,emma.davis32@example.com,Latin America,Social Media,2023-10-26,2023-10-26,2,1,3,213,Hibernating
+CUST-1316,148,1,48.6,Alex Gonzalez,alex.gonzalez80@example.com,Asia-Pacific,Social Media,2024-08-06,2024-08-06,4,1,1,411,New / Promising
+CUST-1317,682,1,458.0,Liam Gonzalez,cust-1317@unverified.customer.com,Europe,Social Media,2023-02-19,2023-02-19,1,1,4,114,Lost / Churned
+CUST-1318,439,3,235.68,Harper Rodriguez,harper.rodriguez17@example.com,Europe,Organic Search,2023-08-07,2023-10-20,2,4,3,243,At Risk Spenders
+CUST-1319,6,2,313.49,Benjamin Wilson,benjamin.wilson91@example.com,Latin America,Social Media,2024-10-09,2024-12-26,5,3,3,533,Loyal Customers
+CUST-1320,26,9,957.28,Lucas Jackson,lucas.jackson32@example.com,North America,Paid Search,2023-10-30,2024-12-06,5,5,5,555,Champions
+CUST-1321,563,1,55.6,Mia Hernandez,mia.hernandez78@example.com,Asia-Pacific,Referral,2023-06-18,2023-06-18,1,1,1,111,Lost / Churned
+CUST-1322,322,1,89.0,Benjamin Martinez,benjamin.martinez38@example.com,Latin America,Referral,2024-02-14,2024-02-14,3,1,2,312,Hibernating
+CUST-1323,493,5,631.24,Isabella Wilson,isabella.wilson78@example.com,Asia-Pacific,Organic Search,2023-02-03,2023-08-27,2,5,4,254,Loyal Customers
+CUST-1324,28,3,215.99,Olivia Brown,olivia.brown70@example.com,North America,Social Media,2024-07-15,2024-12-04,5,4,3,543,Champions
+CUST-1325,65,1,229.0,Harper Miller,harper.miller52@example.com,Latin America,Social Media,2024-10-28,2024-10-28,5,1,3,513,New / Promising
+CUST-1326,20,2,92.0,Sophia Lopez,sophia.lopez15@example.com,Europe,Organic Search,2024-10-26,2024-12-12,5,3,2,532,Loyal Customers
+CUST-1327,480,5,760.24,Aiden Taylor,aiden.taylor63@example.com,Middle East,Social Media,2023-02-21,2023-09-09,2,5,5,255,Loyal Customers
+CUST-1328,68,5,422.31,Lucas Miller,lucas.miller77@example.com,North America,Paid Search,2024-04-22,2024-10-25,5,5,4,554,Champions
+CUST-1329,282,4,731.13,Alex Wilson,alex.wilson14@example.com,Latin America,Social Media,2023-12-18,2024-03-25,3,4,5,345,Loyal Customers
+CUST-1330,367,1,239.98,Mia Moore,mia.moore65@example.com,Latin America,Paid Search,2023-12-31,2023-12-31,2,1,3,213,Hibernating
+CUST-1331,571,1,139.0,Benjamin Martin,benjamin.martin65@example.com,Latin America,Social Media,2023-06-10,2023-06-10,1,1,2,112,Lost / Churned
+CUST-1332,196,9,1195.79,Ava Martin,ava.martin42@example.com,Asia-Pacific,Referral,2023-05-08,2024-06-19,4,5,5,455,Champions
+CUST-1333,494,1,22.8,Noah Johnson,noah.johnson13@example.com,Asia-Pacific,Paid Search,2023-08-26,2023-08-26,2,1,1,211,Hibernating
+CUST-1334,683,1,64.5,Lucas Johnson,lucas.johnson26@example.com,Asia-Pacific,Social Media,2023-02-18,2023-02-18,1,1,1,111,Lost / Churned
+CUST-1335,462,2,315.98,Sophia Williams,sophia.williams43@example.com,Europe,Organic Search,2023-07-06,2023-09-27,2,3,3,233,Needs Attention
+CUST-1336,388,1,38.0,Harper Williams,harper.williams65@example.com,North America,Organic Search,2023-12-10,2023-12-10,2,1,1,211,Hibernating
+CUST-1337,408,2,1203.98,Liam Lopez,liam.lopez11@example.com,Middle East,Referral,2023-10-07,2023-11-20,2,3,5,235,Needs Attention
+CUST-1338,171,4,585.65,Isabella Martin,isabella.martin44@example.com,Asia-Pacific,Referral,2024-03-13,2024-07-14,4,4,4,444,Champions
+CUST-1339,188,1,89.0,Isabella Miller,isabella.miller81@example.com,Europe,Referral,2024-06-27,2024-06-27,4,1,2,412,New / Promising
+CUST-1340,435,1,51.6,Oliver Martin,oliver.martin72@example.com,Latin America,Email Marketing,2023-10-24,2023-10-24,2,1,1,211,Hibernating
+CUST-1341,49,4,682.25,Charlotte Jackson,charlotte.jackson85@example.com,Europe,Paid Search,2024-06-02,2024-11-13,5,4,5,545,Champions
+CUST-1342,121,1,64.5,Sophia Brown,sophia.brown25@example.com,North America,Referral,2024-09-02,2024-09-02,4,2,1,421,New / Promising
+CUST-1343,148,1,27.08,Chloe Williams,chloe.williams19@example.com,North America,Organic Search,2024-08-06,2024-08-06,4,2,1,421,New / Promising
+CUST-1344,9,8,475.67,Noah Moore,noah.moore23@example.com,Asia-Pacific,Referral,2024-01-23,2024-12-23,5,5,4,554,Champions
+CUST-1345,36,3,933.9200000000001,Sophia Hernandez,sophia.hernandez62@example.com,North America,Email Marketing,2024-08-17,2024-11-26,5,4,5,545,Champions
+CUST-1346,57,1,60.8,Isabella Smith,isabella.smith76@example.com,Middle East,Social Media,2024-11-05,2024-11-05,5,2,1,521,New / Promising
+CUST-1347,85,8,871.98,Harper Johnson,harper.johnson71@example.com,Latin America,Paid Search,2023-11-30,2024-10-08,4,5,5,455,Champions
+CUST-1348,33,2,136.8,James Lopez,james.lopez11@example.com,Latin America,Referral,2024-09-12,2024-11-29,5,3,2,532,Loyal Customers
+CUST-1349,628,1,79.99,Alex Taylor,alex.taylor23@example.com,Asia-Pacific,Social Media,2023-04-14,2023-04-14,1,2,2,122,Needs Attention
+CUST-1350,505,1,108.0,Ava Moore,ava.moore88@example.com,North America,Paid Search,2023-08-15,2023-08-15,2,2,2,222,Needs Attention
+CUST-1351,614,1,34.5,Olivia Thomas,olivia.thomas82@example.com,Europe,Organic Search,2023-04-28,2023-04-28,1,2,1,121,Needs Attention
+CUST-1352,497,1,142.49,Mia Thomas,mia.thomas16@example.com,North America,Organic Search,2023-08-23,2023-08-23,2,2,2,222,Needs Attention
+CUST-1353,106,1,54.0,Lucas Williams,lucas.williams39@example.com,Middle East,Social Media,2024-09-17,2024-09-17,4,2,1,421,New / Promising
+CUST-1354,44,1,103.5,James Brown,james.brown33@example.com,Latin America,Organic Search,2024-11-18,2024-11-18,5,2,2,522,New / Promising
+CUST-1355,557,1,229.0,Noah Williams,noah.williams40@example.com,Middle East,Organic Search,2023-06-24,2023-06-24,1,2,3,123,Needs Attention
+CUST-1356,86,7,2506.17,Chloe Jackson,chloe.jackson86@example.com,Asia-Pacific,Email Marketing,2023-09-03,2024-10-07,4,5,5,455,Champions
+CUST-1357,330,1,38.0,Isabella Martin,isabella.martin52@example.com,Europe,Referral,2024-02-06,2024-02-06,3,2,1,321,Potential Loyalists
+CUST-1358,690,1,89.0,Lucas Rodriguez,lucas.rodriguez73@example.com,North America,Email Marketing,2023-02-11,2023-02-11,1,2,2,122,Needs Attention
+CUST-1359,346,5,1423.07,Charlotte Davis,charlotte.davis97@example.com,Asia-Pacific,Referral,2023-08-10,2024-01-21,3,5,5,355,Loyal Customers
+CUST-1360,675,1,175.0,Ethan Miller,ethan.miller40@example.com,Latin America,Organic Search,2023-02-26,2023-02-26,1,2,3,123,Needs Attention
+CUST-1361,70,2,108.09,Noah Taylor,noah.taylor30@example.com,Europe,Social Media,2024-07-30,2024-10-23,5,3,2,532,Loyal Customers
+CUST-1362,285,1,69.5,Liam Hernandez,liam.hernandez94@example.com,Middle East,Organic Search,2024-03-22,2024-03-22,3,2,1,321,Potential Loyalists
+CUST-1363,17,12,1196.98,Isabella Smith,isabella.smith16@example.com,North America,Referral,2023-04-24,2024-12-15,5,5,5,555,Champions
+CUST-1364,680,1,27.08,Olivia Martin,olivia.martin49@example.com,North America,Referral,2023-02-21,2023-02-21,1,2,1,121,Needs Attention
+CUST-1365,189,11,1612.69,Chloe Davis,chloe.davis62@example.com,Asia-Pacific,Referral,2023-01-21,2024-06-26,4,5,5,455,Champions
+CUST-1366,98,13,1714.75,Liam Rodriguez,liam.rodriguez29@example.com,Asia-Pacific,Social Media,2023-04-11,2024-09-25,4,5,5,455,Champions
+CUST-1367,56,2,94.52,Noah Gonzalez,noah.gonzalez77@example.com,Latin America,Email Marketing,2024-09-17,2024-11-06,5,3,2,532,Loyal Customers
+CUST-1368,54,1,345.0,Harper Martinez,harper.martinez12@example.com,Asia-Pacific,Paid Search,2024-11-08,2024-11-08,5,2,4,524,New / Promising
+CUST-1369,37,9,1506.06,Benjamin Johnson,benjamin.johnson37@example.com,Latin America,Social Media,2023-09-06,2024-11-25,5,5,5,555,Champions
+CUST-1370,467,2,86.55,Olivia Smith,olivia.smith43@example.com,Latin America,Organic Search,2023-09-04,2023-09-22,2,3,2,232,Needs Attention
+CUST-1371,136,1,159.98,Alex Miller,alex.miller63@example.com,Latin America,Organic Search,2024-08-18,2024-08-18,4,2,3,423,New / Promising
+CUST-1372,135,1,229.0,Emma Davis,emma.davis90@example.com,Latin America,Email Marketing,2024-08-19,2024-08-19,4,2,3,423,New / Promising
+CUST-1373,348,7,712.23,Ava Garcia,ava.garcia47@example.com,North America,Email Marketing,2023-05-03,2024-01-19,3,5,5,355,Loyal Customers
+CUST-1374,333,1,175.0,Emma Rodriguez,emma.rodriguez90@example.com,Latin America,Paid Search,2024-02-03,2024-02-03,3,2,3,323,Potential Loyalists
+CUST-1375,23,8,1195.62,Lucas Lopez,lucas.lopez82@example.com,Europe,Email Marketing,2024-02-22,2024-12-09,5,5,5,555,Champions
+CUST-1376,487,1,115.0,Mia Smith,mia.smith80@example.com,Europe,Paid Search,2023-09-02,2023-09-02,2,2,2,222,Needs Attention
+CUST-1377,385,1,79.99,Aiden Thomas,aiden.thomas33@example.com,North America,Organic Search,2023-12-13,2023-12-13,2,2,2,222,Needs Attention
+CUST-1378,84,3,1170.0,Emma Brown,emma.brown28@example.com,Asia-Pacific,Email Marketing,2024-06-27,2024-10-09,5,4,5,545,Champions
+CUST-1379,204,9,908.11,Isabella Taylor,isabella.taylor61@example.com,Europe,Organic Search,2023-02-07,2024-06-11,4,5,5,455,Champions
+CUST-1380,712,1,64.5,Ethan Lopez,ethan.lopez17@example.com,Middle East,Paid Search,2023-01-20,2023-01-20,1,2,1,121,Needs Attention
+CUST-1381,274,8,1544.5,Chloe Smith,chloe.smith57@example.com,Asia-Pacific,Email Marketing,2023-05-15,2024-04-02,3,5,5,355,Loyal Customers
+CUST-1382,571,1,42.0,Evelyn Brown,evelyn.brown90@example.com,Latin America,Email Marketing,2023-06-10,2023-06-10,1,2,1,121,Needs Attention
+CUST-1383,99,8,1572.96,Mia Thomas,mia.thomas66@example.com,Latin America,Organic Search,2023-08-27,2024-09-24,4,5,5,455,Champions
+CUST-1384,98,10,1540.42,James Hernandez,james.hernandez37@example.com,Middle East,Referral,2023-05-14,2024-09-25,4,5,5,455,Champions
+CUST-1385,242,3,478.47,Alex Taylor,alex.taylor83@example.com,Middle East,Referral,2023-12-21,2024-05-04,3,4,4,344,Loyal Customers
+CUST-1386,549,1,284.98,Harper Taylor,harper.taylor59@example.com,Middle East,Email Marketing,2023-07-02,2023-07-02,1,2,3,123,Needs Attention
+CUST-1387,662,1,350.0,Evelyn Jones,evelyn.jones99@example.com,North America,Email Marketing,2023-03-11,2023-03-11,1,2,4,124,Needs Attention
+CUST-1388,142,4,379.5,Alex Williams,alex.williams67@example.com,Middle East,Social Media,2024-02-27,2024-08-12,4,4,4,444,Champions
+CUST-1389,153,1,350.0,Alex Smith,alex.smith49@example.com,Asia-Pacific,Referral,2024-08-01,2024-08-01,4,2,4,424,New / Promising
+CUST-1390,431,4,342.48,Benjamin Moore,benjamin.moore65@example.com,North America,Social Media,2023-05-16,2023-10-28,2,4,4,244,Loyal Customers
+CUST-1391,135,1,54.0,Chloe Smith,chloe.smith17@example.com,Asia-Pacific,Email Marketing,2024-08-19,2024-08-19,4,2,1,421,New / Promising
+CUST-1392,105,2,354.98,Ava Jackson,ava.jackson26@example.com,Middle East,Paid Search,2024-07-05,2024-09-18,4,3,4,434,Loyal Customers
+CUST-1393,452,4,643.5,Liam Hernandez,liam.hernandez94@example.com,Latin America,Email Marketing,2023-03-11,2023-10-07,2,4,5,245,Loyal Customers
+CUST-1394,722,1,119.99,Emma Miller,emma.miller46@example.com,Asia-Pacific,Paid Search,2023-01-10,2023-01-10,1,2,2,122,Needs Attention
+CUST-1395,10,5,848.99,Alex Thomas,alex.thomas47@example.com,Latin America,Social Media,2024-07-15,2024-12-22,5,5,5,555,Champions
+CUST-1396,8,7,904.49,Charlotte Taylor,charlotte.taylor56@example.com,Europe,Paid Search,2023-11-06,2024-12-24,5,5,5,555,Champions
+CUST-1397,570,5,605.99,Mia Martin,mia.martin33@example.com,North America,Referral,2023-01-21,2023-06-11,1,5,4,154,Loyal Customers
+CUST-1398,448,3,492.98,Benjamin Jones,benjamin.jones51@example.com,Asia-Pacific,Email Marketing,2023-05-23,2023-10-11,2,4,4,244,Loyal Customers
+CUST-1399,532,4,379.59000000000003,Emma Gonzalez,emma.gonzalez48@example.com,Europe,Referral,2023-02-10,2023-07-19,1,4,4,144,Loyal Customers
+CUST-1400,214,1,42.0,Isabella Wilson,isabella.wilson43@example.com,North America,Social Media,2024-06-01,2024-06-01,3,2,1,321,Potential Loyalists
+CUST-1401,66,1,350.0,Isabella Gonzalez,isabella.gonzalez61@example.com,Latin America,Paid Search,2024-10-27,2024-10-27,5,2,4,524,New / Promising
+CUST-1402,197,1,38.0,Daniel Martin,daniel.martin60@example.com,Asia-Pacific,Organic Search,2024-06-18,2024-06-18,4,2,1,421,New / Promising
+CUST-1403,625,1,449.97,Liam Davis,liam.davis44@example.com,Middle East,Referral,2023-04-17,2023-04-17,1,2,4,124,Needs Attention
+CUST-1404,420,1,79.99,Daniel Miller,daniel.miller14@example.com,Asia-Pacific,Referral,2023-11-08,2023-11-08,2,2,2,222,Needs Attention
+CUST-1405,38,3,429.46999999999997,Lucas Wilson,lucas.wilson20@example.com,Middle East,Organic Search,2024-07-15,2024-11-24,5,4,4,544,Champions
+CUST-1406,557,1,125.1,Ava Martinez,ava.martinez52@example.com,Latin America,Social Media,2023-06-24,2023-06-24,1,2,2,122,Needs Attention
+CUST-1407,53,3,240.25,Liam Jackson,liam.jackson10@example.com,Asia-Pacific,Email Marketing,2024-07-13,2024-11-09,5,4,3,543,Champions
+CUST-1408,590,4,577.13,Evelyn Thomas,evelyn.thomas42@example.com,Europe,Organic Search,2023-01-11,2023-05-22,1,4,4,144,Loyal Customers
+CUST-1409,125,1,143.98,Harper Hernandez,harper.hernandez98@example.com,Latin America,Email Marketing,2024-08-29,2024-08-29,4,2,2,422,New / Promising
+CUST-1410,253,5,628.6800000000001,Benjamin Thomas,benjamin.thomas77@example.com,Europe,Paid Search,2023-09-13,2024-04-23,3,5,4,354,Loyal Customers
+CUST-1411,44,1,345.0,Ava Jones,ava.jones80@example.com,Latin America,Paid Search,2024-11-18,2024-11-18,5,2,4,524,New / Promising
+CUST-1412,2,2,155.85,Sophia Brown,sophia.brown50@example.com,Europe,Email Marketing,2024-10-03,2024-12-30,5,3,2,532,Loyal Customers
+CUST-1413,610,1,175.0,Emma Taylor,emma.taylor76@example.com,North America,Paid Search,2023-05-02,2023-05-02,1,2,3,123,Needs Attention
+CUST-1414,248,1,115.0,Harper Davis,harper.davis49@example.com,North America,Paid Search,2024-04-28,2024-04-28,3,2,2,322,Potential Loyalists
+CUST-1415,437,1,119.99,Harper Brown,harper.brown31@example.com,North America,Email Marketing,2023-10-22,2023-10-22,2,2,2,222,Needs Attention
+CUST-1416,500,1,356.0,Benjamin Thomas,benjamin.thomas24@example.com,Middle East,Social Media,2023-08-20,2023-08-20,2,2,4,224,Needs Attention
+CUST-1417,113,1,42.0,Ethan Garcia,ethan.garcia91@example.com,Middle East,Organic Search,2024-09-10,2024-09-10,4,2,1,421,New / Promising
+CUST-1418,6,10,1312.15,Isabella Gonzalez,isabella.gonzalez17@example.com,Europe,Social Media,2023-10-12,2024-12-26,5,5,5,555,Champions
+CUST-1419,28,7,753.7,Oliver Martinez,oliver.martinez51@example.com,North America,Social Media,2024-01-20,2024-12-04,5,5,5,555,Champions
+CUST-1420,168,1,102.6,Alex Moore,alex.moore15@example.com,Europe,Social Media,2024-07-17,2024-07-17,4,2,2,422,New / Promising
+CUST-1421,380,1,76.0,Aiden Taylor,aiden.taylor46@example.com,Europe,Paid Search,2023-12-18,2023-12-18,2,2,2,222,Needs Attention
+CUST-1422,675,1,239.97,Noah Williams,noah.williams49@example.com,Europe,Social Media,2023-02-26,2023-02-26,1,2,3,123,Needs Attention
+CUST-1423,711,1,119.99,Noah Davis,noah.davis87@example.com,Latin America,Organic Search,2023-01-21,2023-01-21,1,2,2,122,Needs Attention
+CUST-1424,407,2,222.79000000000002,Aiden Taylor,aiden.taylor54@example.com,Latin America,Email Marketing,2023-10-18,2023-11-21,2,3,3,233,Needs Attention
+CUST-1425,724,1,129.0,Emma Thomas,emma.thomas76@example.com,Asia-Pacific,Social Media,2023-01-08,2023-01-08,1,2,2,122,Needs Attention
+CUST-1426,123,1,175.0,Benjamin Rodriguez,benjamin.rodriguez74@example.com,Asia-Pacific,Referral,2024-08-31,2024-08-31,4,2,3,423,New / Promising
+CUST-1427,218,1,119.99,Alex Martinez,alex.martinez85@example.com,Latin America,Referral,2024-05-28,2024-05-28,3,2,2,322,Potential Loyalists
+CUST-1428,396,1,79.99,Chloe Hernandez,chloe.hernandez54@example.com,Asia-Pacific,Social Media,2023-12-02,2023-12-02,2,2,2,222,Needs Attention
+CUST-1429,41,9,1276.46,Oliver Garcia,oliver.garcia12@example.com,Middle East,Referral,2023-10-25,2024-11-21,5,5,5,555,Champions
+CUST-1430,292,1,599.96,Charlotte Anderson,charlotte.anderson97@example.com,Latin America,Organic Search,2024-03-15,2024-03-15,3,2,4,324,Potential Loyalists
+CUST-1431,275,1,34.5,Ethan Garcia,ethan.garcia62@example.com,Asia-Pacific,Social Media,2024-04-01,2024-04-01,3,2,1,321,Potential Loyalists
+CUST-1432,514,1,193.5,Ethan Anderson,ethan.anderson90@example.com,Latin America,Social Media,2023-08-06,2023-08-06,2,2,3,223,Needs Attention
+CUST-1433,59,4,374.6,Mia Taylor,mia.taylor57@example.com,Latin America,Referral,2024-08-13,2024-11-03,5,4,4,544,Champions
+CUST-1434,158,3,319.49,Chloe Lopez,chloe.lopez97@example.com,North America,Social Media,2024-05-29,2024-07-27,4,4,3,443,Champions
+CUST-1435,31,3,538.97,Isabella Martinez,isabella.martinez93@example.com,Asia-Pacific,Organic Search,2024-08-03,2024-12-01,5,4,4,544,Champions
+CUST-1436,53,1,119.99,Ava Garcia,ava.garcia56@example.com,North America,Email Marketing,2024-11-09,2024-11-09,5,2,2,522,New / Promising
+CUST-1437,147,1,89.0,Benjamin Jones,benjamin.jones97@example.com,North America,Paid Search,2024-08-07,2024-08-07,4,2,2,422,New / Promising
+CUST-1438,12,5,1651.1,Alex Jones,alex.jones20@example.com,Middle East,Referral,2024-06-25,2024-12-20,5,5,5,555,Champions
+CUST-1439,343,5,326.07,Lucas Jackson,lucas.jackson40@example.com,North America,Social Media,2023-07-16,2024-01-24,3,5,4,354,Loyal Customers
+CUST-1440,20,3,309.9,Olivia Davis,olivia.davis66@example.com,Latin America,Paid Search,2024-10-10,2024-12-12,5,4,3,543,Champions
+CUST-1441,540,1,79.99,Noah Miller,noah.miller98@example.com,Latin America,Email Marketing,2023-07-11,2023-07-11,1,2,2,122,Needs Attention
+CUST-1442,529,2,239.98,Daniel Taylor,daniel.taylor60@example.com,Middle East,Email Marketing,2023-05-15,2023-07-22,1,3,3,133,Needs Attention
+CUST-1443,197,10,1510.33,Daniel Martin,daniel.martin26@example.com,Latin America,Paid Search,2023-03-24,2024-06-18,4,5,5,455,Champions
+CUST-1444,576,1,42.0,Evelyn Lopez,evelyn.lopez78@example.com,North America,Email Marketing,2023-06-05,2023-06-05,1,2,1,121,Needs Attention
+CUST-1445,190,4,614.55,Daniel Martin,daniel.martin57@example.com,Latin America,Social Media,2024-02-08,2024-06-25,4,4,4,444,Champions
+CUST-1446,670,1,51.3,Emma Davis,emma.davis44@example.com,Latin America,Referral,2023-03-03,2023-03-03,1,2,1,121,Needs Attention
+CUST-1447,660,1,449.97,Olivia Jackson,olivia.jackson64@example.com,North America,Paid Search,2023-03-13,2023-03-13,1,2,4,124,Needs Attention
+CUST-1448,78,9,907.5,Noah Jones,noah.jones88@example.com,Asia-Pacific,Social Media,2024-01-02,2024-10-15,5,5,5,555,Champions
+CUST-1449,573,1,25.65,Harper Williams,harper.williams41@example.com,Europe,Social Media,2023-06-08,2023-06-08,1,2,1,121,Needs Attention
+CUST-1450,70,9,1121.57,Oliver Taylor,oliver.taylor50@example.com,Latin America,Organic Search,2023-08-25,2024-10-23,5,5,5,555,Champions
+CUST-1451,77,1,299.98,Alex Jackson,alex.jackson52@example.com,Middle East,Email Marketing,2024-10-16,2024-10-16,5,2,3,523,New / Promising
+CUST-1452,245,3,120.6,Charlotte Brown,cust-1452@unverified.customer.com,North America,Email Marketing,2023-12-24,2024-05-01,3,4,2,342,Loyal Customers
+CUST-1453,4,5,338.0,Daniel Garcia,daniel.garcia21@example.com,Middle East,Social Media,2024-05-07,2024-12-28,5,5,4,554,Champions
+CUST-1454,425,1,66.02,Alex Jones,alex.jones54@example.com,Asia-Pacific,Referral,2023-11-03,2023-11-03,2,2,1,221,Needs Attention
+CUST-1455,247,1,57.0,Evelyn Garcia,evelyn.garcia40@example.com,Europe,Email Marketing,2024-04-29,2024-04-29,3,2,1,321,Potential Loyalists
+CUST-1456,345,1,57.0,Daniel Davis,daniel.davis96@example.com,Middle East,Email Marketing,2024-01-22,2024-01-22,3,2,1,321,Potential Loyalists
+CUST-1457,1,8,652.3399999999999,Noah Jones,noah.jones64@example.com,Asia-Pacific,Email Marketing,2023-11-20,2024-12-31,5,5,5,555,Champions
+CUST-1458,286,4,486.49,Mia Wilson,mia.wilson88@example.com,Europe,Organic Search,2023-10-20,2024-03-21,3,4,4,344,Loyal Customers
+CUST-1459,147,2,80.0,Ethan Martinez,ethan.martinez60@example.com,North America,Email Marketing,2024-07-03,2024-08-07,4,3,2,432,Loyal Customers
+CUST-1460,201,5,437.96999999999997,James Miller,james.miller68@example.com,Asia-Pacific,Organic Search,2023-12-02,2024-06-14,4,5,4,454,Champions
+CUST-1461,284,5,978.23,Isabella Smith,isabella.smith85@example.com,Asia-Pacific,Email Marketing,2023-06-03,2024-03-23,3,5,5,355,Loyal Customers
+CUST-1462,355,1,57.0,Charlotte Taylor,charlotte.taylor14@example.com,Latin America,Email Marketing,2024-01-12,2024-01-12,3,2,1,321,Potential Loyalists
+CUST-1463,707,1,159.98,Oliver Moore,oliver.moore14@example.com,Europe,Referral,2023-01-25,2023-01-25,1,2,3,123,Needs Attention
+CUST-1464,384,1,42.0,Oliver Hernandez,oliver.hernandez65@example.com,Middle East,Organic Search,2023-12-14,2023-12-14,2,2,1,221,Needs Attention
+CUST-1465,144,1,101.99,Harper Taylor,harper.taylor90@example.com,Latin America,Organic Search,2024-08-10,2024-08-10,4,2,2,422,New / Promising
+CUST-1466,258,5,338.29,Daniel Brown,daniel.brown38@example.com,Latin America,Paid Search,2023-09-09,2024-04-18,3,5,4,354,Loyal Customers
+CUST-1467,63,1,51.3,Daniel Johnson,daniel.johnson47@example.com,Asia-Pacific,Referral,2024-10-30,2024-10-30,5,2,1,521,New / Promising
+CUST-1468,141,6,740.47,Evelyn Rodriguez,evelyn.rodriguez69@example.com,Europe,Organic Search,2023-07-10,2024-08-13,4,5,5,455,Champions
+CUST-1469,392,3,699.15,Liam Jones,liam.jones67@example.com,Asia-Pacific,Referral,2023-09-21,2023-12-06,2,4,5,245,Loyal Customers
+CUST-1470,685,1,97.2,Harper Miller,harper.miller37@example.com,North America,Paid Search,2023-02-16,2023-02-16,1,2,2,122,Needs Attention
+CUST-1471,29,2,384.2,Evelyn Garcia,evelyn.garcia72@example.com,Asia-Pacific,Paid Search,2024-09-20,2024-12-03,5,3,4,534,Loyal Customers
+CUST-1472,284,1,229.0,Chloe Garcia,chloe.garcia30@example.com,Middle East,Paid Search,2024-03-23,2024-03-23,3,2,3,323,Potential Loyalists
+CUST-1473,259,1,227.98,Benjamin Martinez,benjamin.martinez49@example.com,Europe,Email Marketing,2024-04-17,2024-04-17,3,2,3,323,Potential Loyalists
+CUST-1474,227,8,827.04,Chloe Thomas,chloe.thomas75@example.com,Latin America,Paid Search,2023-02-19,2024-05-19,3,5,5,355,Loyal Customers
+CUST-1475,547,1,157.5,Emma Taylor,emma.taylor96@example.com,Latin America,Paid Search,2023-07-04,2023-07-04,1,2,3,123,Needs Attention
+CUST-1476,259,2,515.98,Alex Gonzalez,alex.gonzalez22@example.com,Latin America,Social Media,2024-02-14,2024-04-17,3,3,4,334,Loyal Customers
+CUST-1477,607,1,34.5,James Martin,james.martin72@example.com,Latin America,Social Media,2023-05-05,2023-05-05,1,2,1,121,Needs Attention
+CUST-1478,338,5,1007.07,Benjamin Williams,benjamin.williams15@example.com,Latin America,Organic Search,2023-08-23,2024-01-29,3,5,5,355,Loyal Customers
+CUST-1479,494,1,124.2,Noah Wilson,noah.wilson48@example.com,Latin America,Organic Search,2023-08-26,2023-08-26,2,2,2,222,Needs Attention
+CUST-1480,719,1,350.0,Harper Anderson,harper.anderson54@example.com,North America,Social Media,2023-01-13,2023-01-13,1,2,4,124,Needs Attention
+CUST-1481,224,1,177.22,Harper Lopez,harper.lopez11@example.com,Asia-Pacific,Referral,2024-05-22,2024-05-22,3,2,3,323,Potential Loyalists
+CUST-1482,525,1,139.0,Aiden Brown,aiden.brown75@example.com,North America,Social Media,2023-07-26,2023-07-26,2,2,2,222,Needs Attention
+CUST-1483,677,1,665.0,James Anderson,james.anderson23@example.com,North America,Paid Search,2023-02-24,2023-02-24,1,2,5,125,Needs Attention
+CUST-1484,41,11,2254.14,Charlotte Lopez,charlotte.lopez99@example.com,Latin America,Social Media,2023-08-08,2024-11-21,5,5,5,555,Champions
+CUST-1485,168,3,283.99,James Davis,james.davis32@example.com,Asia-Pacific,Paid Search,2024-04-19,2024-07-17,4,4,3,443,Champions
+CUST-1486,35,10,1840.99,Aiden Davis,aiden.davis23@example.com,Asia-Pacific,Email Marketing,2023-05-26,2024-11-27,5,5,5,555,Champions
+CUST-1487,698,1,57.0,Aiden Martinez,aiden.martinez82@example.com,North America,Email Marketing,2023-02-03,2023-02-03,1,2,1,121,Needs Attention
+CUST-1488,533,1,229.0,Emma Smith,emma.smith97@example.com,Asia-Pacific,Organic Search,2023-07-18,2023-07-18,1,2,3,123,Needs Attention
+CUST-1489,634,1,76.0,Harper Miller,harper.miller30@example.com,North America,Organic Search,2023-04-08,2023-04-08,1,2,2,122,Needs Attention
+CUST-1490,425,1,458.0,Harper Anderson,harper.anderson74@example.com,Latin America,Organic Search,2023-11-03,2023-11-03,2,2,4,224,Needs Attention
+CUST-1491,66,3,709.49,Aiden Johnson,aiden.johnson12@example.com,Asia-Pacific,Social Media,2024-08-29,2024-10-27,5,4,5,545,Champions
+CUST-1492,147,1,76.0,Noah Jackson,noah.jackson90@example.com,Latin America,Referral,2024-08-07,2024-08-07,4,2,2,422,New / Promising
+CUST-1493,639,1,28.5,Harper Thomas,harper.thomas83@example.com,Europe,Organic Search,2023-04-03,2023-04-03,1,2,1,121,Needs Attention
+CUST-1494,726,1,101.99,Lucas Williams,lucas.williams91@example.com,Europe,Social Media,2023-01-06,2023-01-06,1,2,2,122,Needs Attention
+CUST-1495,20,9,1665.97,Harper Wilson,harper.wilson96@example.com,Latin America,Organic Search,2023-09-04,2024-12-12,5,5,5,555,Champions
+CUST-1496,315,1,458.0,Liam Taylor,liam.taylor95@example.com,Latin America,Organic Search,2024-02-21,2024-02-21,3,2,4,324,Potential Loyalists
+CUST-1497,351,4,492.57,Emma Brown,emma.brown75@example.com,Asia-Pacific,Organic Search,2023-09-06,2024-01-16,3,4,4,344,Loyal Customers
+CUST-1498,297,1,107.99,Aiden Brown,aiden.brown32@example.com,Latin America,Paid Search,2024-03-10,2024-03-10,3,2,2,322,Potential Loyalists
+CUST-1499,90,2,101.78,Olivia Davis,olivia.davis61@example.com,North America,Social Media,2024-09-01,2024-10-03,4,3,2,432,Loyal Customers
+CUST-1500,381,1,69.5,Harper Lopez,harper.lopez92@example.com,Latin America,Email Marketing,2023-12-17,2023-12-17,2,2,1,221,Needs Attention
+CUST-1501,208,2,178.0,Mia Miller,mia.miller43@example.com,North America,Social Media,2024-04-30,2024-06-07,3,3,3,333,Loyal Customers
+CUST-1502,518,1,61.28,Isabella Garcia,isabella.garcia88@example.com,Asia-Pacific,Referral,2023-08-02,2023-08-02,2,2,1,221,Needs Attention
+CUST-1503,598,2,442.5,Chloe Gonzalez,chloe.gonzalez52@example.com,Middle East,Social Media,2023-04-04,2023-05-14,1,3,4,134,Needs Attention
+CUST-1504,62,2,337.0,Lucas Martin,lucas.martin52@example.com,Europe,Social Media,2024-09-23,2024-10-31,5,3,4,534,Loyal Customers
+CUST-1505,64,10,871.24,Ethan Jackson,ethan.jackson75@example.com,Asia-Pacific,Paid Search,2024-01-01,2024-10-29,5,5,5,555,Champions
+CUST-1506,136,5,507.99,Evelyn Martinez,evelyn.martinez74@example.com,Asia-Pacific,Email Marketing,2023-12-30,2024-08-18,4,5,4,454,Champions
+CUST-1507,640,1,34.5,Ava Martinez,ava.martinez58@example.com,Asia-Pacific,Email Marketing,2023-04-02,2023-04-02,1,2,1,121,Needs Attention
+CUST-1508,473,1,76.0,James Moore,james.moore71@example.com,Middle East,Email Marketing,2023-09-16,2023-09-16,2,2,2,222,Needs Attention
+CUST-1509,308,1,38.0,James Miller,james.miller81@example.com,Middle East,Social Media,2024-02-28,2024-02-28,3,2,1,321,Potential Loyalists
+CUST-1510,76,3,370.81,Sophia Williams,sophia.williams21@example.com,North America,Referral,2024-07-20,2024-10-17,5,4,4,544,Champions
+CUST-1511,531,5,682.49,Liam Miller,liam.miller53@example.com,Europe,Paid Search,2023-01-27,2023-07-20,1,5,5,155,Loyal Customers
+CUST-1512,196,5,716.98,Liam Jones,liam.jones61@example.com,Latin America,Paid Search,2023-12-28,2024-06-19,4,5,5,455,Champions
+CUST-1513,604,1,92.0,Alex Jones,alex.jones38@example.com,Asia-Pacific,Organic Search,2023-05-08,2023-05-08,1,2,2,122,Needs Attention
+CUST-1514,67,1,71.99,Benjamin Garcia,benjamin.garcia11@example.com,North America,Organic Search,2024-10-26,2024-10-26,5,2,2,522,New / Promising
+CUST-1515,567,1,175.0,Isabella Gonzalez,isabella.gonzalez99@example.com,Asia-Pacific,Paid Search,2023-06-14,2023-06-14,1,2,3,123,Needs Attention
+CUST-1516,380,1,159.98,Evelyn Rodriguez,evelyn.rodriguez74@example.com,Latin America,Social Media,2023-12-18,2023-12-18,2,2,3,223,Needs Attention
+CUST-1517,271,3,208.0,Mia Miller,mia.miller80@example.com,Middle East,Organic Search,2024-02-16,2024-04-05,3,4,3,343,Loyal Customers
+CUST-1518,193,1,142.49,Sophia Jones,sophia.jones28@example.com,Latin America,Referral,2024-06-22,2024-06-22,4,2,2,422,New / Promising
+CUST-1519,496,2,407.99,Ethan Gonzalez,ethan.gonzalez89@example.com,Latin America,Organic Search,2023-06-01,2023-08-24,2,3,4,234,Needs Attention
+CUST-1520,57,1,229.0,Ethan Davis,ethan.davis97@example.com,Europe,Email Marketing,2024-11-05,2024-11-05,5,2,3,523,New / Promising
+CUST-1521,47,2,122.6,Olivia Rodriguez,olivia.rodriguez72@example.com,Asia-Pacific,Paid Search,2024-09-27,2024-11-15,5,3,2,532,Loyal Customers
+CUST-1522,32,5,568.58,Ethan Johnson,ethan.johnson30@example.com,Europe,Organic Search,2024-04-15,2024-11-30,5,5,4,554,Champions
+CUST-1523,321,1,458.0,Sophia Smith,sophia.smith39@example.com,Asia-Pacific,Paid Search,2024-02-15,2024-02-15,3,2,4,324,Potential Loyalists
+CUST-1524,256,2,104.0,Aiden Garcia,aiden.garcia78@example.com,Asia-Pacific,Organic Search,2024-02-28,2024-04-20,3,3,2,332,Loyal Customers
+CUST-1525,45,5,451.28999999999996,James Davis,james.davis16@example.com,Europe,Email Marketing,2024-05-12,2024-11-17,5,5,4,554,Champions
+CUST-1526,531,4,412.0,Mia Davis,mia.davis85@example.com,Asia-Pacific,Organic Search,2023-03-06,2023-07-20,1,4,4,144,Loyal Customers
+CUST-1527,103,1,119.99,Daniel Wilson,daniel.wilson33@example.com,Asia-Pacific,Referral,2024-09-20,2024-09-20,4,2,2,422,New / Promising
+CUST-1528,609,1,37.8,Emma Garcia,emma.garcia91@example.com,North America,Organic Search,2023-05-03,2023-05-03,1,2,1,121,Needs Attention
+CUST-1529,345,1,27.6,Aiden Davis,aiden.davis77@example.com,Latin America,Email Marketing,2024-01-22,2024-01-22,3,2,1,321,Potential Loyalists
+CUST-1530,716,1,230.0,Sophia Hernandez,sophia.hernandez39@example.com,Asia-Pacific,Social Media,2023-01-16,2023-01-16,1,2,3,123,Needs Attention
+CUST-1531,138,8,1220.48,Charlotte Gonzalez,cust-1531@unverified.customer.com,Asia-Pacific,Referral,2023-06-12,2024-08-16,4,5,5,455,Champions
+CUST-1532,47,1,206.1,Chloe Moore,chloe.moore70@example.com,Latin America,Organic Search,2024-11-15,2024-11-15,5,2,3,523,New / Promising
+CUST-1533,56,6,1104.97,Harper Jones,harper.jones53@example.com,Middle East,Paid Search,2024-01-19,2024-11-06,5,5,5,555,Champions
+CUST-1534,196,1,71.99,Sophia Thomas,sophia.thomas59@example.com,Asia-Pacific,Email Marketing,2024-06-19,2024-06-19,4,2,2,422,New / Promising
+CUST-1535,336,1,230.0,Olivia Rodriguez,olivia.rodriguez52@example.com,North America,Referral,2024-01-31,2024-01-31,3,2,3,323,Potential Loyalists
+CUST-1536,91,3,264.14,Daniel Wilson,daniel.wilson68@example.com,Asia-Pacific,Organic Search,2024-08-07,2024-10-02,4,4,3,443,Champions
+CUST-1537,215,1,89.0,Mia Martinez,mia.martinez34@example.com,Latin America,Email Marketing,2024-05-31,2024-05-31,3,2,2,322,Potential Loyalists
+CUST-1538,321,1,95.99,Alex Martinez,alex.martinez98@example.com,Latin America,Social Media,2024-02-15,2024-02-15,3,2,2,322,Potential Loyalists
+CUST-1539,48,4,252.64,Liam Martin,liam.martin21@example.com,Europe,Email Marketing,2024-04-20,2024-11-14,5,4,3,543,Champions
+CUST-1540,28,4,468.47,Evelyn Martinez,evelyn.martinez65@example.com,North America,Referral,2024-07-22,2024-12-04,5,4,4,544,Champions
+CUST-1541,351,1,76.0,Mia Davis,mia.davis78@example.com,Europe,Organic Search,2024-01-16,2024-01-16,3,2,2,322,Potential Loyalists
+CUST-1542,292,1,28.5,Alex Rodriguez,alex.rodriguez18@example.com,Latin America,Organic Search,2024-03-15,2024-03-15,3,2,1,321,Potential Loyalists
+CUST-1543,634,1,115.0,Ethan Miller,ethan.miller92@example.com,Middle East,Paid Search,2023-04-08,2023-04-08,1,2,2,122,Needs Attention
+CUST-1544,403,1,39.9,Isabella Jones,isabella.jones86@example.com,North America,Social Media,2023-11-25,2023-11-25,2,2,1,221,Needs Attention
+CUST-1545,409,1,48.6,Aiden Jackson,aiden.jackson58@example.com,Europe,Referral,2023-11-19,2023-11-19,2,2,1,221,Needs Attention
+CUST-1546,286,1,38.0,James Hernandez,james.hernandez21@example.com,Asia-Pacific,Referral,2024-03-21,2024-03-21,3,2,1,321,Potential Loyalists
+CUST-1547,25,8,1046.58,Chloe Davis,chloe.davis78@example.com,Latin America,Paid Search,2024-01-05,2024-12-07,5,5,5,555,Champions
+CUST-1548,699,1,230.0,Harper Martin,harper.martin41@example.com,Latin America,Paid Search,2023-02-02,2023-02-02,1,2,3,123,Needs Attention
+CUST-1549,102,5,1242.77,Chloe Anderson,chloe.anderson20@example.com,Asia-Pacific,Paid Search,2024-04-11,2024-09-21,4,5,5,455,Champions
+CUST-1550,533,4,221.5,Oliver Martinez,oliver.martinez44@example.com,Europe,Email Marketing,2023-04-26,2023-07-18,1,4,3,143,At Risk Spenders
+CUST-1551,659,1,299.98,Chloe Smith,chloe.smith89@example.com,North America,Paid Search,2023-03-14,2023-03-14,1,2,3,123,Needs Attention
+CUST-1552,726,1,79.99,Chloe Martin,chloe.martin52@example.com,Europe,Email Marketing,2023-01-06,2023-01-06,1,2,2,122,Needs Attention
+CUST-1553,596,1,116.1,Daniel Rodriguez,daniel.rodriguez12@example.com,Middle East,Referral,2023-05-16,2023-05-16,1,2,2,122,Needs Attention
+CUST-1554,153,1,64.5,Ethan Williams,ethan.williams95@example.com,Asia-Pacific,Referral,2024-08-01,2024-08-01,4,2,1,421,New / Promising
+CUST-1555,555,1,42.0,Alex Martin,alex.martin83@example.com,Asia-Pacific,Social Media,2023-06-26,2023-06-26,1,2,1,121,Needs Attention
+CUST-1556,81,7,824.5,Ethan Rodriguez,ethan.rodriguez29@example.com,Asia-Pacific,Social Media,2023-11-28,2024-10-12,5,5,5,555,Champions
+CUST-1557,143,1,76.0,Olivia Martin,olivia.martin88@example.com,North America,Referral,2024-08-11,2024-08-11,4,2,2,422,New / Promising
+CUST-1558,676,1,299.98,Emma Jones,emma.jones59@example.com,Europe,Paid Search,2023-02-25,2023-02-25,1,2,3,123,Needs Attention
+CUST-1559,351,1,79.99,Alex Hernandez,alex.hernandez41@example.com,Latin America,Email Marketing,2024-01-16,2024-01-16,3,2,2,322,Potential Loyalists
+CUST-1560,234,2,580.6,Mia Martinez,mia.martinez68@example.com,Europe,Referral,2024-04-23,2024-05-12,3,3,4,334,Loyal Customers
+CUST-1561,90,8,768.1,Oliver Anderson,oliver.anderson38@example.com,Middle East,Referral,2023-11-18,2024-10-03,4,5,5,455,Champions
+CUST-1562,13,9,1659.26,Oliver Wilson,oliver.wilson13@example.com,Europe,Paid Search,2023-10-31,2024-12-19,5,5,5,555,Champions
+CUST-1563,70,1,687.0,Harper Garcia,harper.garcia71@example.com,Asia-Pacific,Referral,2024-10-23,2024-10-23,5,2,5,525,New / Promising
+CUST-1564,132,4,295.49,Ava Jones,ava.jones29@example.com,Latin America,Referral,2024-03-04,2024-08-22,4,4,3,443,Champions
+CUST-1565,325,3,552.0,Benjamin Moore,benjamin.moore92@example.com,Middle East,Social Media,2023-11-04,2024-02-11,3,4,4,344,Loyal Customers
+CUST-1566,696,2,199.23,Lucas Johnson,lucas.johnson62@example.com,North America,Paid Search,2023-01-17,2023-02-05,1,4,3,143,At Risk Spenders
+CUST-1567,416,2,532.46,Sophia Jackson,sophia.jackson67@example.com,Europe,Referral,2023-09-22,2023-11-12,2,4,4,244,Loyal Customers
+CUST-1568,571,1,42.0,Olivia Moore,olivia.moore67@example.com,Middle East,Organic Search,2023-06-10,2023-06-10,1,2,1,121,Needs Attention
+CUST-1569,497,1,76.0,Lucas Smith,lucas.smith14@example.com,North America,Social Media,2023-08-23,2023-08-23,2,2,2,222,Needs Attention
+CUST-1570,457,1,101.99,Isabella Garcia,isabella.garcia84@example.com,Latin America,Email Marketing,2023-10-02,2023-10-02,2,2,2,222,Needs Attention
+CUST-1571,526,3,406.5,Aiden Martinez,aiden.martinez57@example.com,North America,Email Marketing,2023-03-12,2023-07-25,2,4,4,244,Loyal Customers
+CUST-1572,136,5,1111.8600000000001,Isabella Wilson,isabella.wilson89@example.com,North America,Email Marketing,2024-05-09,2024-08-18,4,5,5,455,Champions
+CUST-1573,364,1,299.98,Olivia Thomas,olivia.thomas44@example.com,North America,Email Marketing,2024-01-03,2024-01-03,2,2,3,223,Needs Attention
+CUST-1574,127,8,1275.5,Isabella Miller,isabella.miller34@example.com,Latin America,Organic Search,2023-09-03,2024-08-27,4,5,5,455,Champions
+CUST-1575,69,5,736.06,Ethan Miller,ethan.miller96@example.com,Latin America,Paid Search,2024-01-07,2024-10-24,5,5,5,555,Champions
+CUST-1576,205,4,1201.59,Olivia Lopez,olivia.lopez61@example.com,Europe,Paid Search,2023-12-01,2024-06-10,4,4,5,445,Champions
+CUST-1577,446,1,89.0,Alex Wilson,alex.wilson67@example.com,Middle East,Organic Search,2023-10-13,2023-10-13,2,2,2,222,Needs Attention
+CUST-1578,557,3,825.65,Daniel Hernandez,daniel.hernandez53@example.com,Asia-Pacific,Email Marketing,2023-04-18,2023-06-24,1,4,5,145,Loyal Customers
+CUST-1579,150,1,162.0,Oliver Williams,oliver.williams93@example.com,Asia-Pacific,Paid Search,2024-08-04,2024-08-04,4,2,3,423,New / Promising
+CUST-1580,66,7,995.02,Ethan Martin,ethan.martin62@example.com,Europe,Email Marketing,2024-01-07,2024-10-27,5,5,5,555,Champions
+CUST-1581,105,1,28.5,Ava Lopez,ava.lopez27@example.com,Latin America,Referral,2024-09-18,2024-09-18,4,2,1,421,New / Promising
+CUST-1582,504,2,950.5,Ava Rodriguez,ava.rodriguez52@example.com,Latin America,Social Media,2023-05-20,2023-08-16,2,4,5,245,Loyal Customers
+CUST-1583,182,1,280.0,Charlotte Johnson,charlotte.johnson20@example.com,Middle East,Social Media,2024-07-03,2024-07-03,4,2,3,423,New / Promising
+CUST-1584,429,1,230.0,Noah Miller,noah.miller77@example.com,Middle East,Social Media,2023-10-30,2023-10-30,2,2,3,223,Needs Attention
+CUST-1585,255,1,27.6,Harper Thomas,harper.thomas55@example.com,Asia-Pacific,Organic Search,2024-04-21,2024-04-21,3,2,1,321,Potential Loyalists
+CUST-1586,172,1,69.0,Daniel Moore,daniel.moore26@example.com,Latin America,Paid Search,2024-07-13,2024-07-13,4,2,1,421,New / Promising
+CUST-1587,188,1,89.0,Aiden Hernandez,aiden.hernandez89@example.com,Middle East,Social Media,2024-06-27,2024-06-27,4,2,2,422,New / Promising
+CUST-1588,186,1,299.98,Evelyn Smith,evelyn.smith79@example.com,Asia-Pacific,Email Marketing,2024-06-29,2024-06-29,4,2,3,423,New / Promising
+CUST-1589,394,1,34.5,Harper Miller,harper.miller64@example.com,Middle East,Email Marketing,2023-12-04,2023-12-04,2,2,1,221,Needs Attention
+CUST-1590,420,1,103.5,Isabella Moore,isabella.moore92@example.com,Middle East,Referral,2023-11-08,2023-11-08,2,2,2,222,Needs Attention
+CUST-1591,82,8,1245.41,Mia Martinez,mia.martinez42@example.com,Asia-Pacific,Organic Search,2023-07-18,2024-10-11,5,5,5,555,Champions
+CUST-1592,29,2,390.65,Lucas Johnson,lucas.johnson49@example.com,Latin America,Paid Search,2024-10-01,2024-12-03,5,4,4,544,Champions
+CUST-1593,58,3,487.97,Aiden Smith,aiden.smith24@example.com,Middle East,Paid Search,2024-08-14,2024-11-04,5,4,4,544,Champions
+CUST-1594,225,1,129.0,James Wilson,james.wilson50@example.com,Europe,Paid Search,2024-05-21,2024-05-21,3,2,2,322,Potential Loyalists
+CUST-1595,70,13,1665.54,Isabella Lopez,isabella.lopez21@example.com,Asia-Pacific,Referral,2023-01-17,2024-10-23,5,5,5,555,Champions
+CUST-1596,412,1,149.99,Evelyn Gonzalez,evelyn.gonzalez61@example.com,Latin America,Referral,2023-11-16,2023-11-16,2,2,2,222,Needs Attention
+CUST-1597,498,1,89.0,Chloe Davis,chloe.davis52@example.com,Asia-Pacific,Email Marketing,2023-08-22,2023-08-22,2,2,2,222,Needs Attention
+CUST-1598,381,1,193.5,Harper Taylor,harper.taylor89@example.com,Latin America,Organic Search,2023-12-17,2023-12-17,2,2,3,223,Needs Attention
+CUST-1599,354,9,1163.29,Isabella Moore,isabella.moore92@example.com,Middle East,Paid Search,2023-01-11,2024-01-13,3,5,5,355,Loyal Customers
+CUST-1600,592,1,38.0,Daniel Thomas,daniel.thomas63@example.com,North America,Organic Search,2023-05-20,2023-05-20,1,2,1,121,Needs Attention
+CUST-1601,111,1,129.0,Olivia Johnson,olivia.johnson57@example.com,Latin America,Paid Search,2024-09-12,2024-09-12,4,2,2,422,New / Promising
+CUST-1602,177,4,872.96,Alex Hernandez,alex.hernandez13@example.com,Middle East,Email Marketing,2023-12-25,2024-07-08,4,4,5,445,Champions
+CUST-1603,217,1,79.8,James Martinez,james.martinez24@example.com,Europe,Paid Search,2024-05-29,2024-05-29,3,2,2,322,Potential Loyalists
+CUST-1604,426,5,820.99,Emma Martinez,emma.martinez16@example.com,Latin America,Social Media,2023-05-15,2023-11-02,2,5,5,255,Loyal Customers
+CUST-1605,140,1,69.5,Aiden Thomas,aiden.thomas67@example.com,North America,Social Media,2024-08-14,2024-08-14,4,2,1,421,New / Promising
+CUST-1606,494,5,814.8,Emma Johnson,emma.johnson86@example.com,Europe,Email Marketing,2023-01-21,2023-08-26,2,5,5,255,Loyal Customers
+CUST-1607,79,2,156.0,Liam Smith,liam.smith38@example.com,Latin America,Organic Search,2024-08-27,2024-10-14,5,4,3,543,Champions
+CUST-1608,101,6,702.58,Sophia Brown,sophia.brown56@example.com,Asia-Pacific,Referral,2023-12-06,2024-09-22,4,5,5,455,Champions
+CUST-1609,267,1,149.99,Aiden Wilson,aiden.wilson28@example.com,North America,Email Marketing,2024-04-09,2024-04-09,3,2,2,322,Potential Loyalists
+CUST-1610,57,1,28.5,Aiden Gonzalez,aiden.gonzalez66@example.com,Middle East,Social Media,2024-11-05,2024-11-05,5,2,1,521,New / Promising
+CUST-1611,251,6,618.53,Isabella Rodriguez,isabella.rodriguez38@example.com,Latin America,Organic Search,2023-05-24,2024-04-25,3,5,4,354,Loyal Customers
+CUST-1612,87,1,64.5,Liam Taylor,liam.taylor11@example.com,Latin America,Email Marketing,2024-10-06,2024-10-06,4,2,1,421,New / Promising
+CUST-1613,34,8,837.04,Harper Lopez,harper.lopez10@example.com,Latin America,Email Marketing,2023-10-20,2024-11-28,5,5,5,555,Champions
+CUST-1614,74,3,442.7,Benjamin Lopez,benjamin.lopez89@example.com,Asia-Pacific,Email Marketing,2024-08-16,2024-10-19,5,4,4,544,Champions
+CUST-1615,509,1,126.0,Aiden Jackson,aiden.jackson26@example.com,Europe,Organic Search,2023-08-11,2023-08-11,2,2,2,222,Needs Attention
+CUST-1616,572,1,174.15,Aiden Taylor,aiden.taylor93@example.com,North America,Email Marketing,2023-06-09,2023-06-09,1,2,3,123,Needs Attention
+CUST-1617,46,1,89.0,Daniel Martinez,daniel.martinez83@example.com,Europe,Referral,2024-11-16,2024-11-16,5,2,2,522,New / Promising
+CUST-1618,727,1,113.99,Lucas Smith,lucas.smith66@example.com,Europe,Referral,2023-01-05,2023-01-05,1,2,2,122,Needs Attention
+CUST-1619,669,2,669.46,Charlotte Williams,charlotte.williams92@example.com,Latin America,Social Media,2023-02-05,2023-03-04,1,4,5,145,Loyal Customers
+CUST-1620,400,1,183.2,James Smith,james.smith51@example.com,North America,Paid Search,2023-11-28,2023-11-28,2,2,3,223,Needs Attention
+CUST-1621,81,10,1358.96,Oliver Lopez,oliver.lopez95@example.com,Latin America,Paid Search,2023-06-19,2024-10-12,5,5,5,555,Champions
+CUST-1622,694,1,59.08,James Rodriguez,james.rodriguez98@example.com,North America,Referral,2023-02-07,2023-02-07,1,2,1,121,Needs Attention
+CUST-1623,705,1,38.0,Lucas Rodriguez,lucas.rodriguez36@example.com,North America,Referral,2023-01-27,2023-01-27,1,2,1,121,Needs Attention
+CUST-1624,428,5,769.86,Ava Gonzalez,ava.gonzalez82@example.com,North America,Organic Search,2023-04-03,2023-10-31,2,5,5,255,Loyal Customers
+CUST-1625,214,8,1125.05,Ava Wilson,ava.wilson19@example.com,Latin America,Referral,2023-03-26,2024-06-01,3,5,5,355,Loyal Customers
+CUST-1626,62,10,1074.74,Isabella Smith,isabella.smith13@example.com,Europe,Social Media,2023-05-14,2024-10-31,5,5,5,555,Champions
+CUST-1627,147,1,64.5,Benjamin Martin,benjamin.martin62@example.com,Asia-Pacific,Referral,2024-08-07,2024-08-07,4,2,1,421,New / Promising
+CUST-1628,64,10,943.12,Daniel Taylor,daniel.taylor54@example.com,North America,Organic Search,2023-06-16,2024-10-29,5,5,5,555,Champions
+CUST-1629,24,3,421.59000000000003,Oliver Thomas,oliver.thomas35@example.com,Europe,Paid Search,2024-07-15,2024-12-08,5,4,4,544,Champions
+CUST-1630,202,1,84.0,Evelyn Garcia,evelyn.garcia53@example.com,Asia-Pacific,Paid Search,2024-06-13,2024-06-13,4,2,2,422,New / Promising
+CUST-1631,33,2,48.45,Alex Jackson,alex.jackson61@example.com,Europe,Paid Search,2024-10-20,2024-11-29,5,4,1,541,Champions
+CUST-1632,203,1,115.0,Benjamin Hernandez,benjamin.hernandez22@example.com,Middle East,Referral,2024-06-12,2024-06-12,4,2,2,422,New / Promising
+CUST-1633,64,1,299.98,Alex Williams,alex.williams49@example.com,North America,Email Marketing,2024-10-29,2024-10-29,5,2,3,523,New / Promising
+CUST-1634,61,2,542.0,Isabella Gonzalez,isabella.gonzalez23@example.com,Europe,Paid Search,2024-09-12,2024-11-01,5,4,4,544,Champions
+CUST-1635,7,5,622.52,Charlotte Moore,charlotte.moore84@example.com,Middle East,Email Marketing,2024-04-21,2024-12-25,5,5,4,554,Champions
+CUST-1636,39,2,253.23,Emma Wilson,emma.wilson32@example.com,Middle East,Organic Search,2024-11-03,2024-11-23,5,4,3,543,Champions
+CUST-1637,384,1,57.0,Daniel Martin,daniel.martin33@example.com,North America,Referral,2023-12-14,2023-12-14,2,2,1,221,Needs Attention
+CUST-1638,405,3,838.1,Harper Jones,harper.jones74@example.com,North America,Paid Search,2023-10-10,2023-11-23,2,4,5,245,Loyal Customers
+CUST-1639,654,1,151.3,Ava Hernandez,ava.hernandez73@example.com,Asia-Pacific,Email Marketing,2023-03-19,2023-03-19,1,2,2,122,Needs Attention
+CUST-1640,248,1,64.5,Olivia Jackson,olivia.jackson28@example.com,Europe,Referral,2024-04-28,2024-04-28,3,2,1,321,Potential Loyalists
+CUST-1641,356,1,149.99,Ethan Wilson,ethan.wilson68@example.com,Latin America,Social Media,2024-01-11,2024-01-11,3,2,2,322,Potential Loyalists
+CUST-1642,36,7,564.7,James Anderson,james.anderson43@example.com,North America,Organic Search,2024-01-04,2024-11-26,5,5,4,554,Champions
+CUST-1643,479,2,231.5,James Moore,james.moore54@example.com,Latin America,Organic Search,2023-08-12,2023-09-10,2,4,3,243,At Risk Spenders
+CUST-1644,286,1,175.0,Oliver Brown,oliver.brown89@example.com,Middle East,Referral,2024-03-21,2024-03-21,3,2,3,323,Potential Loyalists
+CUST-1645,692,1,28.5,Ethan Johnson,ethan.johnson49@example.com,Asia-Pacific,Email Marketing,2023-02-09,2023-02-09,1,2,1,121,Needs Attention
+CUST-1646,81,3,202.57999999999998,Harper Brown,harper.brown46@example.com,Asia-Pacific,Organic Search,2024-07-11,2024-10-12,5,4,3,543,Champions
+CUST-1647,346,1,299.98,Liam Thomas,cust-1647@unverified.customer.com,Middle East,Referral,2024-01-21,2024-01-21,3,2,3,323,Potential Loyalists
+CUST-1648,540,1,28.5,Chloe Hernandez,chloe.hernandez23@example.com,Asia-Pacific,Organic Search,2023-07-11,2023-07-11,1,2,1,121,Needs Attention
+CUST-1649,433,2,311.96999999999997,Charlotte Moore,charlotte.moore12@example.com,Asia-Pacific,Social Media,2023-10-08,2023-10-26,2,4,3,243,At Risk Spenders
+CUST-1650,67,1,108.0,Ethan Miller,ethan.miller45@example.com,Middle East,Organic Search,2024-10-26,2024-10-26,5,2,2,522,New / Promising
+CUST-1651,659,1,69.5,Sophia Miller,sophia.miller73@example.com,Middle East,Organic Search,2023-03-14,2023-03-14,1,3,1,131,Needs Attention
+CUST-1652,532,1,149.99,Evelyn Martinez,evelyn.martinez55@example.com,Latin America,Organic Search,2023-07-19,2023-07-19,1,3,2,132,Needs Attention
+CUST-1653,687,1,213.6,Olivia Williams,olivia.williams46@example.com,Latin America,Paid Search,2023-02-14,2023-02-14,1,3,3,133,Needs Attention
+CUST-1654,387,5,587.8,Evelyn Garcia,evelyn.garcia95@example.com,North America,Paid Search,2023-04-06,2023-12-11,2,5,4,254,Loyal Customers
+CUST-1655,295,4,356.48,Charlotte Wilson,charlotte.wilson19@example.com,Asia-Pacific,Organic Search,2023-12-19,2024-03-12,3,4,4,344,Loyal Customers
+CUST-1656,356,7,658.55,Oliver Wilson,oliver.wilson59@example.com,Europe,Organic Search,2023-02-09,2024-01-11,3,5,5,355,Loyal Customers
+CUST-1657,164,4,801.55,Emma Martinez,emma.martinez52@example.com,Asia-Pacific,Organic Search,2024-01-12,2024-07-21,4,4,5,445,Champions
+CUST-1658,203,1,126.0,Oliver Davis,oliver.davis30@example.com,North America,Social Media,2024-06-12,2024-06-12,4,3,2,432,Loyal Customers
+CUST-1659,315,1,28.5,Benjamin Williams,benjamin.williams84@example.com,Middle East,Paid Search,2024-02-21,2024-02-21,3,3,1,331,Loyal Customers
+CUST-1660,124,3,876.5,Emma Jones,emma.jones47@example.com,Europe,Social Media,2024-04-28,2024-08-30,4,4,5,445,Champions
+CUST-1661,679,1,61.28,Oliver Williams,oliver.williams80@example.com,North America,Social Media,2023-02-22,2023-02-22,1,3,1,131,Needs Attention
+CUST-1662,445,1,54.0,Aiden Martinez,aiden.martinez29@example.com,Asia-Pacific,Social Media,2023-10-14,2023-10-14,2,3,1,231,Needs Attention
+CUST-1663,141,2,162.0,Lucas Davis,lucas.davis69@example.com,North America,Social Media,2024-07-21,2024-08-13,4,4,3,443,Champions
+CUST-1664,239,7,1455.01,Chloe Martin,chloe.martin57@example.com,Middle East,Email Marketing,2023-11-18,2024-05-07,3,5,5,355,Loyal Customers
+CUST-1665,125,5,1413.98,Alex Thomas,alex.thomas77@example.com,Europe,Paid Search,2024-01-02,2024-08-29,4,5,5,455,Champions
+CUST-1666,46,5,651.75,Oliver Brown,oliver.brown95@example.com,Middle East,Paid Search,2024-03-14,2024-11-16,5,5,5,555,Champions
+CUST-1667,597,1,115.0,Lucas Martinez,lucas.martinez19@example.com,Latin America,Paid Search,2023-05-15,2023-05-15,1,3,2,132,Needs Attention
+CUST-1668,433,3,561.27,Oliver Davis,oliver.davis28@example.com,Latin America,Referral,2023-06-03,2023-10-26,2,4,4,244,Loyal Customers
+CUST-1669,49,1,175.0,Ava Jackson,ava.jackson24@example.com,Latin America,Paid Search,2024-11-13,2024-11-13,5,3,3,533,Loyal Customers
+CUST-1670,639,1,350.0,Isabella Williams,isabella.williams12@example.com,Asia-Pacific,Organic Search,2023-04-03,2023-04-03,1,3,4,134,Needs Attention
+CUST-1671,541,1,115.0,Ava Garcia,ava.garcia38@example.com,Europe,Email Marketing,2023-07-10,2023-07-10,1,3,2,132,Needs Attention
+CUST-1672,564,4,748.04,Lucas Jones,lucas.jones50@example.com,North America,Email Marketing,2023-01-28,2023-06-17,1,4,5,145,Loyal Customers
+CUST-1673,46,5,1076.46,Aiden Garcia,aiden.garcia81@example.com,Latin America,Referral,2024-05-08,2024-11-16,5,5,5,555,Champions
+CUST-1674,638,1,127.49,Liam Rodriguez,liam.rodriguez19@example.com,Europe,Social Media,2023-04-04,2023-04-04,1,3,2,132,Needs Attention
+CUST-1675,184,2,233.05,Sophia Jones,sophia.jones87@example.com,Europe,Paid Search,2024-06-03,2024-07-01,4,4,3,443,Champions
+CUST-1676,101,3,181.4,Chloe Jackson,chloe.jackson35@example.com,Europe,Social Media,2024-05-10,2024-09-22,4,4,3,443,Champions
+CUST-1677,673,1,38.0,Sophia Rodriguez,sophia.rodriguez59@example.com,North America,Social Media,2023-02-28,2023-02-28,1,3,1,131,Needs Attention
+CUST-1678,244,2,304.79,Aiden Brown,aiden.brown25@example.com,Middle East,Email Marketing,2024-03-20,2024-05-02,3,4,3,343,Loyal Customers
+CUST-1679,332,4,371.99,Sophia Miller,sophia.miller79@example.com,Latin America,Social Media,2023-06-20,2024-02-04,3,4,4,344,Loyal Customers
+CUST-1680,183,1,472.5,Sophia Lopez,sophia.lopez60@example.com,Europe,Paid Search,2024-07-02,2024-07-02,4,3,4,434,Loyal Customers
+CUST-1681,109,1,35.7,Chloe Taylor,chloe.taylor82@example.com,Latin America,Organic Search,2024-09-14,2024-09-14,4,3,1,431,Loyal Customers
+CUST-1682,587,2,118.5,Isabella Martinez,isabella.martinez72@example.com,North America,Referral,2023-05-08,2023-05-25,1,4,2,142,At Risk Spenders
+CUST-1683,666,1,350.0,Ava Hernandez,ava.hernandez46@example.com,Asia-Pacific,Paid Search,2023-03-07,2023-03-07,1,3,4,134,Needs Attention
+CUST-1684,488,3,344.48,Evelyn Martinez,evelyn.martinez18@example.com,Middle East,Paid Search,2023-05-19,2023-09-01,2,4,4,244,Loyal Customers
+CUST-1685,198,1,89.0,Chloe Davis,chloe.davis42@example.com,North America,Referral,2024-06-17,2024-06-17,4,3,2,432,Loyal Customers
+CUST-1686,369,1,79.99,Olivia Brown,olivia.brown89@example.com,North America,Paid Search,2023-12-29,2023-12-29,2,3,2,232,Needs Attention
+CUST-1687,666,1,139.0,Olivia Anderson,olivia.anderson79@example.com,Europe,Social Media,2023-03-07,2023-03-07,1,3,2,132,Needs Attention
+CUST-1688,50,4,190.0,Lucas Gonzalez,lucas.gonzalez78@example.com,Middle East,Email Marketing,2024-07-09,2024-11-12,5,4,3,543,Champions
+CUST-1689,153,1,43.2,Sophia Anderson,sophia.anderson65@example.com,Europe,Organic Search,2024-08-01,2024-08-01,4,3,1,431,Loyal Customers
+CUST-1690,614,4,392.98,Charlotte Jones,charlotte.jones93@example.com,North America,Social Media,2023-02-06,2023-04-28,1,4,4,144,Loyal Customers
+CUST-1691,653,1,54.0,Noah Hernandez,noah.hernandez86@example.com,North America,Email Marketing,2023-03-20,2023-03-20,1,3,1,131,Needs Attention
+CUST-1692,637,1,82.8,Olivia Lopez,olivia.lopez97@example.com,Asia-Pacific,Referral,2023-04-05,2023-04-05,1,3,2,132,Needs Attention
+CUST-1693,466,3,347.5,Harper Jackson,harper.jackson35@example.com,North America,Organic Search,2023-08-05,2023-09-23,2,4,4,244,Loyal Customers
+CUST-1694,425,3,858.0,Lucas Thomas,lucas.thomas30@example.com,Asia-Pacific,Email Marketing,2023-07-21,2023-11-03,2,4,5,245,Loyal Customers
+CUST-1695,326,1,38.0,Ethan Lopez,ethan.lopez55@example.com,Asia-Pacific,Referral,2024-02-10,2024-02-10,3,3,1,331,Loyal Customers
+CUST-1696,470,1,350.0,Liam Davis,liam.davis95@example.com,Latin America,Email Marketing,2023-09-19,2023-09-19,2,3,4,234,Needs Attention
+CUST-1697,56,1,143.98,Isabella Thomas,isabella.thomas45@example.com,North America,Paid Search,2024-11-06,2024-11-06,5,3,2,532,Loyal Customers
+CUST-1698,537,1,51.3,Benjamin Anderson,benjamin.anderson42@example.com,Middle East,Social Media,2023-07-14,2023-07-14,1,3,1,131,Needs Attention
+CUST-1699,456,5,558.0,Ava Lopez,ava.lopez77@example.com,North America,Social Media,2023-02-26,2023-10-03,2,5,4,254,Loyal Customers
+CUST-1700,187,1,28.5,Lucas Moore,lucas.moore65@example.com,Asia-Pacific,Organic Search,2024-06-28,2024-06-28,4,3,1,431,Loyal Customers
+CUST-1701,83,2,107.5,Benjamin Thomas,benjamin.thomas10@example.com,Asia-Pacific,Social Media,2024-07-19,2024-10-10,5,4,2,542,Champions
+CUST-1702,283,3,550.98,Alex Martinez,cust-1702@unverified.customer.com,North America,Social Media,2023-06-12,2024-03-24,3,4,4,344,Loyal Customers
+CUST-1703,48,3,298.19,Ethan Wilson,ethan.wilson42@example.com,North America,Social Media,2024-07-10,2024-11-14,5,4,3,543,Champions
+CUST-1704,206,1,34.5,Harper Thomas,harper.thomas39@example.com,North America,Social Media,2024-06-09,2024-06-09,4,3,1,431,Loyal Customers
+CUST-1705,459,1,97.2,Olivia Johnson,olivia.johnson62@example.com,North America,Email Marketing,2023-09-30,2023-09-30,2,3,2,232,Needs Attention
+CUST-1706,544,1,149.99,Emma Johnson,emma.johnson74@example.com,Middle East,Referral,2023-07-07,2023-07-07,1,3,2,132,Needs Attention
+CUST-1707,57,2,254.23,Chloe Martin,chloe.martin65@example.com,Asia-Pacific,Email Marketing,2024-09-25,2024-11-05,5,4,3,543,Champions
+CUST-1708,209,1,458.0,Ava Gonzalez,ava.gonzalez60@example.com,Middle East,Paid Search,2024-06-06,2024-06-06,3,3,4,334,Loyal Customers
+CUST-1709,114,4,597.5,Aiden Martin,aiden.martin53@example.com,Asia-Pacific,Social Media,2024-05-10,2024-09-09,4,4,4,444,Champions
+CUST-1710,331,1,107.99,Emma Martin,emma.martin27@example.com,Europe,Social Media,2024-02-05,2024-02-05,3,3,2,332,Loyal Customers
+CUST-1711,202,1,350.0,Harper Garcia,harper.garcia85@example.com,Middle East,Organic Search,2024-06-13,2024-06-13,4,3,4,434,Loyal Customers
+CUST-1712,293,1,162.0,Daniel Williams,daniel.williams71@example.com,Latin America,Organic Search,2024-03-14,2024-03-14,3,3,3,333,Loyal Customers
+CUST-1713,260,1,175.0,Mia Moore,mia.moore17@example.com,Asia-Pacific,Social Media,2024-04-16,2024-04-16,3,3,3,333,Loyal Customers
+CUST-1714,231,1,110.4,Ava Rodriguez,ava.rodriguez49@example.com,Europe,Referral,2024-05-15,2024-05-15,3,3,2,332,Loyal Customers
+CUST-1715,590,1,239.98,Lucas Williams,lucas.williams47@example.com,Middle East,Social Media,2023-05-22,2023-05-22,1,3,3,133,Needs Attention
+CUST-1716,365,3,147.0,Aiden Anderson,aiden.anderson58@example.com,Latin America,Organic Search,2023-11-14,2024-01-02,2,4,2,242,At Risk Spenders
+CUST-1717,370,1,42.0,Aiden Williams,aiden.williams18@example.com,Europe,Organic Search,2023-12-28,2023-12-28,2,3,1,231,Needs Attention
+CUST-1718,509,1,89.0,Charlotte Davis,charlotte.davis50@example.com,North America,Email Marketing,2023-08-11,2023-08-11,2,3,2,232,Needs Attention
+CUST-1719,560,1,115.0,Chloe Thomas,chloe.thomas57@example.com,Latin America,Referral,2023-06-21,2023-06-21,1,3,2,132,Needs Attention
+CUST-1720,663,1,28.5,Harper Martinez,harper.martinez51@example.com,Europe,Social Media,2023-03-10,2023-03-10,1,3,1,131,Needs Attention
+CUST-1721,43,9,1301.45,Charlotte Johnson,charlotte.johnson31@example.com,Middle East,Social Media,2023-07-27,2024-11-19,5,5,5,555,Champions
+CUST-1722,50,2,247.0,Lucas Gonzalez,lucas.gonzalez11@example.com,Latin America,Social Media,2024-09-06,2024-11-12,5,4,3,543,Champions
+CUST-1723,400,1,446.25,Chloe Lopez,chloe.lopez73@example.com,Asia-Pacific,Organic Search,2023-11-28,2023-11-28,2,3,4,234,Needs Attention
+CUST-1724,514,2,378.75,Mia Wilson,cust-1724@unverified.customer.com,North America,Referral,2023-07-19,2023-08-06,2,4,4,244,Loyal Customers
+CUST-1725,306,1,239.98,Sophia Anderson,sophia.anderson92@example.com,Middle East,Organic Search,2024-03-01,2024-03-01,3,3,3,333,Loyal Customers
+CUST-1726,231,5,547.0,Benjamin Gonzalez,benjamin.gonzalez95@example.com,Asia-Pacific,Social Media,2024-01-20,2024-05-15,3,5,4,354,Loyal Customers
+CUST-1727,274,2,417.0,Ethan Jackson,ethan.jackson85@example.com,Middle East,Paid Search,2024-03-11,2024-04-02,3,4,4,344,Loyal Customers
+CUST-1728,78,1,30.4,Evelyn Thomas,evelyn.thomas72@example.com,Latin America,Email Marketing,2024-10-15,2024-10-15,5,3,1,531,Loyal Customers
+CUST-1729,356,3,340.05,Lucas Thomas,lucas.thomas13@example.com,Asia-Pacific,Paid Search,2023-10-16,2024-01-11,3,4,4,344,Loyal Customers
+CUST-1730,32,4,322.1,Noah Jackson,noah.jackson72@example.com,Europe,Organic Search,2024-04-29,2024-11-30,5,4,4,544,Champions
+CUST-1731,47,5,421.5,Daniel Wilson,daniel.wilson52@example.com,Latin America,Referral,2024-03-27,2024-11-15,5,5,4,554,Champions
+CUST-1732,43,1,34.5,Sophia Jackson,sophia.jackson27@example.com,Europe,Email Marketing,2024-11-19,2024-11-19,5,3,1,531,Loyal Customers
+CUST-1733,200,1,341.97,Liam Johnson,liam.johnson56@example.com,Asia-Pacific,Referral,2024-06-15,2024-06-15,4,3,4,434,Loyal Customers
+CUST-1734,383,5,816.0,Lucas Thomas,lucas.thomas72@example.com,Asia-Pacific,Referral,2023-07-15,2023-12-15,2,5,5,255,Loyal Customers
+CUST-1735,584,1,175.0,Mia Martin,mia.martin52@example.com,Asia-Pacific,Organic Search,2023-05-28,2023-05-28,1,3,3,133,Needs Attention
+CUST-1736,111,1,157.5,Liam Lopez,liam.lopez62@example.com,Asia-Pacific,Paid Search,2024-09-12,2024-09-12,4,3,3,433,Loyal Customers
+CUST-1737,659,1,159.98,Evelyn Miller,evelyn.miller97@example.com,Middle East,Email Marketing,2023-03-14,2023-03-14,1,3,3,133,Needs Attention
+CUST-1738,405,1,149.99,Evelyn Jackson,evelyn.jackson98@example.com,North America,Email Marketing,2023-11-23,2023-11-23,2,3,2,232,Needs Attention
+CUST-1739,242,1,38.0,James Gonzalez,james.gonzalez54@example.com,North America,Referral,2024-05-04,2024-05-04,3,3,1,331,Loyal Customers
+CUST-1740,194,5,401.3,Charlotte Wilson,charlotte.wilson76@example.com,Latin America,Paid Search,2024-02-14,2024-06-21,4,5,4,454,Champions
+CUST-1741,374,1,194.65,Daniel Martinez,daniel.martinez67@example.com,Asia-Pacific,Organic Search,2023-12-24,2023-12-24,2,3,3,233,Needs Attention
+CUST-1742,273,4,303.4,Lucas Smith,cust-1742@unverified.customer.com,North America,Email Marketing,2023-10-03,2024-04-03,3,4,3,343,Loyal Customers
+CUST-1743,284,1,38.0,Noah Brown,noah.brown31@example.com,Asia-Pacific,Paid Search,2024-03-23,2024-03-23,3,3,1,331,Loyal Customers
+CUST-1744,496,3,225.49,Alex Wilson,alex.wilson91@example.com,Middle East,Email Marketing,2023-04-17,2023-08-24,2,4,3,243,At Risk Spenders
+CUST-1745,127,1,38.0,Harper Gonzalez,harper.gonzalez83@example.com,Asia-Pacific,Email Marketing,2024-08-27,2024-08-27,4,3,1,431,Loyal Customers
+CUST-1746,125,3,245.99,Benjamin Martin,benjamin.martin69@example.com,Europe,Referral,2024-04-16,2024-08-29,4,4,3,443,Champions
+CUST-1747,325,1,124.2,Harper Smith,harper.smith47@example.com,Middle East,Email Marketing,2024-02-11,2024-02-11,3,3,2,332,Loyal Customers
+CUST-1748,223,8,1033.2,Lucas Martin,lucas.martin68@example.com,Asia-Pacific,Referral,2023-06-27,2024-05-23,3,5,5,355,Loyal Customers
+CUST-1749,164,4,604.45,Emma Martin,emma.martin90@example.com,Asia-Pacific,Organic Search,2024-04-15,2024-07-21,4,4,4,444,Champions
+CUST-1750,409,1,34.5,Lucas Lopez,lucas.lopez31@example.com,Latin America,Paid Search,2023-11-19,2023-11-19,2,3,1,231,Needs Attention
+CUST-1751,624,1,86.4,Liam Rodriguez,liam.rodriguez31@example.com,Europe,Referral,2023-04-18,2023-04-18,1,3,2,132,Needs Attention
+CUST-1752,20,2,453.0,Oliver Smith,oliver.smith49@example.com,Latin America,Organic Search,2024-11-04,2024-12-12,5,4,4,544,Champions
+CUST-1753,232,4,323.0,James Garcia,james.garcia20@example.com,Asia-Pacific,Paid Search,2023-12-30,2024-05-14,3,4,4,344,Loyal Customers
+CUST-1754,223,5,704.0,Alex Rodriguez,alex.rodriguez40@example.com,Europe,Organic Search,2023-10-02,2024-05-23,3,5,5,355,Loyal Customers
+CUST-1755,178,1,69.0,Emma Davis,emma.davis56@example.com,Middle East,Referral,2024-07-07,2024-07-07,4,3,1,431,Loyal Customers
+CUST-1756,135,8,1112.52,Noah Moore,noah.moore37@example.com,North America,Social Media,2023-10-17,2024-08-19,4,5,5,455,Champions
+CUST-1757,171,6,462.08,Noah Moore,noah.moore91@example.com,Middle East,Paid Search,2023-12-06,2024-07-14,4,5,4,454,Champions
+CUST-1758,331,1,28.5,Lucas Williams,lucas.williams39@example.com,Latin America,Organic Search,2024-02-05,2024-02-05,3,3,1,331,Loyal Customers
+CUST-1759,514,1,119.99,Charlotte Lopez,charlotte.lopez36@example.com,Latin America,Email Marketing,2023-08-06,2023-08-06,2,3,2,232,Needs Attention
+CUST-1760,4,4,1037.06,Chloe Anderson,chloe.anderson74@example.com,Europe,Organic Search,2024-10-11,2024-12-28,5,4,5,545,Champions
+CUST-1761,403,1,27.6,Ava Gonzalez,ava.gonzalez69@example.com,Europe,Social Media,2023-11-25,2023-11-25,2,3,1,231,Needs Attention
+CUST-1762,20,7,746.02,Harper Hernandez,harper.hernandez13@example.com,Latin America,Referral,2023-10-20,2024-12-12,5,5,5,555,Champions
+CUST-1763,587,2,154.49,Mia Hernandez,mia.hernandez86@example.com,Europe,Email Marketing,2023-05-06,2023-05-25,1,4,2,142,At Risk Spenders
+CUST-1764,591,1,115.0,Alex Davis,alex.davis88@example.com,Middle East,Social Media,2023-05-21,2023-05-21,1,3,2,132,Needs Attention
+CUST-1765,242,2,95.78,Aiden Gonzalez,aiden.gonzalez23@example.com,North America,Paid Search,2024-02-12,2024-05-04,3,4,2,342,Loyal Customers
+CUST-1766,393,1,84.0,James Rodriguez,james.rodriguez70@example.com,North America,Email Marketing,2023-12-05,2023-12-05,2,3,2,232,Needs Attention
+CUST-1767,39,9,1754.49,James Taylor,james.taylor10@example.com,Latin America,Referral,2023-06-28,2024-11-23,5,5,5,555,Champions
+CUST-1768,401,9,1130.89,Isabella Brown,cust-1768@unverified.customer.com,North America,Email Marketing,2023-03-20,2023-11-27,2,5,5,255,Loyal Customers
+CUST-1769,635,3,557.98,Benjamin Jackson,benjamin.jackson34@example.com,Europe,Email Marketing,2023-01-29,2023-04-07,1,4,4,144,Loyal Customers
+CUST-1770,141,1,139.0,Lucas Jackson,lucas.jackson20@example.com,Asia-Pacific,Organic Search,2024-08-13,2024-08-13,4,3,2,432,Loyal Customers
+CUST-1771,78,1,34.5,Benjamin Smith,benjamin.smith11@example.com,Latin America,Email Marketing,2024-10-15,2024-10-15,5,3,1,531,Loyal Customers
+CUST-1772,424,1,62.55,James Martinez,james.martinez39@example.com,Middle East,Referral,2023-11-04,2023-11-04,2,3,1,231,Needs Attention
+CUST-1773,3,5,999.97,Ethan Hernandez,ethan.hernandez63@example.com,Latin America,Email Marketing,2024-05-03,2024-12-29,5,5,5,555,Champions
+CUST-1774,645,1,54.0,Alex Martinez,alex.martinez52@example.com,Middle East,Social Media,2023-03-28,2023-03-28,1,3,1,131,Needs Attention
+CUST-1775,115,2,157.99,James Taylor,james.taylor93@example.com,Asia-Pacific,Paid Search,2024-07-22,2024-09-08,4,4,3,443,Champions
+CUST-1776,448,4,734.5,Isabella Johnson,isabella.johnson58@example.com,Latin America,Organic Search,2023-04-08,2023-10-11,2,4,5,245,Loyal Customers
+CUST-1777,472,1,34.5,Daniel Gonzalez,daniel.gonzalez85@example.com,Asia-Pacific,Organic Search,2023-09-17,2023-09-17,2,3,1,231,Needs Attention
+CUST-1778,658,1,229.0,Emma Thomas,emma.thomas74@example.com,Asia-Pacific,Paid Search,2023-03-15,2023-03-15,1,3,3,133,Needs Attention
+CUST-1779,230,3,327.0,Daniel Taylor,daniel.taylor64@example.com,Middle East,Paid Search,2024-02-08,2024-05-16,3,4,4,344,Loyal Customers
+CUST-1780,627,2,697.98,Oliver Gonzalez,oliver.gonzalez19@example.com,Latin America,Paid Search,2023-02-17,2023-04-15,1,4,5,145,Loyal Customers
+CUST-1781,254,1,69.5,Chloe Hernandez,chloe.hernandez28@example.com,Middle East,Paid Search,2024-04-22,2024-04-22,3,3,1,331,Loyal Customers
+CUST-1782,571,1,119.99,Noah Jackson,noah.jackson19@example.com,Europe,Referral,2023-06-10,2023-06-10,1,3,2,132,Needs Attention
+CUST-1783,225,3,486.5,Benjamin Gonzalez,benjamin.gonzalez92@example.com,Latin America,Organic Search,2024-02-29,2024-05-21,3,4,4,344,Loyal Customers
+CUST-1784,334,2,587.97,Lucas Davis,lucas.davis43@example.com,Middle East,Organic Search,2023-12-24,2024-02-02,3,4,4,344,Loyal Customers
+CUST-1785,348,1,28.5,Oliver Jackson,cust-1785@unverified.customer.com,Latin America,Social Media,2024-01-19,2024-01-19,3,3,1,331,Loyal Customers
+CUST-1786,45,10,1987.92,Emma Martinez,emma.martinez92@example.com,Asia-Pacific,Email Marketing,2023-07-05,2024-11-17,5,5,5,555,Champions
+CUST-1787,553,5,611.62,Daniel Thomas,daniel.thomas79@example.com,Latin America,Paid Search,2023-01-03,2023-06-28,1,5,4,154,Loyal Customers
+CUST-1788,158,1,69.5,Liam Davis,liam.davis78@example.com,Latin America,Paid Search,2024-07-27,2024-07-27,4,3,1,431,Loyal Customers
+CUST-1789,617,1,687.0,Ava Jones,ava.jones44@example.com,North America,Email Marketing,2023-04-25,2023-04-25,1,3,5,135,Needs Attention
+CUST-1790,682,3,194.2,Isabella Anderson,isabella.anderson10@example.com,Middle East,Paid Search,2023-01-13,2023-02-19,1,4,3,143,At Risk Spenders
+CUST-1791,117,1,299.98,Evelyn Martinez,evelyn.martinez69@example.com,Latin America,Email Marketing,2024-09-06,2024-09-06,4,3,3,433,Loyal Customers
+CUST-1792,58,1,148.75,Benjamin Moore,benjamin.moore95@example.com,Latin America,Paid Search,2024-11-04,2024-11-04,5,3,2,532,Loyal Customers
+CUST-1793,396,1,175.0,Lucas Martinez,lucas.martinez37@example.com,North America,Social Media,2023-12-02,2023-12-02,2,3,3,233,Needs Attention
+CUST-1794,595,1,168.0,Alex Wilson,alex.wilson33@example.com,Asia-Pacific,Paid Search,2023-05-17,2023-05-17,1,3,3,133,Needs Attention
+CUST-1795,20,12,1687.17,Daniel Smith,daniel.smith78@example.com,Europe,Email Marketing,2023-03-24,2024-12-12,5,5,5,555,Champions
+CUST-1796,30,2,143.98,Lucas Wilson,lucas.wilson26@example.com,Asia-Pacific,Social Media,2024-10-30,2024-12-02,5,4,2,542,Champions
+CUST-1797,357,1,319.96,James Miller,james.miller15@example.com,Europe,Referral,2024-01-10,2024-01-10,2,3,3,233,Needs Attention
+CUST-1798,239,1,258.0,Daniel Moore,daniel.moore61@example.com,Europe,Organic Search,2024-05-07,2024-05-07,3,3,3,333,Loyal Customers
+CUST-1799,703,1,229.0,Isabella Wilson,cust-1799@unverified.customer.com,North America,Organic Search,2023-01-29,2023-01-29,1,3,3,133,Needs Attention
+CUST-1800,5,2,151.51999999999998,Olivia Anderson,olivia.anderson77@example.com,Latin America,Referral,2024-11-13,2024-12-27,5,4,2,542,Champions
+CUST-1801,59,1,149.99,Aiden Davis,aiden.davis51@example.com,Latin America,Referral,2024-11-03,2024-11-03,5,3,2,532,Loyal Customers
+CUST-1802,685,1,57.0,Sophia Jones,sophia.jones55@example.com,Europe,Referral,2023-02-16,2023-02-16,1,3,1,131,Needs Attention
+CUST-1803,345,1,239.97,Harper Garcia,harper.garcia27@example.com,North America,Email Marketing,2024-01-22,2024-01-22,3,3,3,333,Loyal Customers
+CUST-1804,533,1,175.0,Liam Rodriguez,liam.rodriguez47@example.com,Asia-Pacific,Email Marketing,2023-07-18,2023-07-18,1,3,3,133,Needs Attention
+CUST-1805,327,1,34.5,Chloe Moore,chloe.moore57@example.com,Europe,Social Media,2024-02-09,2024-02-09,3,3,1,331,Loyal Customers
+CUST-1806,552,3,417.28,Oliver Smith,oliver.smith19@example.com,Middle East,Referral,2023-03-22,2023-06-29,1,4,4,144,Loyal Customers
+CUST-1807,149,1,72.68,Isabella Anderson,isabella.anderson97@example.com,Middle East,Organic Search,2024-08-05,2024-08-05,4,3,2,432,Loyal Customers
+CUST-1808,127,1,38.0,Benjamin Brown,benjamin.brown80@example.com,Latin America,Paid Search,2024-08-27,2024-08-27,4,3,1,431,Loyal Customers
+CUST-1809,600,1,149.99,Daniel Anderson,daniel.anderson90@example.com,Asia-Pacific,Paid Search,2023-05-12,2023-05-12,1,3,2,132,Needs Attention
+CUST-1810,331,3,215.99,Harper Gonzalez,harper.gonzalez41@example.com,Asia-Pacific,Paid Search,2023-10-04,2024-02-05,3,4,3,343,Loyal Customers
+CUST-1811,108,8,1528.51,Evelyn Moore,evelyn.moore49@example.com,Asia-Pacific,Email Marketing,2023-07-14,2024-09-15,4,5,5,455,Champions
+CUST-1812,588,1,64.5,Alex Hernandez,alex.hernandez52@example.com,North America,Referral,2023-05-24,2023-05-24,1,3,1,131,Needs Attention
+CUST-1813,14,2,217.0,Noah Moore,noah.moore23@example.com,Europe,Referral,2024-10-26,2024-12-18,5,4,3,543,Champions
+CUST-1814,45,4,450.47,Ava Jones,ava.jones88@example.com,Asia-Pacific,Referral,2024-06-27,2024-11-17,5,4,4,544,Champions
+CUST-1815,277,1,34.5,Harper Jones,harper.jones68@example.com,Middle East,Referral,2024-03-30,2024-03-30,3,3,1,331,Loyal Customers
+CUST-1816,562,1,229.0,Emma Rodriguez,emma.rodriguez63@example.com,Middle East,Referral,2023-06-19,2023-06-19,1,3,3,133,Needs Attention
+CUST-1817,406,5,886.59,Harper Smith,harper.smith22@example.com,Europe,Paid Search,2023-04-16,2023-11-22,2,5,5,255,Loyal Customers
+CUST-1818,265,1,193.5,Emma Jackson,emma.jackson76@example.com,Asia-Pacific,Email Marketing,2024-04-11,2024-04-11,3,3,3,333,Loyal Customers
+CUST-1819,458,1,54.0,James Gonzalez,james.gonzalez20@example.com,Middle East,Paid Search,2023-10-01,2023-10-01,2,3,1,231,Needs Attention
+CUST-1820,697,1,191.98,Daniel Hernandez,cust-1820@unverified.customer.com,North America,Referral,2023-02-04,2023-02-04,1,3,3,133,Needs Attention
+CUST-1821,78,2,98.0,Noah Moore,noah.moore93@example.com,Europe,Paid Search,2024-09-14,2024-10-15,5,4,2,542,Champions
+CUST-1822,88,1,149.99,Ava Taylor,ava.taylor17@example.com,North America,Organic Search,2024-10-05,2024-10-05,4,3,2,432,Loyal Customers
+CUST-1823,286,1,109.25,Sophia Lopez,sophia.lopez74@example.com,North America,Email Marketing,2024-03-21,2024-03-21,3,3,2,332,Loyal Customers
+CUST-1824,628,1,216.0,Ethan Garcia,ethan.garcia25@example.com,Asia-Pacific,Social Media,2023-04-14,2023-04-14,1,3,3,133,Needs Attention
+CUST-1825,192,6,924.16,Mia Smith,mia.smith22@example.com,North America,Referral,2023-10-22,2024-06-23,4,5,5,455,Champions
+CUST-1826,463,1,129.0,Ava Williams,ava.williams19@example.com,Europe,Organic Search,2023-09-26,2023-09-26,2,3,2,232,Needs Attention
+CUST-1827,42,2,183.14999999999998,Benjamin Rodriguez,benjamin.rodriguez16@example.com,Latin America,Paid Search,2024-10-15,2024-11-20,5,4,3,543,Champions
+CUST-1828,19,5,577.63,Aiden Davis,aiden.davis97@example.com,Latin America,Email Marketing,2024-04-08,2024-12-13,5,5,4,554,Champions
+CUST-1829,397,7,1103.47,Harper Brown,harper.brown72@example.com,Europe,Organic Search,2023-02-03,2023-12-01,2,5,5,255,Loyal Customers
+CUST-1830,437,2,229.64,Olivia Taylor,olivia.taylor69@example.com,Asia-Pacific,Referral,2023-10-05,2023-10-22,2,4,3,243,At Risk Spenders
+CUST-1831,594,1,69.5,Lucas Martinez,lucas.martinez81@example.com,North America,Email Marketing,2023-05-18,2023-05-18,1,3,1,131,Needs Attention
+CUST-1832,78,2,157.5,Daniel Davis,daniel.davis82@example.com,North America,Paid Search,2024-09-17,2024-10-15,5,4,3,543,Champions
+CUST-1833,52,3,385.9,Alex Martinez,alex.martinez28@example.com,North America,Paid Search,2024-07-29,2024-11-10,5,4,4,544,Champions
+CUST-1834,584,1,229.0,Ava Brown,ava.brown44@example.com,Latin America,Social Media,2023-05-28,2023-05-28,1,3,3,133,Needs Attention
+CUST-1835,679,1,230.0,Olivia Anderson,olivia.anderson90@example.com,North America,Social Media,2023-02-22,2023-02-22,1,3,3,133,Needs Attention
+CUST-1836,416,1,59.08,Daniel Miller,daniel.miller77@example.com,Asia-Pacific,Social Media,2023-11-12,2023-11-12,2,3,1,231,Needs Attention
+CUST-1837,496,1,113.99,Evelyn Martin,evelyn.martin74@example.com,North America,Paid Search,2023-08-24,2023-08-24,2,3,2,232,Needs Attention
+CUST-1838,215,10,1399.48,Olivia Gonzalez,olivia.gonzalez97@example.com,Latin America,Organic Search,2023-03-07,2024-05-31,3,5,5,355,Loyal Customers
+CUST-1839,241,1,226.95,Alex Lopez,alex.lopez49@example.com,Asia-Pacific,Email Marketing,2024-05-05,2024-05-05,3,3,3,333,Loyal Customers
+CUST-1840,48,1,42.0,Charlotte Davis,charlotte.davis90@example.com,Middle East,Email Marketing,2024-11-14,2024-11-14,5,3,1,531,Loyal Customers
+CUST-1841,166,12,1642.67,Mia Martinez,mia.martinez92@example.com,Asia-Pacific,Referral,2023-01-24,2024-07-19,4,5,5,455,Champions
+CUST-1842,344,1,24.23,Harper Miller,harper.miller33@example.com,Latin America,Social Media,2024-01-23,2024-01-23,3,3,1,331,Loyal Customers
+CUST-1843,125,1,319.96,Evelyn Taylor,evelyn.taylor61@example.com,Asia-Pacific,Organic Search,2024-08-29,2024-08-29,4,3,3,433,Loyal Customers
+CUST-1844,245,1,267.0,Benjamin Wilson,benjamin.wilson35@example.com,North America,Referral,2024-05-01,2024-05-01,3,3,3,333,Loyal Customers
+CUST-1845,36,4,545.99,Liam Rodriguez,liam.rodriguez36@example.com,Latin America,Referral,2024-07-10,2024-11-26,5,4,4,544,Champions
+CUST-1846,28,6,820.1899999999999,Olivia Martin,olivia.martin20@example.com,Europe,Paid Search,2024-05-11,2024-12-04,5,5,5,555,Champions
+CUST-1847,4,5,508.47,Liam Rodriguez,liam.rodriguez72@example.com,Europe,Social Media,2024-08-02,2024-12-28,5,5,4,554,Champions
+CUST-1848,361,1,38.0,Alex Brown,alex.brown18@example.com,Middle East,Referral,2024-01-06,2024-01-06,2,3,1,231,Needs Attention
+CUST-1849,40,10,1206.78,Isabella Jackson,cust-1849@unverified.customer.com,North America,Email Marketing,2023-08-18,2024-11-22,5,5,5,555,Champions
+CUST-1850,346,1,84.0,Ethan Garcia,ethan.garcia25@example.com,Europe,Paid Search,2024-01-21,2024-01-21,3,3,2,332,Loyal Customers

@@ -1,0 +1,16 @@
+customer_region,regional_rank,customer_id,customer_name,total_regional_spend,total_orders
+Asia-Pacific,1,CUST-1356,Chloe Jackson,2506.17,7
+Asia-Pacific,2,CUST-1786,Emma Martinez,1987.92,10
+Asia-Pacific,3,CUST-1486,Aiden Davis,1840.99,10
+Europe,1,CUST-1147,Isabella Wilson,2522.66,12
+Europe,2,CUST-1795,Daniel Smith,1687.17,12
+Europe,3,CUST-1562,Oliver Wilson,1659.26,9
+Latin America,1,CUST-1484,Charlotte Lopez,2254.14,11
+Latin America,2,CUST-1090,Chloe Gonzalez,1795.89,13
+Latin America,3,CUST-1767,James Taylor,1754.49,9
+Middle East,1,CUST-1085,Daniel Martinez,2371.15,10
+Middle East,2,CUST-1015,Noah Garcia,1978.44,7
+Middle East,3,CUST-1037,Evelyn Davis,1820.97,12
+North America,1,CUST-1236,Ava Wilson,1429.95,6
+North America,2,CUST-1849,Isabella Jackson,1206.78,10
+North America,3,CUST-1363,Isabella Smith,1196.98,12

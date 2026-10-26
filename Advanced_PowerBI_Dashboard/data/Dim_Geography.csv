@@ -1,0 +1,11 @@
+City,State,Country,Region,Market,Geography_ID
+Sydney,New South Wales,Australia,APAC South,Asia-Pacific,GEO-100
+Los Angeles,California,United States,US West,North America,GEO-101
+Singapore,Central Region,Singapore,APAC Central,Asia-Pacific,GEO-102
+Tokyo,Tokyo,Japan,APAC East,Asia-Pacific,GEO-103
+Munich,Bavaria,Germany,EU Central,Europe,GEO-104
+New York City,New York,United States,US East,North America,GEO-105
+Chicago,Illinois,United States,US Central,North America,GEO-106
+Stockholm,Stockholm,Sweden,EU North,Europe,GEO-107
+London,Greater London,United Kingdom,EU West,Europe,GEO-108
+Houston,Texas,United States,US South,North America,GEO-109

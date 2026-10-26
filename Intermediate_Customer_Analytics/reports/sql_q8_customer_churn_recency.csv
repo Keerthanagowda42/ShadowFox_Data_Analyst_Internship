@@ -1,0 +1,5 @@
+retention_status,customer_count,pct_of_customers,total_segment_value,avg_customer_value
+Active (0-90 Days),183,21.53,113018.41,617.59
+Cooling Off (181-365 Days),220,25.88,81972.58,372.6
+Churned / Dormant (>365 Days),334,39.29,78979.46,236.47
+Warm (91-180 Days),113,13.29,53083.09,469.76

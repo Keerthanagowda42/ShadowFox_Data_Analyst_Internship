@@ -1,0 +1,198 @@
+/* ==============================================================================
+   ShadowFox Data Analyst Internship - Project 3 (Advanced Level)
+   DAX MEASURES LIBRARY: Enterprise Executive Business Intelligence Dashboard
+   Author: ShadowFox Data Analyst Intern
+   Compatible With: Power BI Desktop / Analysis Services (SSAS) / Fabric
+   Data Model: Star Schema (Fact_Orders, Fact_Targets, Dim_Date, Dim_Products, Dim_Customers, Dim_Geography)
+============================================================================== */
+
+// ==============================================================================
+// 1. CORE BASE MEASURES
+// ==============================================================================
+
+// 1.1 Total Sales Revenue
+Total Sales = 
+SUM(Fact_Orders[Sales])
+
+// 1.2 Total Production Cost of Goods Sold (COGS)
+Total Cost = 
+SUMX(Fact_Orders, Fact_Orders[Quantity] * RELATED(Dim_Products[Unit_Cost]))
+
+// 1.3 Total Net Operating Profit
+Total Profit = 
+SUM(Fact_Orders[Profit])
+
+// 1.4 Total Orders Placed
+Total Orders = 
+DISTINCTCOUNT(Fact_Orders[Order_ID])
+
+// 1.5 Total Units Sold
+Total Quantity = 
+SUM(Fact_Orders[Quantity])
+
+// 1.6 Total Active Customers
+Total Customers = 
+DISTINCTCOUNT(Fact_Orders[Customer_ID])
+
+// 1.7 Total Shipping Spend
+Total Shipping Cost = 
+SUM(Fact_Orders[Shipping_Cost])
+
+
+// ==============================================================================
+// 2. PROFITABILITY & FINANCIAL PERFORMANCE MEASURES
+// ==============================================================================
+
+// 2.1 Overall Profit Margin %
+Profit Margin % = 
+DIVIDE([Total Profit], [Total Sales], 0)
+
+// 2.2 Average Order Value (AOV)
+Average Order Value = 
+DIVIDE([Total Sales], [Total Orders], 0)
+
+// 2.3 Average Profit per Order
+Average Profit Per Order = 
+DIVIDE([Total Profit], [Total Orders], 0)
+
+// 2.4 Average Unit Selling Price
+Average Unit Price = 
+DIVIDE([Total Sales], [Total Quantity], 0)
+
+// 2.5 Average Discount Rate %
+Average Discount Rate = 
+AVERAGE(Fact_Orders[Discount])
+
+
+// ==============================================================================
+// 3. TIME INTELLIGENCE & YoY GROWTH MEASURES
+// ==============================================================================
+
+// 3.1 Year-to-Date (YTD) Sales
+Sales YTD = 
+TOTALYTD([Total Sales], Dim_Date[Date])
+
+// 3.2 Prior Year (PY) / Same Period Last Year Sales
+Sales PY = 
+CALCULATE(
+    [Total Sales],
+    SAMEPERIODLASTYEAR(Dim_Date[Date])
+)
+
+// 3.3 Year-over-Year (YoY) Sales Variance ($)
+Sales YoY Variance = 
+[Total Sales] - [Sales PY]
+
+// 3.4 Year-over-Year (YoY) Sales Growth %
+Sales YoY Growth % = 
+DIVIDE([Sales YoY Variance], [Sales PY], 0)
+
+// 3.5 Month-to-Date (MTD) Sales
+Sales MTD = 
+TOTALMTD([Total Sales], Dim_Date[Date])
+
+// 3.6 Year-to-Date (YTD) Profit
+Profit YTD = 
+TOTALYTD([Total Profit], Dim_Date[Date])
+
+// 3.7 Prior Year (PY) Profit
+Profit PY = 
+CALCULATE(
+    [Total Profit],
+    SAMEPERIODLASTYEAR(Dim_Date[Date])
+)
+
+// 3.8 Year-over-Year (YoY) Profit Growth %
+Profit YoY Growth % = 
+DIVIDE([Total Profit] - [Profit PY], [Profit PY], 0)
+
+// 3.9 3-Month Rolling Average Sales
+Sales 3M Rolling Avg = 
+CALCULATE(
+    DIVIDE([Total Sales], 3, 0),
+    DATESINPERIOD(Dim_Date[Date], MAX(Dim_Date[Date]), -3, MONTH)
+)
+
+
+// ==============================================================================
+// 4. OPERATIONAL, RETURN & LOGISTICS SLA MEASURES
+// ==============================================================================
+
+// 4.1 Total Returned Orders Count
+Total Returns = 
+CALCULATE(
+    COUNTROWS(Fact_Orders),
+    Fact_Orders[Returned] = "Yes"
+)
+
+// 4.2 Return Rate %
+Return Rate % = 
+DIVIDE([Total Returns], COUNTROWS(Fact_Orders), 0)
+
+// 4.3 Average Fulfillment Delivery Days
+Avg Delivery Days = 
+AVERAGE(Fact_Orders[Delivery_Days])
+
+// 4.4 On-Time Deliveries Count
+On Time Orders = 
+SUM(Fact_Orders[On_Time_Flag])
+
+// 4.5 On-Time Delivery Compliance %
+On-Time Delivery % = 
+DIVIDE([On Time Orders], COUNTROWS(Fact_Orders), 0)
+
+
+// ==============================================================================
+// 5. BUDGET TARGET & VARIANCE ANALYTICS
+// ==============================================================================
+
+// 5.1 Total Sales Target (from Fact_Targets)
+Total Target Sales = 
+SUM(Fact_Targets[Target_Sales])
+
+// 5.2 Total Profit Target
+Total Target Profit = 
+SUM(Fact_Targets[Target_Profit])
+
+// 5.3 Variance to Sales Target ($)
+Sales Target Variance = 
+[Total Sales] - [Total Target Sales]
+
+// 5.4 Sales Target Achievement %
+Sales Target Achievement % = 
+DIVIDE([Total Sales], [Total Target Sales], 0)
+
+// 5.5 Visual Target Status Indicator (KPI Card Unicode formatting)
+Target Status Indicator = 
+VAR _achievement = [Sales Target Achievement %]
+RETURN
+    SWITCH(
+        TRUE(),
+        ISBLANK(_achievement), "-",
+        _achievement >= 1.00, "🟢 Exceeded Target (" & FORMAT(_achievement, "0.0%") & ")",
+        _achievement >= 0.90, "🟡 Near Target (" & FORMAT(_achievement, "0.0%") & ")",
+        "🔴 Below Target (" & FORMAT(_achievement, "0.0%") & ")"
+    )
+
+
+// ==============================================================================
+// 6. DYNAMIC RANKING & CUSTOMER LIFETIME VALUE
+// ==============================================================================
+
+// 6.1 Dynamic Product Sales Rank
+Product Sales Rank = 
+RANKX(
+    ALLSELECTED(Dim_Products[Product_Name]),
+    [Total Sales],
+    ,
+    DESC,
+    Dense
+)
+
+// 6.2 Customer Lifetime Value (Average Spend per Customer)
+Customer Lifetime Value = 
+DIVIDE([Total Sales], [Total Customers], 0)
+
+// 6.3 Dynamic Top 10 Product Sales Indicator
+Is Top 10 Product = 
+IF([Product Sales Rank] <= 10, 1, 0)
