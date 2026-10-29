@@ -40,3 +40,4 @@ Thumbs.db
 # Large temporary scratch outputs
 *.tmp
 *.log
+*.zip
